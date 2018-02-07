@@ -21,8 +21,9 @@ void Producer(int n)
         if (_itemQueue.size() < QUEUE_SIZE)
         {
             std::lock_guard<std::mutex> lk(_mutex);
-            _itemQueue.push(i++);
+            _itemQueue.push(i);
             std::cout << "producing: " << i << std::endl;
+            ++i;
         }
         else
         {
@@ -40,7 +41,7 @@ void Consumer(int index)
 {
     while (!(_finished && _itemQueue.empty()))
     {
-        std::this_thread::sleep_for(std::chrono::seconds(1));
+        //        std::this_thread::sleep_for(std::chrono::seconds(1));
         std::unique_lock<std::mutex> lk(_mutex);
         _conditionVariable.wait(lk, [] { return _finished || !_itemQueue.empty(); });
         if (!_itemQueue.empty())
