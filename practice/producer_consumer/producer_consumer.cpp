@@ -38,14 +38,16 @@ void Producer(int n)
 
 void Consumer(int index)
 {
-    while (!_finished)
+    while (!(_finished && _itemQueue.empty()))
     {
         std::this_thread::sleep_for(std::chrono::seconds(1));
         std::unique_lock<std::mutex> lk(_mutex);
         _conditionVariable.wait(lk, [] { return _finished || !_itemQueue.empty(); });
-
-        std::cout << "consuming(" << index << "): " << _itemQueue.front() << std::endl;
-        _itemQueue.pop();
+        if (!_itemQueue.empty())
+        {
+            std::cout << "consuming(" << index << "): " << _itemQueue.front() << std::endl;
+            _itemQueue.pop();
+        }
     }
 }
 
