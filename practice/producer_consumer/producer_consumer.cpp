@@ -25,23 +25,19 @@ void Producer(int n)
             std::cout << "producing: " << i << std::endl;
             ++i;
         }
-        else
-        {
-            continue;
-        }
         _conditionVariable.notify_all();
     }
 
-    std::lock_guard<std::mutex> lk(_mutex);
     _finished = true;
     _conditionVariable.notify_all();
 }
 
 void Consumer(int index)
 {
-    while (!(_finished && _itemQueue.empty()))
+    do
     {
-        //        std::this_thread::sleep_for(std::chrono::seconds(1));
+        std::this_thread::sleep_for(std::chrono::milliseconds(1));
+
         std::unique_lock<std::mutex> lk(_mutex);
         _conditionVariable.wait(lk, [] { return _finished || !_itemQueue.empty(); });
         if (!_itemQueue.empty())
@@ -49,7 +45,7 @@ void Consumer(int index)
             std::cout << "consuming(" << index << "): " << _itemQueue.front() << std::endl;
             _itemQueue.pop();
         }
-    }
+    } while (!(_finished && _itemQueue.empty()));
 }
 
 void main()
