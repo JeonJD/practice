@@ -23,7 +23,11 @@ void main()
 
     for (std::thread* consumer : trdConsumers)
     {
-        consumer->join();
+        if (consumer)
+        {
+            consumer->join();
+            delete consumer;
+        }
     }
 
     std::cout << "finish" << std::endl;
