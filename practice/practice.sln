@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "producer_consumer_with_clas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "std_vector", "std_vector\std_vector.vcxproj", "{EE0C77F4-77FC-4EBA-834C-218725F03792}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToe", "TicTacToe\TicTacToe.vcxproj", "{AF6524AD-209B-472B-AA1B-C88773B4ACD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{EE0C77F4-77FC-4EBA-834C-218725F03792}.Release|x64.Build.0 = Release|x64
 		{EE0C77F4-77FC-4EBA-834C-218725F03792}.Release|x86.ActiveCfg = Release|Win32
 		{EE0C77F4-77FC-4EBA-834C-218725F03792}.Release|x86.Build.0 = Release|Win32
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Debug|x64.ActiveCfg = Debug|x64
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Debug|x64.Build.0 = Debug|x64
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Debug|x86.Build.0 = Debug|Win32
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Release|x64.ActiveCfg = Release|x64
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Release|x64.Build.0 = Release|x64
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Release|x86.ActiveCfg = Release|Win32
+		{AF6524AD-209B-472B-AA1B-C88773B4ACD3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
