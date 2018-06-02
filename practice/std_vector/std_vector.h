@@ -6,14 +6,15 @@ namespace std_vector
     {
     private:
         T *base;
-        size_t bcapacity;
-        size_t bsize;
+        size_t vCapacity;
+        size_t vSize;
 
     public:
         class iterator
         {
         private:
             T *pos;
+
         public:
             iterator(T *pos = 0)
             {
@@ -27,6 +28,14 @@ namespace std_vector
             {
                 return pos - iter.pos;
             }
+            iterator operator+ (const int index) const
+            {
+                return pos + index;
+            }
+            iterator operator- (const int index) const
+            {
+                return pos - index;
+            }
             iterator &operator++()
             {
                 pos++;
@@ -34,24 +43,94 @@ namespace std_vector
             }
             const iterator operator++(int)
             {
-                iterator rtn(*this);
+                const iterator rtn(*this);
                 pos++;
                 return rtn;
             }
-            bool operator != (const iterator &iter) const
+            iterator &operator--()
+            {
+                pos--;
+                return (*this);
+            }
+            const iterator operator--(int)
+            {
+                const iterator rtn(*this);
+                pos--;
+                return rtn;
+            }
+            bool operator!= (const iterator &iter) const
             {
                 return pos != iter.pos;
             }
-            bool operator == (const iterator &iter) const
+            bool operator== (const iterator &iter) const
             {
                 return pos == iter.pos;
             }
         };
+
+        class reverseIterator
+        {
+        private:
+            T *pos;
+
+        public:
+            reverseIterator(T *pos = 0)
+            {
+                this->pos = pos;
+            }
+            T operator *() const
+            {
+                return *pos;
+            }
+            int operator- (const reverseIterator &iter) const
+            {
+                return pos + iter.pos;
+            }
+            reverseIterator operator+ (const int index) const
+            {
+                return pos - index;
+            }
+            reverseIterator operator- (const int index) const
+            {
+                return pos + index;
+            }
+            reverseIterator &operator++()
+            {
+                pos--;
+                return (*this);
+            }
+            const reverseIterator operator++(int)
+            {
+                const reverseIterator rtn(*this);
+                pos--;
+                return rtn;
+            }
+            reverseIterator &operator--()
+            {
+                pos++;
+                return (*this);
+            }
+            const reverseIterator operator--(int)
+            {
+                const reverseIterator rtn(*this);
+                pos++;
+                return rtn;
+            }
+            bool operator!= (const reverseIterator &iter) const
+            {
+                return pos != iter.pos;
+            }
+            bool operator== (const reverseIterator &iter) const
+            {
+                return pos == iter.pos;
+            }
+        };
+
         vector()
         {
             base = nullptr;
-            bcapacity = 0;
-            bsize = 0;
+            vCapacity = 0;
+            vSize = 0;
         }
         ~vector()
         {
@@ -62,11 +141,11 @@ namespace std_vector
         }
         void resize(size_t nsize, T data = 0)
         {
-            if (nsize > bcapacity)
+            if (nsize > vCapacity)
             {
                 reserve(nsize);
             }
-            while (bsize < nsize)
+            while (vSize < nsize)
             {
                 push_back(data);
             }
@@ -74,10 +153,10 @@ namespace std_vector
         void reserve(size_t ncapacity)
         {
             T *temp = new T[ncapacity];
-            bcapacity = ncapacity;
-            if (bsize)
+            vCapacity = ncapacity;
+            if (vSize)
             {
-                for (size_t n = 0; n < bsize; n++)
+                for (size_t n = 0; n < vSize; n++)
                 {
                     temp[n] = base[n];
                 }
@@ -93,34 +172,34 @@ namespace std_vector
         {
             size_t index = at - base;
 
-            if (bsize <= bcapacity)
+            if (vSize <= vCapacity)
             {
                 size_t ncapacity = 1;
-                if (bcapacity)
+                if (vCapacity)
                 {
-                    ncapacity = bcapacity * 2;
+                    ncapacity = vCapacity * 2;
                 }
                 reserve(ncapacity);
             }
 
-            for (size_t pos = bsize; pos > index; pos--)
+            for (size_t pos = vSize; pos > index; pos--)
             {
                 base[pos] = base[pos - 1];
             }
             base[index] = data;
-            bsize++;
+            vSize++;
         }
         void erase(iterator at)
         {
-            bsize--;
-            for (size_t index = at - base; index < bsize; index++)
+            vSize--;
+            for (size_t index = at - base; index < vSize; index++)
             {
                 base[index] = base[index + 1];
             }
         }
         T &operator[] (size_t index) const
         {
-            if ((index >= 0) && (index < bsize))
+            if ((index >= 0) && (index < vSize))
             {
                 return base[index];
             }
@@ -133,16 +212,26 @@ namespace std_vector
         }
         iterator end() const
         {
-            iterator iter(base + bsize);
+            iterator iter(base + vSize);
+            return iter;
+        }
+        reverseIterator rbegin() const
+        {
+            reverseIterator iter(base + vSize - 1);
+            return iter;
+        }
+        reverseIterator rend() const
+        {
+            reverseIterator iter(base - 1);
             return iter;
         }
         size_t size()
         {
-            return bsize;
+            return vSize;
         }
         size_t capacity()
         {
-            return bcapacity;
+            return vCapacity;
         }
     };
 };
