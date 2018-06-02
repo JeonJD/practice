@@ -10,9 +10,52 @@ namespace std_vector
         size_t vSize;
 
     public:
+        class reverseIterator : public iterator
+        {
+        public:
+            reverseIterator(T *pos = 0)
+            {
+                this->pos = pos;
+            }
+            int operator- (const reverseIterator &iter) const
+            {
+                return -(pos - iter.pos);
+            }
+            reverseIterator operator+ (const int index) const
+            {
+                return pos - index;
+            }
+            reverseIterator operator- (const int index) const
+            {
+                return pos + index;
+            }
+            reverseIterator &operator++()
+            {
+                pos--;
+                return (*this);
+            }
+            const reverseIterator operator++(int)
+            {
+                const reverseIterator rtn(*this);
+                pos--;
+                return rtn;
+            }
+            reverseIterator &operator--()
+            {
+                pos++;
+                return (*this);
+            }
+            const reverseIterator operator--(int)
+            {
+                const reverseIterator rtn(*this);
+                pos++;
+                return rtn;
+            }
+        };
+
         class iterator
         {
-        private:
+        protected:
             T *pos;
 
         public:
@@ -66,56 +109,6 @@ namespace std_vector
             {
                 return pos == iter.pos;
             }
-        };
-
-        class reverseIterator
-        {
-        private:
-            T *pos;
-
-        public:
-            reverseIterator(T *pos = 0)
-            {
-                this->pos = pos;
-            }
-            T operator *() const
-            {
-                return *pos;
-            }
-            int operator- (const reverseIterator &iter) const
-            {
-                return pos + iter.pos;
-            }
-            reverseIterator operator+ (const int index) const
-            {
-                return pos - index;
-            }
-            reverseIterator operator- (const int index) const
-            {
-                return pos + index;
-            }
-            reverseIterator &operator++()
-            {
-                pos--;
-                return (*this);
-            }
-            const reverseIterator operator++(int)
-            {
-                const reverseIterator rtn(*this);
-                pos--;
-                return rtn;
-            }
-            reverseIterator &operator--()
-            {
-                pos++;
-                return (*this);
-            }
-            const reverseIterator operator--(int)
-            {
-                const reverseIterator rtn(*this);
-                pos++;
-                return rtn;
-            }
             bool operator!= (const reverseIterator &iter) const
             {
                 return pos != iter.pos;
@@ -168,6 +161,10 @@ namespace std_vector
         {
             insert(end(), data);
         }
+        void insert(reverseIterator at, T data)
+        {
+            insert(iterator(at) + 1, data);
+        }
         void insert(iterator at, T data)
         {
             size_t index = at - base;
@@ -203,7 +200,7 @@ namespace std_vector
             {
                 return base[index];
             }
-            return base[index];
+            // exeception
         }
         iterator begin() const
         {
@@ -225,13 +222,51 @@ namespace std_vector
             reverseIterator iter(base - 1);
             return iter;
         }
-        size_t size()
+        const iterator cbegin() const
+        {
+            iterator iter(base);
+            return iter;
+        }
+        const iterator cend() const
+        {
+            iterator iter(base + vSize);
+            return iter;
+        }
+        size_t size() const
         {
             return vSize;
         }
-        size_t capacity()
+        size_t capacity() const
         {
             return vCapacity;
+        }
+        bool empty() const
+        {
+            return vSize == 0;
+        }
+        void shrink_to_fit()
+        {
+            vCapacity = vSize;
+        }
+        T at(size_t index) const
+        {
+            if (index >= 0 && index < vSize)
+            {
+                return base[index];
+            }
+            // exeception
+        }
+        T front() const
+        {
+            return *base;
+        }
+        T back() const
+        {
+            return base[vSize - 1]
+        }
+        T* data() const
+        {
+            return base;
         }
     };
 };
