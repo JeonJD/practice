@@ -5,7 +5,7 @@ namespace std_vector
     class vector
     {
     private:
-        T *base;
+        T* base;
         size_t vCapacity;
         size_t vSize;
 
@@ -125,9 +125,32 @@ namespace std_vector
             vCapacity = 0;
             vSize = 0;
         }
+        vector(const vector& vt)
+        {
+            base = new T[vt.vCapacity];
+            for (size_t index = 0; index < vt.vSize; ++index)
+            {
+                base[index] = vt.base[index];
+            }
+            vCapacity = vt.vCapacity;
+            vSize = vt.vSize;
+            std::cout << "copy" << endl;
+        }
+        vector(vector&& vt)
+        {
+            base = vt.base;
+            vCapacity = vt.vCapacity;
+            vSize = vt.vSize;
+
+            vt.base = nullptr;
+            vt.vCapacity = 0;
+            vSize = 0;
+            std::cout << "move" << endl;
+        }
+
         ~vector()
         {
-            if (base)
+            if (base != nullptr)
             {
                 delete[] base;
             }
@@ -143,10 +166,9 @@ namespace std_vector
                 push_back(data);
             }
         }
-        void reserve(size_t ncapacity)
+        void reserve(size_t nCapacity)
         {
-            T *temp = new T[ncapacity];
-            vCapacity = ncapacity;
+            T* temp = new T[nCapacity];
             if (vSize)
             {
                 for (size_t n = 0; n < vSize; n++)
@@ -156,6 +178,8 @@ namespace std_vector
                 delete[] base;
             }
             base = temp;
+
+            vCapacity = nCapacity;
         }
         void push_back(T data)
         {
@@ -169,14 +193,14 @@ namespace std_vector
         {
             size_t index = at - base;
 
-            if (vSize <= vCapacity)
+            if (vSize >= vCapacity)
             {
-                size_t ncapacity = 1;
+                size_t nCapacity = 1;
                 if (vCapacity)
                 {
-                    ncapacity = vCapacity * 2;
+                    nCapacity = vCapacity * 2;
                 }
-                reserve(ncapacity);
+                reserve(nCapacity);
             }
 
             for (size_t pos = vSize; pos > index; pos--)
@@ -195,6 +219,14 @@ namespace std_vector
             }
         }
         T &operator[] (size_t index) const
+        {
+            if ((index >= 0) && (index < vSize))
+            {
+                return base[index];
+            }
+            // exeception
+        }
+        T &operator= (T) const
         {
             if ((index >= 0) && (index < vSize))
             {
