@@ -126,28 +126,23 @@ namespace std_vector
             vSize = 0;
         }
         vector(const vector& vt)
+            : base(new T[vt.vCapacity]), vCapacity(vt.vCapacity), vSize(vt.vSize)
         {
-            base = new T[vt.vCapacity];
             for (size_t index = 0; index < vt.vSize; ++index)
             {
                 base[index] = vt.base[index];
             }
-            vCapacity = vt.vCapacity;
-            vSize = vt.vSize;
+
             std::cout << "copy" << endl;
         }
-        vector(vector&& vt)
+        vector(vector&& vt) noexcept
+            : base(vt.base), vCapacity(vt.vCapacity), vSize(vt.vSize)
         {
-            base = vt.base;
-            vCapacity = vt.vCapacity;
-            vSize = vt.vSize;
-
             vt.base = nullptr;
             vt.vCapacity = 0;
-            vSize = 0;
+            vt.vSize = 0;
             std::cout << "move" << endl;
         }
-
         ~vector()
         {
             if (base != nullptr)
@@ -155,6 +150,15 @@ namespace std_vector
                 delete[] base;
             }
         }
+        T& operator[] (size_t index) const
+        {
+            if ((index >= 0) && (index < vSize))
+            {
+                return base[index];
+            }
+            // exeception
+        }
+
         void resize(size_t nsize, T data = 0)
         {
             if (nsize > vCapacity)
@@ -171,9 +175,9 @@ namespace std_vector
             T* temp = new T[nCapacity];
             if (vSize)
             {
-                for (size_t n = 0; n < vSize; n++)
+                for (size_t index = 0; index < vSize; ++index)
                 {
-                    temp[n] = base[n];
+                    temp[index] = base[index];
                 }
                 delete[] base;
             }
@@ -217,22 +221,6 @@ namespace std_vector
             {
                 base[index] = base[index + 1];
             }
-        }
-        T &operator[] (size_t index) const
-        {
-            if ((index >= 0) && (index < vSize))
-            {
-                return base[index];
-            }
-            // exeception
-        }
-        T &operator= (T) const
-        {
-            if ((index >= 0) && (index < vSize))
-            {
-                return base[index];
-            }
-            // exeception
         }
         iterator begin() const
         {
