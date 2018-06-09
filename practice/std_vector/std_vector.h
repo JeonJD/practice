@@ -5,9 +5,18 @@ namespace std_vector
     class vector
     {
     private:
-        T* base;
-        size_t vCapacity;
-        size_t vSize;
+        T* _vBase;
+        size_t _vCapacity;
+        size_t _vSize;
+
+        size_t getCapacityForIncrease()
+        {
+            if (_vCapacity > 0)
+            {
+                return _vCapacity *= 2;
+            }
+            return _vCapacity = 1;
+        }
 
     public:
         class reverseIterator : public iterator
@@ -31,24 +40,24 @@ namespace std_vector
             }
             reverseIterator &operator++()
             {
-                pos--;
+                --pos;
                 return (*this);
             }
             const reverseIterator operator++(int)
             {
                 const reverseIterator rtn(*this);
-                pos--;
+                --pos;
                 return rtn;
             }
             reverseIterator &operator--()
             {
-                pos++;
+                ++pos;
                 return (*this);
             }
             const reverseIterator operator--(int)
             {
                 const reverseIterator rtn(*this);
-                pos++;
+                ++pos;
                 return rtn;
             }
         };
@@ -81,24 +90,24 @@ namespace std_vector
             }
             iterator &operator++()
             {
-                pos++;
+                ++pos;
                 return (*this);
             }
             const iterator operator++(int)
             {
                 const iterator rtn(*this);
-                pos++;
+                ++pos;
                 return rtn;
             }
             iterator &operator--()
             {
-                pos--;
+                --pos;
                 return (*this);
             }
             const iterator operator--(int)
             {
                 const iterator rtn(*this);
-                pos--;
+                --pos;
                 return rtn;
             }
             bool operator!= (const iterator &iter) const
@@ -121,51 +130,50 @@ namespace std_vector
 
         vector()
         {
-            base = nullptr;
-            vCapacity = 0;
-            vSize = 0;
+            _vBase = nullptr;
+            _vCapacity = 0;
+            _vSize = 0;
         }
         vector(const vector& vt)
-            : base(new T[vt.vCapacity]), vCapacity(vt.vCapacity), vSize(vt.vSize)
+            : _vBase(new T[vt._vCapacity]), _vCapacity(vt._vCapacity), _vSize(vt._vSize)
         {
-            for (size_t index = 0; index < vt.vSize; ++index)
+            for (size_t index = 0; index < vt._vSize; ++index)
             {
-                base[index] = vt.base[index];
+                _vBase[index] = vt._vBase[index];
             }
 
-            std::cout << "copy" << endl;
+            std::cout << "copy_constructor" << endl;
         }
         vector(vector&& vt) noexcept
-            : base(vt.base), vCapacity(vt.vCapacity), vSize(vt.vSize)
+            : _vBase(vt._vBase), _vCapacity(vt._vCapacity), _vSize(vt._vSize)
         {
-            vt.base = nullptr;
-            vt.vCapacity = 0;
-            vt.vSize = 0;
-            std::cout << "move" << endl;
+            vt._vBase = nullptr;
+            vt._vCapacity = 0;
+            vt._vSize = 0;
+            std::cout << "move_constructor" << endl;
         }
-        ~vector()
+        virtual ~vector()
         {
-            if (base != nullptr)
+            if (_vBase != nullptr)
             {
-                delete[] base;
+                delete[] _vBase;
             }
         }
         T& operator[] (size_t index) const
         {
-            if ((index >= 0) && (index < vSize))
+            if ((index >= 0) && (index < _vSize))
             {
-                return base[index];
+                return _vBase[index];
             }
             // exeception
         }
-
         void resize(size_t nsize, T data = 0)
         {
-            if (nsize > vCapacity)
+            if (nsize > _vCapacity)
             {
-                reserve(nsize);
+                reserve(getCapacityForIncrease());
             }
-            while (vSize < nsize)
+            while (_vSize < nsize)
             {
                 push_back(data);
             }
@@ -173,17 +181,17 @@ namespace std_vector
         void reserve(size_t nCapacity)
         {
             T* temp = new T[nCapacity];
-            if (vSize)
+            if (_vSize)
             {
-                for (size_t index = 0; index < vSize; ++index)
+                for (size_t index = 0; index < _vSize; ++index)
                 {
-                    temp[index] = base[index];
+                    temp[index] = std::move(_vBase[index]);
                 }
-                delete[] base;
+                delete[] _vBase;
             }
-            base = temp;
+            _vBase = temp;
 
-            vCapacity = nCapacity;
+            _vCapacity = nCapacity;
         }
         void push_back(T data)
         {
@@ -195,98 +203,93 @@ namespace std_vector
         }
         void insert(iterator at, T data)
         {
-            size_t index = at - base;
+            size_t index = at - _vBase;
 
-            if (vSize >= vCapacity)
+            if (_vSize >= _vCapacity)
             {
-                size_t nCapacity = 1;
-                if (vCapacity)
-                {
-                    nCapacity = vCapacity * 2;
-                }
-                reserve(nCapacity);
+                reserve(getCapacityForIncrease());
             }
 
-            for (size_t pos = vSize; pos > index; pos--)
+            for (size_t pos = _vSize; pos > index; pos--)
             {
-                base[pos] = base[pos - 1];
+                _vBase[pos] = std::move(_vBase[pos - 1]);
             }
-            base[index] = data;
-            vSize++;
+            _vBase[index] = data;
+            ++_vSize;
         }
         void erase(iterator at)
         {
-            vSize--;
-            for (size_t index = at - base; index < vSize; index++)
+            --_vSize;
+            for (size_t index = at - _vBase; index < _vSize; ++index)
             {
-                base[index] = base[index + 1];
+                _vBase[index] = std::move(_vBase[index + 1]);
             }
         }
         iterator begin() const
         {
-            iterator iter(base);
+            iterator iter(_vBase);
             return iter;
         }
         iterator end() const
         {
-            iterator iter(base + vSize);
+            iterator iter(_vBase + _vSize);
             return iter;
         }
         reverseIterator rbegin() const
         {
-            reverseIterator iter(base + vSize - 1);
+            reverseIterator iter(_vBase + _vSize - 1);
             return iter;
         }
         reverseIterator rend() const
         {
-            reverseIterator iter(base - 1);
+            reverseIterator iter(_vBase - 1);
             return iter;
         }
         const iterator cbegin() const
         {
-            iterator iter(base);
+            iterator iter(_vBase);
             return iter;
         }
         const iterator cend() const
         {
-            iterator iter(base + vSize);
+            iterator iter(_vBase + _vSize);
             return iter;
         }
         size_t size() const
         {
-            return vSize;
+            return _vSize;
         }
         size_t capacity() const
         {
-            return vCapacity;
+            return _vCapacity;
         }
         bool empty() const
         {
-            return vSize == 0;
+            return _vSize == 0;
         }
         void shrink_to_fit()
         {
-            vCapacity = vSize;
+            _vCapacity = _vSize;
         }
         T at(size_t index) const
         {
-            if (index >= 0 && index < vSize)
+            if (index >= 0 && index < _vSize)
             {
-                return base[index];
+                return _vBase[index];
             }
             // exeception
         }
         T front() const
         {
-            return *base;
+            return *_vBase;
         }
         T back() const
         {
-            return base[vSize - 1]
+            return _vBase[_vSize - 1]
         }
         T* data() const
         {
-            return base;
+            return _vBase;
         }
     };
 };
