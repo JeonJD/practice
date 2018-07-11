@@ -1,0 +1,27 @@
+﻿syntax = "proto3";
+import public "prototype_common.proto";
+
+package pb_prototype.PS2C;
+
+enum ProtocolNumber
+{
+    EWho = 0;
+    EChat = 1;
+    EAuth = 2;
+}
+
+message Who
+{
+    string message = 1;
+}
+
+message Chat
+{
+    string message = 1;
+}
+
+message Auth
+{
+    bool auth_result = 1;
+    PlayerUnitData player_unit_data = 2;
+}

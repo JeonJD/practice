@@ -1,0 +1,21 @@
+﻿syntax = "proto3";
+
+package pb_prototype;
+
+message UnitId
+{
+    uint32 unit_type = 1;
+    uint32 unit_id = 2;
+}
+
+message PlayerUnitData
+{
+    UnitId unit_id = 1;
+    string name = 2;
+}
+
+message NPCUnitData
+{
+    UnitId unit_id = 1;
+    string name = 2;
+}

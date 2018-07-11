@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="defines">
+      <UniqueIdentifier>{e2bee56f-11fd-4012-8d16-ded6bf0b299e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sync_object">
+      <UniqueIdentifier>{71232532-4023-4ebd-8a3a-b216af3dec63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utf8">
+      <UniqueIdentifier>{a693d01c-27b9-4bd0-9247-ce235c56f648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="enum">
+      <UniqueIdentifier>{7b68536c-ec30-4dc1-bdcc-b3cdef94098e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="random">
+      <UniqueIdentifier>{7678c944-751b-4fb8-9332-1c3a446511fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="uuid">
+      <UniqueIdentifier>{5441fad0-783e-4d4b-ac3a-4dc994ca5a5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="fmt">
+      <UniqueIdentifier>{3c665b4a-ccb6-4513-b73e-06be23e8b5b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="types">
+      <UniqueIdentifier>{05077e38-403e-408b-8967-07ab91a6591a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="boost_define.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="data_type.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="stl_define.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="global_common.h" />
+    <ClInclude Include="log4plus_define.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="macro_define.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="rw_lock.h">
+      <Filter>sync_object</Filter>
+    </ClInclude>
+    <ClInclude Include="utf8.h">
+      <Filter>utf8</Filter>
+    </ClInclude>
+    <ClInclude Include="enum.h">
+      <Filter>enum</Filter>
+    </ClInclude>
+    <ClInclude Include="msdn_define.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="random_engine.h">
+      <Filter>random</Filter>
+    </ClInclude>
+    <ClInclude Include="uuid.h">
+      <Filter>uuid</Filter>
+    </ClInclude>
+    <ClInclude Include="fmt\container.h">
+      <Filter>fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="fmt\format.h">
+      <Filter>fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="fmt\ostream.h">
+      <Filter>fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="fmt\posix.h">
+      <Filter>fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="fmt\printf.h">
+      <Filter>fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="fmt\string.h">
+      <Filter>fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="fmt\time.h">
+      <Filter>fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="ostream.h">
+      <Filter>defines</Filter>
+    </ClInclude>
+    <ClInclude Include="declare_type.h">
+      <Filter>types</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="random_engine.cpp">
+      <Filter>random</Filter>
+    </ClCompile>
+    <ClCompile Include="uuid.cpp">
+      <Filter>uuid</Filter>
+    </ClCompile>
+    <ClCompile Include="fmt\format.cc">
+      <Filter>fmt</Filter>
+    </ClCompile>
+    <ClCompile Include="fmt\ostream.cc">
+      <Filter>fmt</Filter>
+    </ClCompile>
+    <ClCompile Include="fmt\posix.cc">
+      <Filter>fmt</Filter>
+    </ClCompile>
+    <ClCompile Include="fmt\printf.cc">
+      <Filter>fmt</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
