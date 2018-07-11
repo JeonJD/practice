@@ -1,0 +1,3151 @@
+2	|	Rabbit_name	|	토끼
+8	|	TestMob_name	|	사랑으로 때려주세요
+98	|	M.CityRepresentativeOfEgypt_name	|	시장
+99	|	M.CityRepresentativeOfRome_name	|	시장
+100	|	M.CityRepresentativeOfChina_name	|	시장
+122	|	M.EgyptMerchant_name	|	명성용품 상인
+123	|	M.RomeMerchant_name	|	명성용품 상인
+124	|	M.ChinaMerchant_name	|	명성용품 상인
+125	|	M.EgyptHabourMaster_name	|	항구 관리인
+126	|	M.RomeHabourMaster_name	|	항구 관리인
+127	|	M.ChinaHabourMaster_name	|	항구 관리인
+208	|	M.EgyptMarketDealer_name	|	거래중개인
+209	|	M.RomeMarketDealer_name	|	거래중개인
+210	|	M.ChinaMarketDealer_name	|	거래중개인
+335	|	WildCamel_name	|	야생 낙타
+337	|	WarCamel_name	|	전투낙타
+338	|	Goat_name	|	염소
+340	|	Chicken_name	|	닭
+379	|	M.CityRepresentativeOfAztec_name	|	시장
+387	|	M.AztecMerchant_name	|	명성용품 상인
+388	|	M.AztecHabourMaster_name	|	항구 관리인
+423	|	M.AztecMarketDealer_name	|	거래중개인
+450	|	M.EgyptForeman_name	|	불가사의 현장 감독
+451	|	M.RomeForeman_name	|	불가사의 현장 감독
+452	|	M.ChinaForeman_name	|	불가사의 현장 감독
+453	|	M.AztecForeman_name	|	불가사의 현장 감독
+302001	|	M.ChinaSmithyMerchant_name	|	대장간 상인
+302002	|	M.AztecSmithyMerchant_name	|	대장간 상인
+302003	|	M.EgyptSmithyMerchant_name	|	대장간 상인
+302004	|	M.RomeSmithyMerchant_name	|	대장간 상인
+302005	|	M.ChinaWorkshopMerchant_name	|	공방 상인
+302006	|	M.AztecWorkshopMerchant_name	|	공방 상인
+302007	|	M.EgyptWorkshopMerchant_name	|	공방 상인
+302008	|	M.RomeWorkshopMerchant_name	|	공방 상인
+302009	|	M.ChinaStagecoachManager_name	|	역마차 관리인
+302010	|	M.AztecStagecoachManager_name	|	역마차 관리인
+302011	|	M.EgyptStagecoachManager_name	|	역마차 관리인
+302012	|	M.RomeStagecoachManager_name	|	역마차 관리인
+302017	|	M.ChinaGarageManager1_name	|	차고 관리인
+302018	|	M.AztecGarageManager1_name	|	차고 관리인
+302019	|	M.EgyptGarageManager1_name	|	차고 관리인
+302020	|	M.RomeGarageManager1_name	|	차고 관리인
+302021	|	R.ChinaGarageManager1_name	|	차고 관리인
+302022	|	R.AztecGarageManager1_name	|	차고 관리인
+302023	|	R.EgyptGarageManager1_name	|	차고 관리인
+302024	|	R.RomeGarageManager1_name	|	차고 관리인
+302025	|	R.ChinaAirfieldManager1_name	|	비행장 관리인
+302026	|	R.AztecAirfieldManager1_name	|	비행장 관리인
+302027	|	R.EgyptAirfieldManager1_name	|	비행장 관리인
+302028	|	R.RomeAirfieldManager1_name	|	비행장 관리인
+302029	|	M.ChinaSurgeon_name	|	의사
+302030	|	M.AztecSurgeon_name	|	의사
+302031	|	M.EgyptSurgeon_name	|	의사
+302032	|	M.RomeSurgeon_name	|	의사
+302033	|	M.ChinaLuxuryDealer_name	|	명품 상인
+302034	|	M.AztecLuxuryDealer_name	|	명품 상인
+302035	|	M.EgyptLuxuryDealer_name	|	명품 상인
+302036	|	M.RomeLuxuryDealer_name	|	명품 상인
+302037	|	M.ChinaGarageManager2_name	|	차고 관리인
+302038	|	M.AztecGarageManager2_name	|	차고 관리인
+302039	|	M.EgyptGarageManager2_name	|	차고 관리인
+302040	|	M.RomeGarageManager2_name	|	차고 관리인
+302041	|	R.ChinaGarageManager2_name	|	차고 관리인
+302042	|	R.AztecGarageManager2_name	|	차고 관리인
+302043	|	R.EgyptGarageManager2_name	|	차고 관리인
+302044	|	R.RomeGarageManager2_name	|	차고 관리인
+302045	|	R.ChinaAirfieldManager2_name	|	비행장 관리인
+302046	|	R.AztecAirfieldManager2_name	|	비행장 관리인
+302047	|	R.EgyptAirfieldManager2_name	|	비행장 관리인
+302048	|	R.RomeAirfieldManager2_name	|	비행장 관리인
+302049	|	M.ChinaGarageManager3_name	|	차고 관리인
+302050	|	M.AztecGarageManager3_name	|	차고 관리인
+302051	|	M.EgyptGarageManager3_name	|	차고 관리인
+302052	|	M.RomeGarageManager3_name	|	차고 관리인
+302053	|	R.ChinaGarageManager3_name	|	차고 관리인
+302054	|	R.AztecGarageManager3_name	|	차고 관리인
+302055	|	R.EgyptGarageManager3_name	|	차고 관리인
+302056	|	R.RomeGarageManager3_name	|	차고 관리인
+302057	|	R.ChinaAirfieldManager3_name	|	비행장 관리인
+302058	|	R.AztecAirfieldManager3_name	|	비행장 관리인
+302059	|	R.EgyptAirfieldManager3_name	|	비행장 관리인
+302060	|	R.RomeAirfieldManager3_name	|	비행장 관리인
+99995	|	M.RomeEliteGuard_name	|	정예 경비병
+99992	|	M.ChinaEliteGuard_name	|	정예 경비병
+99994	|	M.EgyptEliteGuard_name	|	정예 경비병
+99993	|	M.AztecEliteGuard_name	|	정예 경비병
+666001	|	Sarting_Pig_name	|	살이 오른 돼지
+666002	|	Sarting_Sheep_name	|	집 나온 양
+666004	|	Sarting_Cow_name	|	게으른 소
+666005	|	Strating_M.thief warrior2_name	|	야만 중갑 전사
+666006	|	Strating_M.thief crossbow2_name	|	야만 석궁수
+666012	|	M.Field_Barba_Boss_name	|	평원 야만 대장
+302085	|	M.ChinaGuard_n2_Knight_name	|	중세_표준_n2_중갑기사_Lv5
+302086	|	M.ChinaGuard_e2_Knight_name	|	중세_표준_e2_중갑기사_Lv5
+302087	|	M.ChinaGuard_h2_Knight_name	|	중세_표준_h2_중갑기사_Lv5
+302088	|	M.ChinaGuard_n2_Crossbow_name	|	중세_표준_n2_석궁수_Lv5
+302089	|	M.ChinaGuard_e2_Crossbow_name	|	중세_표준_e2_석궁수_Lv5
+302090	|	M.ChinaGuard_h2_Crossbow_name	|	중세_표준_h2_석궁수_Lv5
+302091	|	R.ChinaGuard_n2_Musket_name	|	르네_표준_n2_머스킷병_Lv5
+302092	|	R.ChinaGuard_e2_Musket_name	|	르네_표준_e2_머스킷병_Lv5
+302093	|	R.ChinaGuard_h2_Musket_name	|	르네_표준_h2_머스킷병_Lv5
+302097	|	I.Guard_w_Rifleman_name	|	산업_표준_w2_소총수_Lv5
+302098	|	I.Guard_n_Rifleman_name	|	산업_표준_n2_소총수_Lv5
+302099	|	I.Guard_e_Rifleman_name	|	산업_표준_e2_소총수_Lv5
+302100	|	I.Guard_h_Assultman_name	|	산업_표준_h2_돌격병_Lv5
+302101	|	I.Guard_s_Rifleman_name	|	산업_표준_sg_소총수_Lv5
+302106	|	M.ChinaSpecialElliteKnightGuard_name	|	도시 방위 대장
+302107	|	M.AztecSpecialElliteKnightGuard_name	|	도시 방위 대장
+302108	|	M.EgyptSpecialElliteKnightGuard_name	|	도시 방위 대장
+302109	|	M.RomeSpecialElliteKnightGuard_name	|	도시 방위 대장
+302110	|	M.ChinaNormalCrossbowGuard_name	|	도시 방위병
+302111	|	M.AztecNormalCrossbowGuard_name	|	도시 방위병
+302112	|	M.EgyptNormalCrossbowGuard_name	|	도시 방위병
+302113	|	M.RomeNormalCrossbowGuard_name	|	도시 방위병
+302114	|	M.ChinaEliteCrossbowGuard_name	|	도시 정예 방위병
+302115	|	M.AztecEliteCrossbowGuard_name	|	도시 정예 방위병
+302116	|	M.EgyptEliteCrossbowGuard_name	|	도시 정예 방위병
+302117	|	M.RomeEliteCrossbowGuard_name	|	도시 정예 방위병
+302118	|	M.ChinaGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302119	|	M.ChinaGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302120	|	M.ChinaGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 궁수
+302121	|	M.ChinaGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 궁수
+302122	|	M.AztecGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302123	|	M.AztecGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302124	|	M.AztecGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 궁수
+302125	|	M.AztecGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 궁수
+302126	|	M.EgyptGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302127	|	M.EgyptGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302128	|	M.EgyptGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 궁수
+302129	|	M.EgyptGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 궁수
+302130	|	M.RomeGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302131	|	M.RomeGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302132	|	M.RomeGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 궁수
+302133	|	M.RomeGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 궁수
+302134	|	M.ChinaGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302135	|	M.ChinaGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+302136	|	M.AztecGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302137	|	M.AztecGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+302138	|	M.EgyptGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302139	|	M.EgyptGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+302140	|	M.RomeGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302141	|	M.RomeGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+302142	|	A.CityRepresentativeOfChina_name	|	시장
+302143	|	A.CityRepresentativeOfAztec_name	|	시장
+302144	|	A.CityRepresentativeOfEgypt_name	|	시장
+302145	|	A.CityRepresentativeOfRome_name	|	시장
+302146	|	A.ChinaMerchant_name	|	명성용품 상인
+302147	|	A.AztecMerchant_name	|	명성용품 상인
+302148	|	A.EgyptMerchant_name	|	명성용품 상인
+302149	|	A.RomeMerchant_name	|	명성용품 상인
+302154	|	A.ChinaMarketDealer_name	|	거래중개인
+302155	|	A.AztecMarketDealer_name	|	거래중개인
+302156	|	A.EgyptMarketDealer_name	|	거래중개인
+302157	|	A.RomeMarketDealer_name	|	거래중개인
+302158	|	A.ChinaForeman_name	|	불가사의 현장 감독
+302159	|	A.AztecForeman_name	|	불가사의 현장 감독
+302160	|	A.EgyptForeman_name	|	불가사의 현장 감독
+302161	|	A.RomeForeman_name	|	불가사의 현장 감독
+302162	|	A.China_assistant_name	|	경제 보좌관
+302163	|	A.Aztec_assistant_name	|	경제 보좌관
+302164	|	A.Egypt_assistant_name	|	경제 보좌관
+302165	|	A.Rome_assistant_name	|	경제 보좌관
+302166	|	A.ChinaMilitaryAdvisorz_name	|	군사 보좌관
+302167	|	A.AztecMilitaryAdvisorz_name	|	군사 보좌관
+302168	|	A.EgyptMilitaryAdvisorz_name	|	군사 보좌관
+302169	|	A.RomeMilitaryAdvisorz_name	|	군사 보좌관
+302170	|	A.ChinaSmithyMerchant_name	|	대장간 상인
+302171	|	A.AztecSmithyMerchant_name	|	대장간 상인
+302172	|	A.EgyptSmithyMerchant_name	|	대장간 상인
+302173	|	A.RomeSmithyMerchant_name	|	대장간 상인
+302174	|	A.ChinaWorkshopMerchant_name	|	공방 상인
+302175	|	A.AztecWorkshopMerchant_name	|	공방 상인
+302176	|	A.EgyptWorkshopMerchant_name	|	공방 상인
+302177	|	A.RomeWorkshopMerchant_name	|	공방 상인
+302178	|	A.ChinaStableManager_name	|	마구간 관리인
+302179	|	A.AztecStableManager_name	|	마구간 관리인
+302180	|	A.EgyptStableManager_name	|	마구간 관리인
+302181	|	A.RomeStableManager_name	|	마구간 관리인
+302182	|	A.ChinaQuartermaster_name	|	보급 장교
+302183	|	A.AztecQuartermaster_name	|	보급 장교
+302184	|	A.EgyptQuartermaster_name	|	보급 장교
+302185	|	A.RomeQuartermaster_name	|	보급 장교
+302186	|	A.ChinaQuartermaster_name	|	보급 장교
+302187	|	A.AztecQuartermaster_name	|	보급 장교
+302188	|	A.EgyptQuartermaster_name	|	보급 장교
+302189	|	A.RomeQuartermaster_name	|	보급 장교
+302190	|	A.ChinaQuartermaster_name	|	보급 장교
+302191	|	A.AztecQuartermaster_name	|	보급 장교
+302192	|	A.EgyptQuartermaster_name	|	보급 장교
+302193	|	A.RomeQuartermaster_name	|	보급 장교
+302194	|	A.ChinaGarageManager1_name	|	차고 관리인
+302195	|	A.AztecGarageManager1_name	|	차고 관리인
+302196	|	A.EgyptGarageManager1_name	|	차고 관리인
+302197	|	A.RomeGarageManager1_name	|	차고 관리인
+302198	|	A.ChinaGarageManager2_name	|	차고 관리인
+302199	|	A.AztecGarageManager2_name	|	차고 관리인
+302200	|	A.EgyptGarageManager2_name	|	차고 관리인
+302201	|	A.RomeGarageManager2_name	|	차고 관리인
+302202	|	A.ChinaGarageManager3_name	|	차고 관리인
+302203	|	A.AztecGarageManager3_name	|	차고 관리인
+302204	|	A.EgyptGarageManager3_name	|	차고 관리인
+302205	|	A.RomeGarageManager3_name	|	차고 관리인
+302206	|	C.ChinaGarageManager1_name	|	차고 관리인
+302207	|	C.AztecGarageManager1_name	|	차고 관리인
+302208	|	C.EgyptGarageManager1_name	|	차고 관리인
+302209	|	C.RomeGarageManager1_name	|	차고 관리인
+302210	|	C.ChinaGarageManager2_name	|	차고 관리인
+302211	|	C.AztecGarageManager2_name	|	차고 관리인
+302212	|	C.EgyptGarageManager2_name	|	차고 관리인
+302213	|	C.RomeGarageManager2_name	|	차고 관리인
+302214	|	C.ChinaGarageManager3_name	|	차고 관리인
+302215	|	C.AztecGarageManager3_name	|	차고 관리인
+302216	|	C.EgyptGarageManager3_name	|	차고 관리인
+302217	|	C.RomeGarageManager3_name	|	차고 관리인
+302218	|	A.ChinaSurgeon_name	|	의사
+302219	|	A.AztecSurgeon_name	|	의사
+302220	|	A.EgyptSurgeon_name	|	의사
+302221	|	A.RomeSurgeon_name	|	의사
+302222	|	A.ChinaLuxuryDealer_name	|	명품 상인
+302223	|	A.AztecLuxuryDealer_name	|	명품 상인
+302224	|	A.EgyptLuxuryDealer_name	|	명품 상인
+302225	|	A.RomeLuxuryDealer_name	|	명품 상인
+302238	|	A.ChinaSpecialElliteKnightGuard_name	|	도시 방위 대장
+302239	|	A.AztecSpecialElliteKnightGuard_name	|	도시 방위 대장
+302240	|	A.EgyptSpecialElliteKnightGuard_name	|	도시 방위 대장
+302241	|	A.RomeSpecialElliteKnightGuard_name	|	도시 방위 대장
+302242	|	A.ChinaNormalCrossbowGuard_name	|	도시 방위병
+302243	|	A.AztecNormalCrossbowGuard_name	|	도시 방위병
+302244	|	A.EgyptNormalCrossbowGuard_name	|	도시 방위병
+302245	|	A.RomeNormalCrossbowGuard_name	|	도시 방위병
+302246	|	A.ChinaEliteCrossbowGuard_name	|	도시 정예 방위병
+302247	|	A.AztecEliteCrossbowGuard_name	|	도시 정예 방위병
+302248	|	A.EgyptEliteCrossbowGuard_name	|	도시 정예 방위병
+302249	|	A.RomeEliteCrossbowGuard_name	|	도시 정예 방위병
+302250	|	A.ChinaGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302251	|	A.ChinaGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+302252	|	A.AztecGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302253	|	A.AztecGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+302254	|	A.EgyptGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302255	|	A.EgyptGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+302256	|	A.RomeGuard_w2_Knight_Watchtower_name	|	감시탑 경비병
+302257	|	A.RomeGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+302258	|	A.ChinaGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302259	|	A.ChinaGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 주술사
+302260	|	A.AztecGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302261	|	A.AztecGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 주술사
+302262	|	A.EgyptGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302263	|	A.EgyptGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 주술사
+302264	|	A.RomeGuard_n2_Knight_Watchtower_name	|	감시탑 상급 경비병
+302265	|	A.RomeGuard_n2_Crossbow_Watchtower_name	|	감시탑 상급 주술사
+302266	|	A.ChinaGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302267	|	A.ChinaGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 주술사
+302268	|	A.AztecGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302269	|	A.AztecGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 주술사
+302270	|	A.EgyptGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302271	|	A.EgyptGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 주술사
+302272	|	A.RomeGuard_e2_Knight_Watchtower_name	|	감시탑 정예 경비병
+302273	|	A.RomeGuard_e2_Crossbow_Watchtower_name	|	감시탑 정예 주술사
+302274	|	A.ChinaTheatermaster_name	|	극장 관리인
+302275	|	A.AztecTheatermaster_name	|	극장 관리인
+302276	|	A.EgyptTheatermaster_name	|	극장 관리인
+302277	|	A.RomeTheatermaster_name	|	극장 관리인
+302278	|	A.ChinaTheatermaster_name	|	극장 관리인
+302279	|	A.AztecTheatermaster_name	|	극장 관리인
+302280	|	A.EgyptTheatermaster_name	|	극장 관리인
+302281	|	A.RomeTheatermaster_name	|	극장 관리인
+302282	|	A.ChinaTheatermaster_name	|	극장 관리인
+302283	|	A.AztecTheatermaster_name	|	극장 관리인
+302284	|	A.EgyptTheatermaster_name	|	극장 관리인
+302285	|	A.RomeTheatermaster_name	|	극장 관리인
+302286	|	M.ChinaTheatermaster_name	|	극장 관리인
+302287	|	M.AztecTheatermaster_name	|	극장 관리인
+302288	|	M.EgyptTheatermaster_name	|	극장 관리인
+302289	|	M.RomeTheatermaster_name	|	극장 관리인
+302290	|	M.ChinaTheatermaster_name	|	극장 관리인
+302291	|	M.AztecTheatermaster_name	|	극장 관리인
+302292	|	M.EgyptTheatermaster_name	|	극장 관리인
+302293	|	M.RomeTheatermaster_name	|	극장 관리인
+302294	|	M.ChinaTheatermaster_name	|	극장 관리인
+302295	|	M.AztecTheatermaster_name	|	극장 관리인
+302296	|	M.EgyptTheatermaster_name	|	극장 관리인
+302297	|	M.RomeTheatermaster_name	|	극장 관리인
+302298	|	M.ChinaQuartermaster_name	|	보급 장교
+302299	|	M.AztecQuartermaster_name	|	보급 장교
+302300	|	M.EgyptQuartermaster_name	|	보급 장교
+302301	|	M.RomeQuartermaster_name	|	보급 장교
+302302	|	M.ChinaQuartermaster_name	|	보급 장교
+302303	|	M.AztecQuartermaster_name	|	보급 장교
+302304	|	M.EgyptQuartermaster_name	|	보급 장교
+302305	|	M.RomeQuartermaster_name	|	보급 장교
+302306	|	M.ChinaQuartermaster_name	|	보급 장교
+302307	|	M.AztecQuartermaster_name	|	보급 장교
+302308	|	M.EgyptQuartermaster_name	|	보급 장교
+302309	|	M.RomeQuartermaster_name	|	보급 장교
+302310	|	S.A.ChinaStableManager_name	|	마구간 관리인
+302311	|	S.A.AztecStableManager_name	|	마구간 관리인
+302312	|	S.A.EgyptStableManager_name	|	마구간 관리인
+302313	|	S.A.RomeStableManager_name	|	마구간 관리인
+9000001	|	Animal_Cow_n1_name	|	표준_들소_비선공_n1
+9000002	|	Animal_boar_n1_name	|	표준_멧돼지_비선공_n1
+9000003	|	Animal_wolf_n1_name	|	표준_늑대_선공_n1
+9000004	|	Animal_bigwolf_e1_name	|	표준_거대늑대_선공_e1
+9000005	|	Animal_Lion_n2_name	|	표준_사자_선공_n2
+9000006	|	Animal_Tiger_n2_name	|	표준_호랑이_선공_n2
+9000007	|	Animal_smilodon_e1_name	|	표준_스밀로돈_선공_e1
+9000008	|	Animal_bigsmilodon_boss_name	|	표준_거대스밀로돈_선공_boss
+9000009	|	Animal_grizzlybear_e1_name 	|	표준_그리즐리베어_선공_e1
+9000010	|	Animal_biggrizzlybear_boss_name 	|	표준_거대그리즐리베어_선공_boss
+9000011	|	Animal_elephant_e1_name	|	표준_코끼리_비선공_e1
+9000012	|	Animal_bigelephant_e2_name	|	표준_거대코끼리_선공_e2
+9000013	|	Animal_mammoth_e2_name	|	표준_매머드_선공_e2
+9000014	|	Animal_bigmammoth_boss_name	|	표준_거대매머드_선공_h
+9000015	|	A.baba_BearFighter_n1_name	|	표준_고대_선공_곰전사_n1
+9000016	|	A.baba_BearFighter_n2_name	|	표준_고대_선공_곰전사_n2
+9000017	|	A.baba_BearFighter_e1_name	|	표준_고대_선공_곰전사_e1
+9000018	|	A.baba_BearFighter_e2_name	|	표준_고대_선공_곰전사_e2
+9000019	|	A.baba_BearFighter_boss_name	|	표준_고대_선공_곰전사_boss
+9000020	|	A.baba_MountBearFighter_e2_name	|	표준_고대_선공_마운트곰전사_e1
+9000021	|	A.baba_shaman_n1_name	|	표준_고대_선공_주술사_n1
+9000022	|	A.baba_shaman_n2_name	|	표준_고대_선공_주술사_n2
+9000023	|	A.baba_shaman_e1_name	|	표준_고대_선공_주술사_e1
+9000024	|	A.baba_shaman_e2_name	|	표준_고대_선공_주술사_e2
+9000025	|	C.baba_gladiator_n1_name	|	표준_고전_선공_검투사_n1
+9000026	|	C.baba_gladiator_n2_name	|	표준_고전_선공_검투사_n2
+9000027	|	C.baba_gladiator_e1_name	|	표준_고전_선공_검투사_e1
+9000028	|	C.baba_gladiator_e2_name	|	표준_고전_선공_검투사_e2
+9000029	|	C.baba_gladiator_boss_name	|	표준_고전_선공_검투사_boss
+9000030	|	C.baba_archer_n1_name	|	표준_고전_선공_레인저_n1
+9000031	|	C.baba_archer_n2_name	|	표준_고전_선공_레인저_n2
+9000032	|	C.baba_archer_e1_name	|	표준_고전_선공_레인저_e1
+9000033	|	C.baba_archer_e2_name	|	표준_고전_선공_레인저_e2
+9000034	|	C.baba_archer_boss_name	|	표준_고전_선공_레인저_boss
+9000035	|	C.baba_Mountarcher_e2_name	|	표준_고전_선공_마운트레인저_e2
+9000036	|	C.baba_MartialArtsMaster_boss_name	|	표준_고전_선공_무투가_boss
+9000037	|	I.baba_Rifleman_n1_name	|	표준_산업_선공_소총수_n1
+9000038	|	I.baba_Rifleman_n2_name	|	표준_산업_선공_소총수_n2
+9000039	|	I.baba_Rifleman_e1_name	|	표준_산업_선공_소총수_e1
+9000040	|	I.baba_Rifleman_e2_name	|	표준_산업_선공_소총수_e2
+9000041	|	I.baba_Rifleman_boss_name	|	표준_산업_선공_소총수_boss
+9000042	|	I.baba_Assultman_n1_name	|	표준_산업_선공_돌격병_n1
+9000043	|	I.baba_Assultman_n2_name	|	표준_산업_선공_돌격병_n2
+9000044	|	I.baba_Assultman_e1_name	|	표준_산업_선공_돌격병_e1
+9000045	|	I.baba_Assultman_e2_name	|	표준_산업_선공_돌격병_e2
+9000046	|	I.baba_Assultman_boss_name	|	표준_산업_선공_돌격병_boss
+9000047	|	M.baba_Flamethrower_n1_name	|	표준_현대_선공_화염방사병_n1
+9000048	|	M.baba_Flamethrower_n2_name	|	표준_현대_선공_화염방사병_n2
+9000049	|	M.baba_Flamethrower_e1_name	|	표준_현대_선공_화염방사병_e1
+9000050	|	M.baba_Flamethrower_e2_name	|	표준_현대_선공_화염방사병_e2
+9000051	|	M.baba_Flamethrower_boss_name	|	표준_현대_선공_화염방사병_boss
+9000052	|	M.baba_AssultRifleman_n1_name	|	표준_현대_선공_돌격소총병_n1
+9000053	|	M.baba_AssultRifleman_n2_name	|	표준_현대_선공_돌격소총병_n2
+9000054	|	M.baba_AssultRifleman_e1_name	|	표준_현대_선공_돌격소총병_e1
+9000055	|	M.baba_AssultRifleman_e2_name	|	표준_현대_선공_돌격소총병_e2
+9000056	|	M.baba_AssultRifleman_boss_name	|	표준_현대_선공_돌격소총병_boss
+9000057	|	A.baba_BearFighter_SBboss_name	|	표준_고대_선공_곰전사_스타팅브릭보스
+9000058	|	M_baba_HalberdMan_SBboss_name	|	표준_중세_선공_미늘창병_스타팅브릭보스
+9000059	|	I.baba_Assultman_SBboss_name	|	표준_산업_선공_돌격병_스타팅브릭보스
+9000060	|	Victory_FestivalNPC_name	|	표준_문화승리_위인NPC
+9000061	|	A.baba_MountBearFighter_n1_name	|	표준_고대_선공_마운트전투불곰_곰전사_n1
+9000062	|	M.baba_Mountlancer_n1_name	|	표준_중세_선공_마운트창기마_창기병_n1
+9000063	|	I.baba_MountRifleman_boss_name	|	표준_산업_선공_마운트탱크_소총수_boss
+9000064	|	I.baba_MountAssultman_e1_name	|	표준_산업_선공_마운트기관총_돌격병_e1
+9000065	|	M.baba_Mountlancer_e1_name	|	표준_중세_선공_마운트창기마_창기병_e1
+9000066	|	M.baba_Mountcrossbow_e2_name	|	표준_중세_선공_마운트연노_석궁수_e2
+9000067	|	R.baba_Mountmusketeer_e2_name	|	표준_르네_선공_마운트용기마_머스킷_e2
+9000068	|	I.baba_MountAssultman_n1_name	|	표준_산업_선공_마운트기관총_돌격병_n1
+9000069	|	M.baba_MountAssultRifleman_e2_name	|	표준_현대_선공_마운트바주카_돌격소총병_e2
+9000070	|	M.baba_Mountcrossbow_n1_name	|	표준_중세_선공_마운트연노_석궁수_n1
+9000071	|	R.baba_Mountmusketeer_n1_name	|	표준_르네_선공_마운트용기마_머스킷_n1
+9000072	|	I.baba_MountRifleman_e2_name	|	표준_산업_선공_마운트탱크_소총수_e2
+9000073	|	M.baba_MountAssultRifleman_n1_name	|	표준_현대_선공_마운트기관총_돌격소총병_n1
+9000074	|	M.baba_Knight_n1_name	|	표준_중세_선공_중갑기사_n1
+9000075	|	M.baba_Knight_n2_name	|	표준_중세_선공_중갑기사_n2
+9000076	|	M.baba_Knight_e1_name	|	표준_중세_선공_중갑기사_e1
+9000077	|	M.baba_Knight_e2_name	|	표준_중세_선공_중갑기사_e2
+9000078	|	M.baba_CrossbowMan_n1_name	|	표준_중세_선공_석궁수_n1
+9000079	|	M.baba_CrossbowMan_n2_name	|	표준_중세_선공_석궁수_n2
+9000080	|	M.baba_CrossbowMan_e1_name	|	표준_중세_선공_석궁수_e1
+9000081	|	M.baba_CrossbowMan_e2_name	|	표준_중세_선공_석궁수_e2
+9000082	|	M.baba_HalberdMan_n1_name	|	표준_중세_선공_미늘창전사_n1
+9000083	|	M.baba_HalberdMan_n2_name	|	표준_중세_선공_미늘창전사_n2
+9000084	|	M.baba_HalberdMan_e1_name	|	표준_중세_선공_미늘창전사_e1
+9000085	|	M.baba_HalberdMan_e2_name	|	표준_중세_선공_미늘창전사_e2
+9000086	|	M.baba_HalberdMan_boss_name	|	표준_중세_선공_미늘창전사_boss
+9000087	|	M.baba_Lancer_n1_name	|	표준_중세_선공_창기병_n1
+9000088	|	M.baba_Lancer_n2_name	|	표준_중세_선공_창기병_n2
+9000089	|	M.baba_Lancer_e1_name	|	표준_중세_선공_창기병_e1
+9000090	|	M.baba_Lancer_e2_name	|	표준_중세_선공_창기병_e2
+9000091	|	R.baba_Musketeer_n1_name	|	표준_르네_선공_총사_n1
+9000092	|	R.baba_Musketeer_n2_name	|	표준_르네_선공_총사_n2
+9000093	|	R.baba_Musketeer_e1_name	|	표준_르네_선공_총사_e1
+9000094	|	R.baba_Musketeer_e2_name	|	표준_르네_선공_총사_e2
+9000095	|	R.baba_Musketeer_boss_name	|	표준_르네_선공_총사_boss
+9000096	|	R.baba_MusketMan_n1_name	|	표준_르네_선공_머스킷병_n1
+9000097	|	R.baba_MusketMan_n2_name	|	표준_르네_선공_머스킷병_n2
+9000098	|	R.baba_MusketMan_e1_name	|	표준_르네_선공_머스킷병_e1
+9000099	|	R.baba_MusketMan_e2_name	|	표준_르네_선공_머스킷병_e2
+9000100	|	R.baba_MusketMan_boss_name	|	표준_르네_선공_머스킷병_boss
+9000101	|	Animal_NW_wolf_name	|	표준_네츄럴원더_늑대_이동안함
+9000102	|	Animal_NW_bigwolf_name	|	표준_네츄럴원더_거대늑대_로밍
+9000103	|	Animal_NW_bigwolf_boss_name	|	표준_네츄럴원더_거대늑대_보스
+9000104	|	Animal_NW_bigwolf_run_name	|	표준_네츄럴원더_거대늑대_빠른로밍
+9000105	|	Animal_NW_bigelephant_name	|	표준_네츄럴원더_거대코끼리
+9000106	|	Animal_NW_bigmammoth_name	|	표준_네츄럴원더_거대매머드
+9000107	|	Animal_NW_Cow_name	|	표준_네츄럴원더_들소
+9000108	|	Animal_NW_Tiger_name	|	표준_네츄럴원더_호랑이
+9000109	|	Animal_NW_smilodon_name	|	표준_네츄럴원더_스밀로돈
+9000110	|	Animal_NW_grizzlybear_name 	|	표준_네츄럴원더_그리즐리베어
+9000111	|	Animal_NW_biggrizzlybear_name 	|	표준_네츄럴원더_거대그리즐리베어
+9000112	|	Animal_NW_bigwolf_slow_name	|	표준_네츄럴원더_거대늑대(느려짐)
+9000113	|	Animal_NW_Lion_name	|	표준_네츄럴원더_사자
+9900000	|	npc_property_name	|	NPC 표준 능력치
+9900001	|	npc_property_name	|	NPC 표준 능력치
+9900002	|	npc_property_name	|	NPC 표준 능력치
+9900003	|	npc_property_name	|	NPC 표준 능력치
+9900004	|	npc_property_name	|	NPC 표준 능력치
+9900005	|	npc_property_name	|	NPC 표준 능력치
+9900006	|	npc_property_name	|	NPC 표준 능력치
+9900007	|	npc_property_name	|	NPC 표준 능력치
+9900008	|	npc_property_name	|	NPC 표준 능력치
+9900009	|	npc_property_name	|	NPC 표준 능력치
+9900010	|	npc_property_name	|	NPC 표준 능력치
+9900011	|	npc_property_name	|	NPC 표준 능력치
+9900012	|	npc_property_name	|	NPC 표준 능력치
+9900013	|	npc_property_name	|	NPC 표준 능력치
+9900014	|	npc_property_name	|	NPC 표준 능력치
+9900015	|	npc_property_name	|	NPC 표준 능력치
+9900016	|	npc_property_name	|	NPC 표준 능력치
+9900017	|	npc_property_name	|	NPC 표준 능력치
+9900018	|	npc_property_name	|	NPC 표준 능력치
+9900019	|	npc_property_name	|	NPC 표준 능력치
+9900020	|	npc_property_name	|	NPC 표준 능력치
+9900021	|	npc_property_name	|	NPC 표준 능력치
+9900022	|	npc_property_name	|	NPC 표준 능력치
+9900023	|	npc_property_name	|	NPC 표준 능력치
+9900024	|	npc_property_name	|	NPC 표준 능력치
+9900025	|	npc_property_name	|	NPC 표준 능력치
+9900026	|	npc_property_name	|	NPC 표준 능력치
+9900027	|	npc_property_name	|	NPC 표준 능력치
+9900028	|	npc_property_name	|	NPC 표준 능력치
+9900029	|	npc_property_name	|	NPC 표준 능력치
+9900030	|	npc_property_name	|	NPC 표준 능력치
+9900031	|	npc_property_name	|	NPC 표준 능력치
+9900032	|	npc_property_name	|	NPC 표준 능력치
+9900033	|	npc_property_name	|	NPC 표준 능력치
+9900034	|	npc_property_name	|	NPC 표준 능력치
+9900035	|	npc_property_name	|	NPC 표준 능력치
+9900036	|	npc_property_name	|	NPC 표준 능력치
+9900037	|	npc_property_name	|	NPC 표준 능력치
+9900038	|	npc_property_name	|	NPC 표준 능력치
+9900039	|	npc_property_name	|	NPC 표준 능력치
+9900040	|	npc_property_name	|	NPC 표준 능력치
+9900041	|	npc_property_name	|	NPC 표준 능력치
+9900042	|	npc_property_name	|	NPC 표준 능력치
+9900043	|	npc_property_name	|	NPC 표준 능력치
+9900044	|	npc_property_name	|	NPC 표준 능력치
+9900045	|	npc_property_name	|	NPC 표준 능력치
+9900046	|	npc_property_name	|	NPC 표준 능력치
+9900047	|	npc_property_name	|	NPC 표준 능력치
+9900048	|	npc_property_name	|	NPC 표준 능력치
+9900049	|	npc_property_name	|	NPC 표준 능력치
+9900050	|	npc_property_name	|	NPC 표준 능력치
+9900051	|	npc_property_name	|	NPC 표준 능력치
+9900052	|	npc_property_name	|	NPC 표준 능력치
+9900053	|	npc_property_name	|	NPC 표준 능력치
+9900054	|	npc_property_name	|	NPC 표준 능력치
+9900055	|	npc_property_name	|	NPC 표준 능력치
+9900056	|	npc_property_name	|	NPC 표준 능력치
+9900057	|	npc_property_name	|	NPC 표준 능력치
+9900058	|	npc_property_name	|	NPC 표준 능력치
+9900059	|	npc_property_name	|	NPC 표준 능력치
+9900060	|	npc_property_name	|	NPC 표준 능력치
+9900061	|	npc_property_name	|	NPC 표준 능력치
+9900062	|	npc_property_name	|	NPC 표준 능력치
+4000013	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000014	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000015	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000016	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000017	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000018	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000019	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000020	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000021	|	BB_A_n2_TheRuinsStrongBearWarrior_name	|	폐허 도적단 상급 곰전사
+4000022	|	BB_A_n2_TheRuinsStrongBearWarrior_name	|	폐허 도적단 상급 곰전사
+4000023	|	BB_A_n2_TheRuinsStrongShaman_name	|	폐허 도적단 상급 주술사
+4000024	|	BB_A_n2_TheRuinsStrongShaman_name	|	폐허 도적단 상급 주술사
+4000147	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000148	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000149	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000150	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000151	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000152	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000153	|	BB_A_n2_TheRuinsStrongBearWarrior_name	|	폐허 도적단 상급 곰전사
+4000154	|	BB_A_n2_TheRuinsStrongBearWarrior_name	|	폐허 도적단 상급 곰전사
+4000155	|	BB_A_n2_TheRuinsStrongBearWarrior_name	|	폐허 도적단 상급 곰전사
+4000156	|	BB_A_n2_TheRuinsStrongShaman_name	|	폐허 도적단 상급 주술사
+4000157	|	BB_A_n2_TheRuinsStrongShaman_name	|	폐허 도적단 상급 주술사
+4000025	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000026	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000027	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000028	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000029	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000030	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000031	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000032	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000033	|	BB_C_n2_TheRuinsStrongGladiator_name	|	폐허 도적단 상급 검투사
+4000034	|	BB_C_n2_TheRuinsStrongGladiator_name	|	폐허 도적단 상급 검투사
+4000035	|	BB_C_n2_TheRuinsStrongArcher_name	|	폐허 도적단 상급 궁수
+4000036	|	BB_C_n2_TheRuinsStrongArcher_name	|	폐허 도적단 상급 궁수
+4000158	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000159	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000160	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000161	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000162	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000163	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000164	|	BB_C_n2_TheRuinsStrongGladiator_name	|	폐허 도적단 상급 검투사
+4000165	|	BB_C_n2_TheRuinsStrongGladiator_name	|	폐허 도적단 상급 검투사
+4000166	|	BB_C_n2_TheRuinsStrongGladiator_name	|	폐허 도적단 상급 검투사
+4000167	|	BB_C_n2_TheRuinsStrongArcher_name	|	폐허 도적단 상급 궁수
+4000168	|	BB_C_n2_TheRuinsStrongArcher_name	|	폐허 도적단 상급 궁수
+4000037	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000038	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000039	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000040	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000041	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000042	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000043	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000044	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000045	|	BB_M_n2_TheRuinsStrongHeavyarticles_name	|	폐허 혁명군 상급 중갑기사
+4000046	|	BB_M_n2_TheRuinsStrongHeavyarticles_name	|	폐허 혁명군 상급 중갑기사
+4000047	|	BB_M_n2_TheRuinsStrongCanCrossbow_name	|	폐허 혁명군 상급 석궁수
+4000048	|	BB_M_n2_TheRuinsStrongCanCrossbow_name	|	폐허 혁명군 상급 석궁수
+4000169	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000170	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000171	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000172	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000173	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000174	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000175	|	BB_M_n2_TheRuinsStrongHeavyarticles_name	|	폐허 혁명군 상급 중갑기사
+4000176	|	BB_M_n2_TheRuinsStrongHeavyarticles_name	|	폐허 혁명군 상급 중갑기사
+4000177	|	BB_M_n2_TheRuinsStrongHeavyarticles_name	|	폐허 혁명군 상급 중갑기사
+4000178	|	BB_M_n2_TheRuinsStrongCanCrossbow_name	|	폐허 혁명군 상급 석궁수
+4000179	|	BB_M_n2_TheRuinsStrongCanCrossbow_name	|	폐허 혁명군 상급 석궁수
+4000049	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000050	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000051	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000052	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000053	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000054	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000055	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000056	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000057	|	BB_R_n2_TheRuinsStrongMusketeers_name	|	폐허 혁명군 상급 총사
+4000058	|	BB_R_n2_TheRuinsStrongMusketeers_name	|	폐허 혁명군 상급 총사
+4000059	|	BB_R_n2_TheRuinsStrongMeoseukitbottle_name	|	폐허 혁명군 상급 머스킷병
+4000060	|	BB_R_n2_TheRuinsStrongMeoseukitbottle_name	|	폐허 혁명군 상급 머스킷병
+4000180	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000181	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000182	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000183	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000184	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000185	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000186	|	BB_R_n2_TheRuinsStrongMusketeers_name	|	폐허 혁명군 상급 총사
+4000187	|	BB_R_n2_TheRuinsStrongMusketeers_name	|	폐허 혁명군 상급 총사
+4000188	|	BB_R_n2_TheRuinsStrongMusketeers_name	|	폐허 혁명군 상급 총사
+4000189	|	BB_R_n2_TheRuinsStrongMeoseukitbottle_name	|	폐허 혁명군 상급 머스킷병
+4000190	|	BB_R_n2_TheRuinsStrongMeoseukitbottle_name	|	폐허 혁명군 상급 머스킷병
+4000001	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000002	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000003	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000004	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000005	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000006	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000007	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000008	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000009	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000010	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000011	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000012	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000073	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000076	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000079	|	BB_I_n2_TheRuinsStrongrifleman_name	|	폐허 반란군 상급 소총수
+4000082	|	BB_I_n2_TheRuinsStrongrifleman_name	|	폐허 반란군 상급 소총수
+4000104	|	BB_I_n2_TheRuinsStrongrifleman_name	|	폐허 반란군 상급 소총수
+4000106	|	BB_I_n2_TheRuinsStrongrifleman_name	|	폐허 반란군 상급 소총수
+4000109	|	BB_I_n2_TheRuinsStrongrifleman_name	|	폐허 반란군 상급 소총수
+4000113	|	BB_I_n2_TheRuinsStrongshotgunsoldier_name	|	폐허 반란군 상급 돌격병
+4000303	|	BB_I_n2_TheRuinsStrongshotgunsoldier_name	|	폐허 반란군 상급 돌격병
+4000207	|	BB_I_n2_TheRuinsStrongshotgunsoldier_name	|	폐허 반란군 상급 돌격병
+4000208	|	BB_I_n2_TheRuinsStrongshotgunsoldier_name	|	폐허 반란군 상급 돌격병
+4000209	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000210	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000211	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000212	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000213	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000214	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000215	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000216	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000217	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000218	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000219	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000220	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000221	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000222	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000223	|	BB_D_n2_TheRuinsStrongassaultriflesoldier_name	|	폐허 반란군 상급 돌격소총병
+4000224	|	BB_D_n2_TheRuinsStrongassaultriflesoldier_name	|	폐허 반란군 상급 돌격소총병
+4000225	|	BB_D_n2_TheRuinsStrongassaultriflesoldier_name	|	폐허 반란군 상급 돌격소총병
+4000226	|	BB_D_n2_TheRuinsStrongassaultriflesoldier_name	|	폐허 반란군 상급 돌격소총병
+4000227	|	BB_D_n2_TheRuinsStrongassaultriflesoldier_name	|	폐허 반란군 상급 돌격소총병
+4000228	|	BB_D_n2_TheRuinsStrongflame soldier_name	|	폐허 반란군 상급 화염방사병
+4000229	|	BB_D_n2_TheRuinsStrongflame soldier_name	|	폐허 반란군 상급 화염방사병
+4000230	|	BB_D_n2_TheRuinsStrongflame soldier_name	|	폐허 반란군 상급 화염방사병
+4000231	|	BB_D_n2_TheRuinsStrongflame soldier_name	|	폐허 반란군 상급 화염방사병
+4000061	|	BB_A_n1_RockRobbersBearWarrior_name	|	바위산 도적단 곰전사
+4000062	|	BB_A_n1_RockRobbersShaman_name	|	바위산 도적단 주술사
+4000063	|	BB_A_n2_RockRobbersStrongBearWarrior_name	|	바위산 도적단 상급 곰전사
+4000064	|	BB_A_n2_RockRobbersStrongShaman_name	|	바위산 도적단 상급 주술사
+4000065	|	BB_A_e1_RockRobbersElite BearWarrior_name	|	바위산 도적단 정예 곰전사
+4000066	|	BB_A_e1_RockRobbersElite Shaman_name	|	바위산 도적단 정예 주술사
+4000067	|	BB_A_e2_RockRobbersSpecialEliteBearWarrior_name	|	바위산 도적단 특수 정예 곰전사
+4000068	|	BB_A_e2_RockRobbersSpecialEliteShaman_name	|	바위산 도적단 특수 정예 주술사
+4000069	|	BB_A_h1_Ganute_name	|	곰과 같은 가누트
+4000070	|	BB_A_h1_Janute_name	|	곰과 같은 자누트
+4000071	|	BB_A_h1_Jinute_name	|	곰과 같은 지누트
+4000191	|	BB_A_h1_Kanute_name	|	곰과 같은 카누트
+4000192	|	BB_A_h1_Manute_name	|	곰과 같은 마누트
+4000072	|	BB_C_n1_RockRobbersGladiator_name	|	바위산 도적단 검투사
+4000074	|	BB_C_n1_RockRobbersArcher_name	|	바위산 도적단 궁수
+4000075	|	BB_C_n2_RockRobbersStrongGladiator_name	|	바위산 도적단 상급 검투사
+4000077	|	BB_C_n2_RockRobbersStrongArcher_name	|	바위산 도적단 상급 궁수
+4000078	|	BB_C_e1_RockRobbersEliteGladiator_name	|	바위산 도적단 정예 검투사
+4000080	|	BB_C_e1_RockRobbersArcher_name	|	바위산 도적단 정예 궁수
+4000081	|	BB_C_e2_RockRobbersSpecialEliteGladiator_name	|	바위산 도적단 특수 정예 검투사
+4000083	|	BB_C_e2_RockRobbersArcher_name	|	바위산 도적단 특수 정예 궁수
+4000084	|	BB_C_h1_Juni_name	|	춤추는 저니
+4000085	|	BB_C_h1_Jani_name	|	춤추는 자니
+4000086	|	BB_C_h1_Ulran_name	|	추적하는 율란
+4000193	|	BB_C_h1_Ulcan_name	|	추적하는 율켄
+4000194	|	BB_C_h1_Turan_name	|	싸움꾼 투란
+4000087	|	BB_M_n1_RockRobbersHeavyArticles_name	|	바위산 혁명군 중갑기사
+4000088	|	BB_M_n1_RockRobbersCanCrossbow_name	|	바위산 혁명군 석궁수
+4000089	|	BB_M_n1_RockRobbersLouverBottle_name	|	바위산 혁명군 미늘창병
+4000090	|	BB_M_n2_RockRobbersStrongHeavyArticles_name	|	바위산 혁명군 상급 중갑기사
+4000091	|	BB_M_n2_RockRobbersStrongLouverBottle_name	|	바위산 혁명군 상급 미늘창병
+4000092	|	BB_M_n2_RockRobbersStrongCanCrossbow_name	|	바위산 혁명군 상급 석궁수
+4000093	|	BB_M_e1_RockRobbersEliteHeavyArticles_name	|	바위산 혁명군 정예 중갑기사
+4000094	|	BB_M_e1_RockRobbersEliteLouverBottle_name	|	바위산 혁명군 정예 미늘창병
+4000095	|	BB_M_e1_RockRobbersCanCrossbow_name	|	바위산 혁명군 정예 석궁수
+4000096	|	BB_M_e2_RockRobbersSpecialEliteHeavyArticles_name	|	바위산 혁명군 특수 정예 중갑기사
+4000097	|	BB_M_e2_RockRobbersSpecialEliteCanCrossbow_name	|	바위산 혁명군 특수 정예 석궁수
+4000098	|	BB_M_e2_RockRobbersSpecialEliteLouverBottle_name	|	바위산 혁명군 특수 정예 미늘창병
+4000099	|	BB_M_h1_Dakum_name	|	저돌적인 다쿰
+4000100	|	BB_M_h1_Jikum_name	|	저돌적인 지쿰
+4000101	|	BB_M_h1_Bakum_name	|	저돌적인 바쿰
+4000195	|	BB_M_h1_Rakum_name	|	저돌적인 라쿰
+4000196	|	BB_M_h1_Jakum_name	|	저돌적인 자쿰
+4000102	|	BB_R_n1_RockRobbersMusketeers_name	|	바위산 혁명군 총사
+4000103	|	BB_R_n1_RockRobbersMeoseukitBottle_name	|	바위산 혁명군 머스킷병
+4000105	|	BB_R_n2_RockRobbersStrongMusketeers_name	|	바위산 혁명군 상급 총사
+4000107	|	BB_R_n2_RockRobbersStrongMeoseukitBottle_name	|	바위산 혁명군 상급 머스킷병
+4000108	|	BB_R_e1_RockRobbersMusketeers_name	|	바위산 혁명군 정예 총사
+4000110	|	BB_R_e1_RockRobbersEliteMeoseukitBottle_name	|	바위산 혁명군 정예 머스킷병
+4000111	|	BB_R_e2_RockRobbersSpecialEliteMusketeers_name	|	바위산 혁명군 특수 정예 총사
+4000112	|	BB_R_e2_RockRobbersSpecialEliteMeoseukitBottle_name	|	바위산 혁명군 특수 정예 머스킷병
+4000114	|	BB_R_h1_Rwineu_name	|	솜씨 좋은 뤼느
+4000115	|	BB_R_h1_Rwini_name	|	솜씨 좋은 뤼니
+4000116	|	BB_R_h1_Rwine_name	|	솜씨 좋은 뤼네
+4000197	|	BB_R_h1_K_name	|	백발백중 케이
+4000198	|	BB_R_h1_Kane_name	|	백발백중 케인
+4000232	|	BB_I_n1_RockRobbersrifleman_name	|	바위산 반란군 소총수
+4000233	|	BB_I_n1_RockRobbersshotgunsoldier_name	|	바위산 반란군 돌격병
+4000234	|	BB_I_n2_RockRobbersStrongrifleman_name	|	바위산 반란군 상급 소총수
+4000235	|	BB_I_n2_RockRobbersStrongshotgunsoldier_name	|	바위산 반란군 상급 돌격병
+4000236	|	BB_I_e1_RockRobbersEliterifleman_name	|	바위산 반란군 정예 소총수
+4000237	|	BB_I_e1_RockRobbersEliteshotgunsoldier_name	|	바위산 반란군 정예 돌격병
+4000238	|	BB_I_e2_RockRobbersSpecialEliterifleman_name	|	바위산 반란군 특수 정예 소총수
+4000239	|	BB_I_e2_RockRobbersSpecialEliteshotgunsoldier_name	|	바위산 반란군 특수 정예 돌격병
+4000240	|	BB_I_e3_RockRobbers_rifleman1_name	|	기회주의자 요리스
+4000241	|	BB_I_e3_RockRobbers_rifleman2_name	|	기회주의자 율리스
+4000242	|	BB_I_e3_RockRobbers_rifleman3_name	|	기회주의자 유리스
+4000243	|	BB_I_e3_RockRobbers_hotgunsoldier1_name	|	속전속결 노아
+4000244	|	BB_I_e3_RockRobbers_hotgunsoldier2_name	|	속전속결 노바
+4000245	|	BB_D_n1_RockRobbersassaultriflesoldier_name	|	바위산 반란군 돌격소총병
+4000246	|	BB_D_n1_RockRobbersflamesoldier_name	|	바위산 반란군 화염방사병
+4000247	|	BB_D_n2_RockRobbersStrongassaultriflesoldier_name	|	바위산 반란군 상급 돌격소총병
+4000248	|	BB_D_n2_RockRobbersStrongflamesoldier_name	|	바위산 반란군 상급 화염방사병
+4000249	|	BB_D_e1_RockRobbersEliteassaultriflesoldier_name	|	바위산 반란군 정예 돌격소총병
+4000250	|	BB_D_e1_RockRobbersEliteflamesoldier_name	|	바위산 반란군 정예 화염방사병
+4000251	|	BB_D_e2_RockRobbersSpecialEliteassaultriflesoldier_name	|	바위산 반란군 특수 정예 돌격소총병
+4000252	|	BB_D_e2_RockRobbersSpecialEliteflamesoldier_name	|	바위산 반란군 특수 정예 화염방사병
+4000253	|	BB_D_e3_RockRobbers_assaultriflesoldier1_name	|	전쟁광 돌프
+4000254	|	BB_D_e3_RockRobbers_assaultriflesoldier2_name	|	전쟁광 랄프
+4000255	|	BB_D_e3_RockRobbers_assaultriflesoldier3_name	|	전쟁광 롤프
+4000256	|	BB_D_e3_RockRobbers_flamesoldier1_name	|	우직한 바이슨
+4000257	|	BB_D_e3_RockRobbers_flamesoldier2_name	|	우직한 케이슨
+4000199	|	BC_A_n1_PlainsBearWarrior_name	|	평원 도적단 곰전사
+4000200	|	BC_A_n1_PlainsShaman_name	|	평원 도적단 주술사
+4000201	|	BC_M_n1_PlainsHeavyArticles_name	|	평원 혁명군 중갑기사
+4000202	|	BC_M_n1_PlainsCanCrossbow_name	|	평원 혁명군 석궁수
+4000258	|	BC_I_n1_Plainsrifleman_name	|	평원 반란군 소총수
+4000259	|	BC_I_n1_Shotgunsoldier_name	|	평원 반란군 돌격병
+4000117	|	BC_A_n1_PlainsBearWarrior_name	|	평원 도적단 곰전사
+4000118	|	BC_A_n1_PlainsShaman_name	|	평원 도적단 주술사
+4000119	|	BC_M_n1_PlainsHeavyArticles_name	|	평원 혁명군 중갑기사
+4000120	|	BC_M_n1_PlainsCanCrossbow_name	|	평원 혁명군 석궁수
+4000260	|	BC_I_n1_Plainsrifleman_name	|	평원 반란군 소총수
+4000261	|	BC_I_n1_Shotgunsoldier_name	|	평원 반란군 돌격병
+4000121	|	BC_A_n1_PlainsBearWarrior_name	|	평원 도적단 곰전사
+4000122	|	BC_A_n1_PlainsShaman_name	|	평원 도적단 주술사
+4000123	|	BC_A_e1_PlainsChief_name	|	평원 도적단 정예 곰전사
+4000124	|	BC_M_n1_PlainsHeavyArticles_name	|	평원 혁명군 중갑기사
+4000125	|	BC_M_n1_PlainsCanCrossbow_name	|	평원 혁명군 석궁수
+4000126	|	BC_M_e1_PlainsCaptain_name	|	평원 혁명군 정예 증갑기사
+4000262	|	BC_I_n1_Plainsrifleman_name	|	평원 반란군 소총수
+4000263	|	BC_I_n1_Shotgunsoldier_name	|	평원 반란군 돌격병
+4000264	|	BC_I_e1_PlainsEliterifleman_name	|	평원 반란군 정예 소총수
+4000127	|	BC_A_n1_PlainsBearWarrior_name	|	평원 도적단 곰전사
+4000128	|	BC_A_n1_PlainsShaman_name	|	평원 도적단 주술사
+4000129	|	BC_A_e1_PlainsChief_name	|	평원 도적단 정예 곰전사
+4000130	|	BC_A_e1_PlainsShaman_name	|	평원 도적단 정예 주술사
+4000131	|	BC_A_h1_PlainsCaptain_name	|	도살자 무자크
+4000132	|	BC_M_n1_PlainsHeavyArticles_name	|	평원 혁명군 중갑기사
+4000133	|	BC_M_n1_PlainsCanCrossbow_name	|	평원 혁명군 석궁수
+4000134	|	BC_M_e1_PlainsCaptain_name	|	평원 혁명군 정예 증갑기사
+4000135	|	BC_M_e1_PlainsCanCrossbow_name	|	평원 혁명군 정예 석궁수
+4000136	|	BC_M_h1_Flat_name	|	학살자 플렛트
+4000265	|	BC_I_n1_Plainsrifleman_name	|	평원 반란군 소총수
+4000266	|	BC_I_n1_Shotgunsoldier_name	|	평원 반란군 돌격병
+4000267	|	BC_I_e1_PlainsEliterifleman_name	|	평원 반란군 정예 소총수
+4000268	|	BC_I_e1_PlainsElitShotgunsoldier_name	|	평원 반란군 정예 돌격병
+4000269	|	BC_I_h1_caracan_name	|	무법자 카라칸
+400145	|	BC_A_n1_PlainsShaman_name	|	평원 도적단 주술사
+400146	|	BC_M_n1_PlainsCanCrossbow_name	|	평원 혁명군 석궁수
+4000311	|	BC_I_n1_Plainsrifleman_name	|	평원 반란군 소총수
+4000137	|	ST_A_HideBearWarrior_name	|	도적단 견습 곰전사
+4000138	|	ST_C_HideGladiator_name	|	도적단 척후병
+4000139	|	ST_M_HideHeavyArticles_name	|	혁명군 견습 중갑기사
+4000140	|	ST_R_HideMusketeers_name	|	혁명군 척후병
+4000141	|	ST_I_Hideshotgunsoldier_name	|	훈련 병사
+4000142	|	ST_D_Hidesassaultriflesoldie_name	|	훈련 병사
+4000143	|	ST_A_RushBearWarrior_name	|	도적단 견습 곰전사
+4000144	|	ST_C_RushGladiator_name	|	도적단 견습 검투사
+4000270	|	ST_M_RushHeavyArticles_name	|	혁명군 견습 중갑기사
+4000271	|	ST_R_RushMusketeers_name	|	혁명군 견습 총사
+4000272	|	ST_I_Rushshotgunsoldier_name	|	훈련 소대원
+4000273	|	ST_D_Rushsassaultriflesoldie_name	|	훈련 소대원
+4000274	|	ST_A_RushShaman_name	|	도적단 견습 주술사
+4000275	|	ST_C_RushArcher_name	|	도적단 견습 궁수
+4000276	|	ST_M_RushCanCrossbo_name	|	혁명군 견습 석궁수
+4000277	|	ST_R_RushMeoseukitBottle_name	|	혁명군 견습 머스킷병
+4000278	|	ST_I_Rushrifleman_name	|	훈련 소대원
+4000279	|	ST_D_Rushflamesoldier_name	|	훈련 소대원
+4000280	|	ST_All_Rushking_name	|	도적단 돌격대장
+4000281	|	ST_All_Rushking_name	|	도적단 돌격대장
+4000282	|	ST_M_Rushking_name	|	혁명군 돌격대장
+4000283	|	ST_M_Rushking_name	|	혁명군 돌격대장
+4000284	|	ST_I_Rushking_name	|	훈련 소대장
+4000285	|	ST_I_Rushking_name	|	훈련 소대장
+4000286	|	ST_A_commandBearWarrior_name	|	도적단 곰전사
+4000287	|	ST_C_commandGladiator_name	|	도적단 검투사
+4000288	|	ST_M_commandHeavyArticles_name	|	혁명군 중갑기사
+4000289	|	ST_R_commandMusketeers_name	|	혁명군 총사
+4000290	|	ST_I_commandshotgunsoldier_name	|	훈련 병사
+4000291	|	ST_D_commandsassaultriflesoldie_name	|	훈련 병사
+4000292	|	ST_A_commandShaman_name	|	도적단 견습 주술사
+4000293	|	ST_C_commandArcher_name	|	도적단 견습 궁수
+4000294	|	ST_M_commandCanCrossbo_name	|	혁명군 견습 석궁수
+4000295	|	ST_R_commandMeoseukitBottle_name	|	도적단 견습 머스킷병
+4000296	|	ST_I_commandrifleman_name	|	훈련 병사
+4000297	|	ST_D_commandflamesoldier_name	|	훈련 병사
+4000298	|	ST_All_command_name	|	도적단 부사령관
+4000299	|	ST_M_command_name	|	혁명군 부사령관
+4000300	|	ST_I_command_name	|	훈련 장교
+4000304	|	ST_All_towerbaba_name	|	도적단 주술사
+4000305	|	ST_M_towerbaba_name	|	혁명군 석궁수
+4000306	|	ST_I_towerbaba_name	|	훈련 초병
+4000307	|	ST_All_supporting_name	|	도적단 견습 곰전사
+4000308	|	ST_M_supporting_name	|	혁명군 견습 중갑기사
+4000309	|	ST_I_supporting_name	|	훈련 지원 돌격병
+4000203	|	CT_All_n1_SnowChaser_name	|	평원 도적단 소몰이꾼
+4000204	|	CT_All_n1_Farmmanager_name	|	평원 도적단 사육사
+4000205	|	CT_M_n1_SnowChaser_name	|	평원 혁명군 소몰이꾼
+4000206	|	CT_M_n1_Farmmanager_name	|	평원 혁명군 사육사
+4000301	|	CT_I_n1_SnowChaser_name	|	평원 반란군 소몰이꾼
+4000302	|	CT_I_n1_Farmmanager_name	|	평원 반란군 사육사
+4000312	|	ST_All_Housingbaba_name	|	도적단 정예 곰전사
+4000313	|	ST_M_Housingbaba_name	|	혁명군 정예 중갑기사
+4000314	|	ST_I_Housingbaba_name	|	훈련 야전공병
+4000315	|	ST_All_commandking_name	|	도적단 사령관
+4000316	|	ST_M_commandking_name	|	혁명군 사령관
+4000317	|	ST_I_commandking_name	|	훈련 대장
+4000318	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000319	|	BB_A_n1_TheRuinsBearWarrior_name	|	폐허 도적단 곰전사
+4000320	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000321	|	BB_A_n1_TheRuinsShaman_name	|	폐허 도적단 주술사
+4000322	|	BB_A_n2_TheRuinsStrongBearWarrior_name	|	폐허 도적단 상급 곰전사
+4000323	|	BB_A_n2_TheRuinsStrongBearWarrior_name	|	폐허 도적단 상급 곰전사
+4000324	|	BB_A_n2_TheRuinsStrongShaman_name	|	폐허 도적단 상급 주술사
+4000325	|	BB_A_n2_TheRuinsStrongShaman_name	|	폐허 도적단 상급 주술사
+4000326	|	BB_S_E_command_name	|	폐허 도적단 사령관
+4000327	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000328	|	BB_C_n1_TheRuinsGladiator_name	|	폐허 도적단 검투사
+4000329	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000330	|	BB_C_n1_TheRuinsArcher_name	|	폐허 도적단 궁수
+4000331	|	BB_C_n2_TheRuinsStrongGladiator_name	|	폐허 도적단 상급 검투사
+4000332	|	BB_C_n2_TheRuinsStrongGladiator_name	|	폐허 도적단 상급 검투사
+4000333	|	BB_C_n2_TheRuinsStrongArcher_name	|	폐허 도적단 상급 궁수
+4000334	|	BB_C_n2_TheRuinsStrongArcher_name	|	폐허 도적단 상급 궁수
+4000335	|	BB_S_E_command_name	|	폐허 도적단 사령관
+4000336	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000337	|	BB_M_n1_TheRuinsHeavyarticles_name	|	폐허 혁명군 중갑기사
+4000338	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000339	|	BB_M_n1_TheRuinsCanCrossbow_name	|	폐허 혁명군 석궁수
+4000340	|	BB_M_n2_TheRuinsStrongHeavyarticles_name	|	폐허 혁명군 상급 중갑기사
+4000341	|	BB_M_n2_TheRuinsStrongHeavyarticles_name	|	폐허 혁명군 상급 중갑기사
+4000342	|	BB_M_n2_TheRuinsStrongCanCrossbow_name	|	폐허 혁명군 상급 석궁수
+4000343	|	BB_M_n2_TheRuinsStrongCanCrossbow_name	|	폐허 혁명군 상급 석궁수
+4000344	|	BB_S_E_M_command_name	|	폐허 혁명군 사령관
+4000345	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000346	|	BB_R_n1_TheRuinsMusketeers_name	|	폐허 혁명군 총사
+4000347	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000348	|	BB_R_n1_TheRuinsMeoseukitbottle_name	|	폐허 혁명군 머스킷병
+4000349	|	BB_R_n2_TheRuinsStrongMusketeers_name	|	폐허 혁명군 상급 총사
+4000350	|	BB_R_n2_TheRuinsStrongMusketeers_name	|	폐허 혁명군 상급 총사
+4000351	|	BB_R_n2_TheRuinsStrongMeoseukitbottle_name	|	폐허 혁명군 상급 머스킷병
+4000352	|	BB_R_n2_TheRuinsStrongMeoseukitbottle_name	|	폐허 혁명군 상급 머스킷병
+4000353	|	BB_S_E_M_command_name	|	폐허 혁명군 사령관
+4000354	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000355	|	BB_I_n1_TheRuinsrifleman_name	|	폐허 반란군 소총수
+4000356	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000357	|	BB_I_n1_TheRuinsshotgunsoldier_name	|	폐허 반란군 돌격병
+4000358	|	BB_I_n2_TheRuinsStrongrifleman_name	|	폐허 반란군 상급 소총수
+4000359	|	BB_I_n2_TheRuinsStrongrifleman_name	|	폐허 반란군 상급 소총수
+4000360	|	BB_I_n2_TheRuinsStrongshotgunsoldier_name	|	폐허 반란군 상급 돌격병
+4000361	|	BB_I_n2_TheRuinsStrongshotgunsoldier_name	|	폐허 반란군 상급 돌격병
+4000362	|	BB_S_E_I_command_name	|	폐허 반란군 사령관
+4000363	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000364	|	BB_D_n1_TheRuinsassaultriflesoldier_name	|	폐허 반란군 돌격소총병
+4000365	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000366	|	BB_D_n1_TheRuinssflamesoldier_name	|	폐허 반란군 화염방사병
+4000367	|	BB_D_n2_TheRuinsStrongassaultriflesoldier_name	|	폐허 반란군 상급 돌격소총병
+4000368	|	BB_D_n2_TheRuinsStrongassaultriflesoldier_name	|	폐허 반란군 상급 돌격소총병
+4000369	|	BB_D_n2_TheRuinsStrongflame soldier_name	|	폐허 반란군 상급 화염방사병
+4000370	|	BB_D_n2_TheRuinsStrongflame soldier_name	|	폐허 반란군 상급 화염방사병
+4000371	|	BB_S_E_I_command_name	|	폐허 반란군 사령관
+4000372	|	BB_A_n1_RockRobbersBearWarrior_name	|	바위산 도적단 곰전사
+4000373	|	BB_A_n1_RockRobbersBearWarrior_name	|	바위산 도적단 곰전사
+4000374	|	BB_A_n1_RockRobbersBearWarrior_name	|	바위산 도적단 곰전사
+4000375	|	BB_A_n1_RockRobbersShaman_name	|	바위산 도적단 주술사
+4000376	|	BB_A_n1_RockRobbersShaman_name	|	바위산 도적단 주술사
+4000377	|	BB_A_n1_RockRobbersShaman_name	|	바위산 도적단 주술사
+4000378	|	BB_A_n2_RockRobbersStrongBearWarrior_name	|	바위산 도적단 상급 곰전사
+4000379	|	BB_A_n2_RockRobbersStrongShaman_name	|	바위산 도적단 상급 주술사
+4000380	|	BB_A_e1_RockRobbersElite BearWarrior_name	|	바위산 도적단 정예 곰전사
+4000381	|	BB_A_e1_RockRobbersElite Shaman_name	|	바위산 도적단 정예 주술사
+4000382	|	BB_A_e2_RockRobbersSpecialEliteBearWarrior_name	|	바위산 도적단 특수 정예 곰전사
+4000383	|	BB_A_e2_RockRobbersSpecialEliteShaman_name	|	바위산 도적단 특수 정예 주술사
+4000384	|	BB_B_N_command_name	|	바위산 도적단 전투 사령관
+4000385	|	BB_B_E_command_name	|	바위산 도적단 작전 사령관
+4000386	|	BB_C_n1_RockRobbersGladiator_name	|	바위산 도적단 검투사
+4000387	|	BB_C_n1_RockRobbersGladiator_name	|	바위산 도적단 검투사
+4000388	|	BB_C_n1_RockRobbersGladiator_name	|	바위산 도적단 검투사
+4000389	|	BB_C_n1_RockRobbersArcher_name	|	바위산 도적단 궁수
+4000390	|	BB_C_n1_RockRobbersArcher_name	|	바위산 도적단 궁수
+4000391	|	BB_C_n1_RockRobbersArcher_name	|	바위산 도적단 궁수
+4000392	|	BB_C_n2_RockRobbersStrongGladiator_name	|	바위산 도적단 상급 검투사
+4000393	|	BB_C_n2_RockRobbersStrongArcher_name	|	바위산 도적단 상급 궁수
+4000394	|	BB_C_e1_RockRobbersEliteGladiator_name	|	바위산 도적단 정예 검투사
+4000395	|	BB_C_e1_RockRobbersArcher_name	|	바위산 도적단 정예 궁수
+4000396	|	BB_C_e2_RockRobbersSpecialEliteGladiator_name	|	바위산 도적단 특수 정예 검투사
+4000397	|	BB_C_e2_RockRobbersArcher_name	|	바위산 도적단 특수 정예 궁수
+4000398	|	BB_B_N_command_name	|	바위산 도적단 전투 사령관
+4000399	|	BB_B_E_command_name	|	바위산 도적단 작전 사령관
+4000400	|	BB_M_n1_RockRobbersHeavyArticles_name	|	바위산 혁명군 중갑기사
+4000401	|	BB_M_n1_RockRobbersHeavyArticles_name	|	바위산 혁명군 중갑기사
+4000402	|	BB_M_n1_RockRobbersHeavyArticles_name	|	바위산 혁명군 중갑기사
+4000403	|	BB_M_n1_RockRobbersCanCrossbow_name	|	바위산 혁명군 석궁수
+4000404	|	BB_M_n1_RockRobbersCanCrossbow_name	|	바위산 혁명군 석궁수
+4000405	|	BB_M_n1_RockRobbersCanCrossbow_name	|	바위산 혁명군 석궁수
+4000406	|	BB_M_n1_RockRobbersLouverBottle_name	|	바위산 혁명군 미늘창병
+4000407	|	BB_M_n1_RockRobbersLouverBottle_name	|	바위산 혁명군 미늘창병
+4000408	|	BB_M_n1_RockRobbersLouverBottle_name	|	바위산 혁명군 미늘창병
+4000409	|	BB_M_n2_RockRobbersStrongHeavyArticles_name	|	바위산 혁명군 상급 중갑기사
+4000410	|	BB_M_n2_RockRobbersStrongLouverBottle_name	|	바위산 혁명군 상급 미늘창병
+4000411	|	BB_M_n2_RockRobbersStrongCanCrossbow_name	|	바위산 혁명군 상급 석궁수
+4000412	|	BB_M_e1_RockRobbersEliteHeavyArticles_name	|	바위산 혁명군 정예 중갑기사
+4000413	|	BB_M_e1_RockRobbersEliteLouverBottle_name	|	바위산 혁명군 정예 미늘창병
+4000414	|	BB_M_e1_RockRobbersCanCrossbow_name	|	바위산 혁명군 정예 석궁수
+4000415	|	BB_M_e2_RockRobbersSpecialEliteHeavyArticles_name	|	바위산 혁명군 특수 정예 중갑기사
+4000416	|	BB_M_e2_RockRobbersSpecialEliteCanCrossbow_name	|	바위산 혁명군 특수 정예 석궁수
+4000417	|	BB_M_e2_RockRobbersSpecialEliteLouverBottle_name	|	바위산 혁명군 특수 정예 미늘창병
+4000418	|	BB_B_N_M_command_name	|	바위산 혁명군 전투 사령관
+4000419	|	BB_B_E_M_command_name	|	바위산 혁명군 작전 사령관
+4000420	|	BB_R_n1_RockRobbersMusketeers_name	|	바위산 혁명군 총사
+4000421	|	BB_R_n1_RockRobbersMusketeers_name	|	바위산 혁명군 총사
+4000422	|	BB_R_n1_RockRobbersMusketeers_name	|	바위산 혁명군 총사
+4000423	|	BB_R_n1_RockRobbersMeoseukitBottle_name	|	바위산 혁명군 머스킷병
+4000424	|	BB_R_n1_RockRobbersMeoseukitBottle_name	|	바위산 혁명군 머스킷병
+4000425	|	BB_R_n1_RockRobbersMeoseukitBottle_name	|	바위산 혁명군 머스킷병
+4000426	|	BB_R_n2_RockRobbersStrongMusketeers_name	|	바위산 혁명군 상급 총사
+4000427	|	BB_R_n2_RockRobbersStrongMeoseukitBottle_name	|	바위산 혁명군 상급 머스킷병
+4000428	|	BB_R_e1_RockRobbersMusketeers_name	|	바위산 혁명군 정예 총사
+4000429	|	BB_R_e1_RockRobbersEliteMeoseukitBottle_name	|	바위산 혁명군 정예 머스킷병
+4000430	|	BB_R_e2_RockRobbersSpecialEliteMusketeers_name	|	바위산 혁명군 특수 정예 총사
+4000431	|	BB_R_e2_RockRobbersSpecialEliteMeoseukitBottle_name	|	바위산 혁명군 특수 정예 머스킷병
+4000432	|	BB_B_N_M_command_name	|	바위산 혁명군 전투 사령관
+4000433	|	BB_B_E_M_command_name	|	바위산 혁명군 작전 사령관
+4000434	|	BB_I_n1_RockRobbersrifleman_name	|	바위산 반란군 소총수
+4000435	|	BB_I_n1_RockRobbersrifleman_name	|	바위산 반란군 소총수
+4000436	|	BB_I_n1_RockRobbersrifleman_name	|	바위산 반란군 소총수
+4000437	|	BB_I_n1_RockRobbersshotgunsoldier_name	|	바위산 반란군 돌격병
+4000438	|	BB_I_n1_RockRobbersshotgunsoldier_name	|	바위산 반란군 돌격병
+4000439	|	BB_I_n1_RockRobbersshotgunsoldier_name	|	바위산 반란군 돌격병
+4000440	|	BB_I_n2_RockRobbersStrongrifleman_name	|	바위산 반란군 상급 소총수
+4000441	|	BB_I_n2_RockRobbersStrongshotgunsoldier_name	|	바위산 반란군 상급 돌격병
+4000442	|	BB_I_e1_RockRobbersEliterifleman_name	|	바위산 반란군 정예 소총수
+4000443	|	BB_I_e1_RockRobbersEliteshotgunsoldier_name	|	바위산 반란군 정예 돌격병
+4000444	|	BB_I_e2_RockRobbersSpecialEliterifleman_name	|	바위산 반란군 특수 정예 소총수
+4000445	|	BB_I_e2_RockRobbersSpecialEliteshotgunsoldier_name	|	바위산 반란군 특수 정예 돌격병
+4000446	|	BB_B_N_I_command_name	|	바위산 반란군 전투 사령관
+4000447	|	BB_B_E_I_command_name	|	바위산 반란군 작전 사령관
+4000448	|	BB_D_n1_RockRobbersassaultriflesoldier_name	|	바위산 반란군 돌격소총병
+4000449	|	BB_D_n1_RockRobbersassaultriflesoldier_name	|	바위산 반란군 돌격소총병
+4000450	|	BB_D_n1_RockRobbersassaultriflesoldier_name	|	바위산 반란군 돌격소총병
+4000451	|	BB_D_n1_RockRobbersflamesoldier_name	|	바위산 반란군 화염방사병
+4000452	|	BB_D_n1_RockRobbersflamesoldier_name	|	바위산 반란군 화염방사병
+4000453	|	BB_D_n1_RockRobbersflamesoldier_name	|	바위산 반란군 화염방사병
+4000454	|	BB_D_n2_RockRobbersStrongassaultriflesoldier_name	|	바위산 반란군 상급 돌격소총병
+4000455	|	BB_D_n2_RockRobbersStrongflamesoldier_name	|	바위산 반란군 상급 화염방사병
+4000456	|	BB_D_e1_RockRobbersEliteassaultriflesoldier_name	|	바위산 반란군 정예 돌격소총병
+4000457	|	BB_D_e1_RockRobbersEliteflamesoldier_name	|	바위산 반란군 정예 화염방사병
+4000458	|	BB_D_e2_RockRobbersSpecialEliteassaultriflesoldier_name	|	바위산 반란군 특수 정예 돌격소총병
+4000459	|	BB_D_e2_RockRobbersSpecialEliteflamesoldier_name	|	바위산 반란군 특수 정예 화염방사병
+4000460	|	BB_B_N_I_command_name	|	바위산 반란군 전투 사령관
+4000461	|	BB_B_E_I_command_name	|	바위산 반란군 작전 사령관
+4000462	|	BC_A_n1_PlainsBearWarrior_name	|	평원 도적단 곰전사
+4000463	|	BC_A_n1_PlainsBearWarrior_name	|	평원 도적단 곰전사
+4000464	|	BC_M_n1_PlainsHeavyArticles_name	|	평원 혁명군 중갑기사
+4000465	|	BC_M_n1_PlainsHeavyArticles_name	|	평원 혁명군 중갑기사
+4000466	|	BC_I_n1_Shotgunsoldier_name	|	평원 반란군 돌격병
+4000467	|	BC_I_n1_Shotgunsoldier_name	|	평원 반란군 돌격병
+4000468	|	BB_A_n1_RockRobbersBearWarrior_name	|	바위산 도적단 곰전사
+4000469	|	BB_A_n1_RockRobbersBearWarrior_name	|	바위산 도적단 곰전사
+4000470	|	BB_A_n2_RockRobbersStrongBearWarrior_name	|	바위산 도적단 상급 곰전사
+4000471	|	BB_A_n2_RockRobbersStrongBearWarrior_name	|	바위산 도적단 상급 곰전사
+4000472	|	BB_A_n2_RockRobbersStrongShaman_name	|	바위산 도적단 상급 주술사
+4000473	|	BB_A_e1_RockRobbersElite BearWarrior_name	|	바위산 도적단 정예 곰전사
+4000474	|	BB_A_e1_RockRobbersElite Shaman_name	|	바위산 도적단 정예 주술사
+4000475	|	BB_A_e2_RockRobbersSpecialEliteBearWarrior_name	|	바위산 도적단 특수 정예 곰전사
+4000476	|	BB_A_e2_RockRobbersSpecialEliteShaman_name	|	바위산 도적단 특수 정예 주술사
+4000477	|	BB_C_n1_RockRobbersGladiator_name	|	바위산 도적단 검투사
+4000478	|	BB_C_n1_RockRobbersGladiator_name	|	바위산 도적단 검투사
+4000479	|	BB_C_n2_RockRobbersStrongGladiator_name	|	바위산 도적단 상급 검투사
+4000480	|	BB_C_n2_RockRobbersStrongGladiator_name	|	바위산 도적단 상급 검투사
+4000481	|	BB_C_n2_RockRobbersStrongArcher_name	|	바위산 도적단 상급 궁수
+4000482	|	BB_C_e1_RockRobbersEliteGladiator_name	|	바위산 도적단 정예 검투사
+4000483	|	BB_C_e1_RockRobbersArcher_name	|	바위산 도적단 정예 궁수
+4000484	|	BB_C_e2_RockRobbersSpecialEliteGladiator_name	|	바위산 도적단 특수 정예 검투사
+4000485	|	BB_C_e2_RockRobbersArcher_name	|	바위산 도적단 특수 정예 궁수
+4000486	|	BB_M_n1_RockRobbersHeavyArticles_name	|	바위산 혁명군 중갑기사
+4000487	|	BB_M_n1_RockRobbersHeavyArticles_name	|	바위산 혁명군 중갑기사
+4000488	|	BB_M_n2_RockRobbersStrongHeavyArticles_name	|	바위산 혁명군 상급 중갑기사
+4000489	|	BB_M_n2_RockRobbersStrongHeavyArticles_name	|	바위산 혁명군 상급 중갑기사
+4000490	|	BB_M_n2_RockRobbersStrongCanCrossbow_name	|	바위산 혁명군 상급 석궁수
+4000491	|	BB_M_e1_RockRobbersEliteHeavyArticles_name	|	바위산 혁명군 정예 중갑기사
+4000492	|	BB_M_e1_RockRobbersCanCrossbow_name	|	바위산 혁명군 정예 석궁수
+4000493	|	BB_M_e2_RockRobbersSpecialEliteHeavyArticles_name	|	바위산 혁명군 특수 정예 중갑기사
+4000494	|	BB_M_e2_RockRobbersSpecialEliteCanCrossbow_name	|	바위산 혁명군 특수 정예 석궁수
+4000495	|	BB_R_n1_RockRobbersMusketeers_name	|	바위산 혁명군 총사
+4000496	|	BB_R_n1_RockRobbersMusketeers_name	|	바위산 혁명군 총사
+4000497	|	BB_R_n2_RockRobbersStrongMusketeers_name	|	바위산 혁명군 상급 총사
+4000498	|	BB_R_n2_RockRobbersStrongMusketeers_name	|	바위산 혁명군 상급 총사
+4000499	|	BB_R_n2_RockRobbersStrongMeoseukitBottle_name	|	바위산 혁명군 상급 머스킷병
+4000500	|	BB_R_e1_RockRobbersMusketeers_name	|	바위산 혁명군 정예 총사
+4000501	|	BB_R_e1_RockRobbersEliteMeoseukitBottle_name	|	바위산 혁명군 정예 머스킷병
+4000502	|	BB_R_e2_RockRobbersSpecialEliteMusketeers_name	|	바위산 혁명군 특수 정예 총사
+4000503	|	BB_R_e2_RockRobbersSpecialEliteMeoseukitBottle_name	|	바위산 혁명군 특수 정예 머스킷병
+4000504	|	BB_I_n1_RockRobbersshotgunsoldier_name	|	바위산 반란군 돌격병
+4000505	|	BB_I_n1_RockRobbersshotgunsoldier_name	|	바위산 반란군 돌격병
+4000506	|	BB_I_n2_RockRobbersStrongshotgunsoldier_name	|	바위산 반란군 상급 돌격병
+4000507	|	BB_I_n2_RockRobbersStrongshotgunsoldier_name	|	바위산 반란군 상급 돌격병
+4000508	|	BB_I_n2_RockRobbersStrongrifleman_name	|	바위산 반란군 상급 소총수
+4000509	|	BB_I_e1_RockRobbersEliteshotgunsoldier_name	|	바위산 반란군 정예 돌격병
+4000510	|	BB_I_e1_RockRobbersEliterifleman_name	|	바위산 반란군 정예 소총수
+4000511	|	BB_I_e2_RockRobbersSpecialEliteshotgunsoldier_name	|	바위산 반란군 특수 정예 돌격병
+4000512	|	BB_I_e2_RockRobbersSpecialEliterifleman_name	|	바위산 반란군 특수 정예 소총수
+4000513	|	BB_D_n1_RockRobbersflamesoldier_name	|	바위산 반란군 화염방사병
+4000514	|	BB_D_n1_RockRobbersflamesoldier_name	|	바위산 반란군 화염방사병
+4000515	|	BB_D_n2_RockRobbersStrongflamesoldier_name	|	바위산 반란군 상급 화염방사병
+4000516	|	BB_D_n2_RockRobbersStrongflamesoldier_name	|	바위산 반란군 상급 화염방사병
+4000517	|	BB_D_n2_RockRobbersStrongassaultriflesoldier_name	|	바위산 반란군 상급 돌격소총병
+4000518	|	BB_D_e1_RockRobbersEliteflamesoldier_name	|	바위산 반란군 정예 화염방사병
+4000519	|	BB_D_e1_RockRobbersEliteassaultriflesoldier_name	|	바위산 반란군 정예 돌격소총병
+4000520	|	BB_D_e2_RockRobbersSpecialEliteflamesoldier_name	|	바위산 반란군 특수 정예 화염방사병
+4000521	|	BB_D_e2_RockRobbersSpecialEliteassaultriflesoldier_name	|	바위산 반란군 특수 정예 돌격소총병
+4000522	|	NB_AII_Krakatoa_name	|	용암
+4000523	|	BB_A_h1_Yunus_name	|	곰과 같은 유누트
+4000524	|	BB_A_h1_Banus_name	|	곰과 같은 바누트
+4000525	|	BB_A_h1_Reruto_name	|	곰과 같은 레누트
+4000526	|	BB_C_h1_Taranto_name	|	싸움꾼 타란
+4000527	|	BB_C_h1_Curran_name	|	싸움꾼 카란
+4000528	|	BB_C_h1_Yurukan_name	|	추적하는 율칸
+4000529	|	BB_M_h1_Rakumu_name	|	저돌적인 레쿰
+4000530	|	BB_M_h1_Jakumu_name	|	저돌적인 자쿠
+4000531	|	BB_M_h1_Makumu_name	|	저돌적인 마쿰
+4000532	|	BB_R_h1_PorArthur_name	|	솜씨 좋은 뤼산
+4000533	|	BB_R_h1_Keshion_name	|	백발백중 케샨
+4000534	|	BB_R_h1_Cera_name	|	백발백중 케라
+4000535	|	BB_I_h1_Jari_name	|	기회주의자 야리스
+4000536	|	BB_I_h1_Laoshan_name	|	속전속결 노샨
+4000537	|	BB_I_h1_Noe_name	|	속전속결 노이
+4000538	|	BB_D_h1_Deep_name	|	전쟁광 디프
+4000539	|	BB_D_h1_Lawson_name	|	우직한 로이슨
+4000540	|	BB_D_h1_Python_name	|	우직한 파이슨
+4000541	|	A_Disappeared_N2_BearFighter	|	사라진 문명의 상급 곰전사
+4000542	|	A_Disappeared_N2_Shaman	|	사라진 문명의 상급 주술사
+4000543	|	A_Disappeared_E1_BearFighter	|	사라진 문명의 정예 곰전사
+4000544	|	A_Disappeared_E1_Shaman	|	사라진 문명의 정예 주술사
+4000545	|	A_Disappeared_E2_BearFighter	|	사라진 문명의 특수 정예 곰전사
+4000546	|	A_Disappeared_N2_Shaman	|	사라진 문명의 상급 주술사
+4000547	|	A_Disappeared_N2_Knight	|	사라진 문명의 상급 중갑기사
+4000548	|	A_Disappeared_N2_CrossbowMan	|	사라진 문명의 상급 석궁수
+4000549	|	A_Disappeared_E1_Knight	|	사라진 문명의 정예 중갑기사
+4000550	|	A_Disappeared_E1_CrossbowMan	|	사라진 문명의 정예 석궁수
+4000551	|	A_Disappeared_E2_Knight	|	사라진 문명의 특수 정예 중갑기사
+4000552	|	A_Disappeared_N2_CrossbowMan	|	사라진 문명의 상급 석궁수
+4000553	|	A_Disappeared_N2_Assultman	|	사라진 문명의 상급 돌격병
+4000554	|	A_Disappeared_N2_Rifleman	|	사라진 문명의 상급 소총수
+4000555	|	A_Disappeared_E1_Assultman	|	사라진 문명의 정예 돌격병
+4000556	|	A_Disappeared_E1_Rifleman	|	사라진 문명의 정예 소총수
+4000557	|	A_Disappeared_E2_Assultman	|	사라진 문명의 특수 정예 돌격병
+4000558	|	A_Disappeared_N2_Rifleman	|	사라진 문명의 상급 소총수
+3000001	|	FD_All_w1_FragileHorse_name	|	말
+3000003	|	FD_All_w1_ForceFellBison_name	|	들소
+3000004	|	FD_All_w1_LazyBoar_name	|	멧돼지
+3000005	|	FD_All_w1_ThirstyCamel_name	|	낙타
+3000015	|	FD_A_n1_Memeodeu_name	|	매머드
+3000016	|	FD_C_n1_Elephant_name	|	코끼리
+3000020	|	FD_All_n1_GrizzlyBear_name	|	곰
+3000027	|	FD_A_n1_ToothedTigers_name	|	검치 호랑이
+3000028	|	FD_C_n1_Tiger_name	|	호랑이
+3000029	|	FD_C_n1_Elephant_name	|	코끼리
+3000031	|	FD_All_n1_RakesLion_name	|	사자
+3000032	|	FD_All_n1_StrongGrizzlyBear_name	|	거대 곰
+3000033	|	FD_All_n1_BitingWolf_name	|	늑대
+3000034	|	FD_All_n1_Hugehungrywolf_name	|	거대 늑대
+3000035	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000036	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000069	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000095	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000096	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000097	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000098	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000099	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000100	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000101	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000102	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000103	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000104	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000105	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000106	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000107	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000108	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000109	|	BB_All_n1_Wolf_name	|	길들인 폐허 늑대
+3000037	|	NB_All_n1_RockWolf_name	|	사나운 만푸푸네르 늑대
+3000038	|	NB_All_n2_QuickRockWolf_name	|	거친 만푸푸네르 늑대
+3000039	|	NB_All_e1_GiantRockWolf_name	|	난폭한 만푸푸네르 늑대
+3000040	|	NB_All_e2_QuickGiantRockWolf_name	|	늑대왕 로보
+3000002	|	NB_All_n1_RockWolf_name	|	사나운 만푸푸네르 늑대
+3000006	|	NB_All_n2_QuickRockWolf_name	|	거친 만푸푸네르 늑대
+3000007	|	NB_All_e1_GiantRockWolf_name	|	난폭한 만푸푸네르 늑대
+3000008	|	NB_All_e2_QuickGiantRockWolf_name	|	늑대왕 로보
+3000009	|	NB_All_n1_RockWolf_name	|	사나운 만푸푸네르 늑대
+3000010	|	NB_All_n2_QuickRockWolf_name	|	거친 만푸푸네르 늑대
+3000011	|	NB_All_e1_GiantRockWolf_name	|	난폭한 만푸푸네르 늑대
+3000012	|	NB_All_e2_QuickGiantRockWolf_name	|	늑대왕 로보
+3000041	|	NB_A_n1_SequoiaMemeodeu_name	|	사나운 세콰이어 매머드
+3000042	|	NB_A_n2_SequoiaMemeodeuOfforce_name	|	거친 세콰이어 매머드
+3000043	|	NB_A_e1_SequoiaGiantMemeodeu_name	|	난폭한 세콰이어 매머드
+3000044	|	NB_A_e2_SequoiaGiantMemeodeuOfforce_name	|	광포한 세콰이어 매머드
+3000045	|	NB_C_n1_SequoiaElephant_name	|	사나운 세콰이어 코끼리
+3000046	|	NB_C_n2_SequoiaElephantOfforce_name	|	거친 세콰이어 코끼리
+3000047	|	NB_C_e1_SequoiaGiantElephant_name	|	난폭한 세콰이어 코끼리
+3000048	|	NB_C_e2_SequoiaGiantElephantOfforce_name	|	광포한 세콰이어 코끼리
+3000030	|	NB_C_n1_SequoiaElephant_name	|	사나운 세콰이어 코끼리
+3000013	|	NB_C_n1_SequoiaElephant_name	|	사나운 세콰이어 코끼리
+3000014	|	NB_C_n2_SequoiaElephantOfforce_name	|	거친 세콰이어 코끼리
+3000017	|	NB_C_e1_SequoiaGiantElephant_name	|	난폭한 세콰이어 코끼리
+3000018	|	NB_C_e2_SequoiaGiantElephantOfforce_name	|	광포한 세콰이어 코끼리
+3000019	|	NB_C_n1_SequoiaElephant_name	|	사나운 세콰이어 코끼리
+3000021	|	NB_C_n2_SequoiaElephantOfforce_name	|	거친 세콰이어 코끼리
+3000022	|	NB_C_e1_SequoiaGiantElephant_name	|	난폭한 세콰이어 코끼리
+3000023	|	NB_C_e2_SequoiaGiantElephantOfforce_name	|	광포한 세콰이어 코끼리
+3000049	|	NB_All_n1_Cloud Wolf_name	|	사나운 장가계 늑대
+3000050	|	NB_All_n2_Mostlysleekwolf_name	|	거친 장가계 늑대
+3000051	|	NB_All_e1_HugecloudsWolf_name	|	난폭한 장가계 늑대
+3000052	|	NB_All_e2_Powerfulcloudwolf_name	|	광포한 브랑카
+3000024	|	NB_All_n1_Cloud Wolf_name	|	사나운 장가계 늑대
+3000025	|	NB_All_n2_Mostlysleekwolf_name	|	거친 장가계 늑대
+3000026	|	NB_All_e1_HugecloudsWolf_name	|	난폭한 장가계 늑대
+3000110	|	NB_All_e2_Powerfulcloudwolf_name	|	광포한 브랑카
+3000071	|	NB_All_n1_Cloud Wolf_name	|	사나운 장가계 늑대
+3000072	|	NB_All_n2_Mostlysleekwolf_name	|	거친 장가계 늑대
+3000073	|	NB_All_e1_HugecloudsWolf_name	|	난폭한 장가계 늑대
+3000074	|	NB_All_e2_Powerfulcloudwolf_name	|	광포한 브랑카
+3000053	|	NB_A_n1_CliffsToothedTigers_name	|	사나운 절벽 검치 호랑이
+3000054	|	NB_A_n2_CliffsToothedTigers_name	|	거친 절벽 검치 호랑이
+3000055	|	NB_A_e1_CliffsGiantToothedTigers_name	|	난폭한 절벽 검치 호랑이
+3000056	|	NB_A_h1_GiantToothedTigers_name	|	절벽 지배자 타이건
+3000057	|	NB_C_n1_CliffsGiantTiger_name	|	사나운 절벽 호랑이
+3000058	|	NB_C_n2_CliffsGiantTiger_name	|	거친 절벽 호랑이
+3000059	|	NB_C_e1_CliffsGiantTiger_name	|	난폭한 절벽 호랑이
+3000060	|	NB_A_h1_GiantToothedTigers_name	|	절벽 지배자 타이건
+3000075	|	NB_C_n1_CliffsGiantTiger_name	|	사나운 절벽 호랑이
+3000076	|	NB_C_n2_CliffsGiantTiger_name	|	거친 절벽 호랑이
+3000077	|	NB_C_e1_CliffsGiantTiger_name	|	난폭한 절벽 호랑이
+3000078	|	NB_A_h1_GiantToothedTigers_name	|	절벽 지배자 타이건
+3000061	|	NB_All_n1_GrizzlyBear_name	|	사나운 폭포 그리즐리 베어
+3000062	|	NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+3000063	|	NB_All_e1_GrizzlyBear_name	|	난폭한 폭포 그리즐리 베어
+3000064	|	NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+3000079	|	NB_All_n1_GrizzlyBear_name	|	사나운 폭포 그리즐리 베어
+3000080	|	NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+3000081	|	NB_All_e1_GrizzlyBear_name	|	난폭한 폭포 그리즐리 베어
+3000082	|	NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+3000083	|	NB_All_n1_GrizzlyBear_name	|	사나운 폭포 그리즐리 베어
+3000084	|	NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+3000085	|	NB_All_e1_GrizzlyBear_name	|	난폭한 폭포 그리즐리 베어
+3000086	|	NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+3000065	|	NB_All_n1_ZhangjiajieBison_name	|	사나운 소금 들소
+3000066	|	NB_All_n2_ZhangjiajieBison_name	|	거친 소금 들소
+3000067	|	NB_All_e1_ZhangjiajieBison_name	|	난폭한 소금 들소
+3000068	|	NB_All_e2_ZhangjiajieBison_name	|	광포한 소금 들소
+3000087	|	NB_All_n1_ZhangjiajieBison_name	|	사나운 소금 들소
+3000088	|	NB_All_n2_ZhangjiajieBison_name	|	거친 소금 들소
+3000089	|	NB_All_e1_ZhangjiajieBison_name	|	난폭한 소금 들소
+3000090	|	NB_All_e2_ZhangjiajieBison_name	|	광포한 소금 들소
+3000091	|	NB_All_n1_ZhangjiajieBison_name	|	사나운 소금 들소
+3000092	|	NB_All_n2_ZhangjiajieBison_name	|	거친 소금 들소
+3000093	|	NB_All_e1_ZhangjiajieBison_name	|	난폭한 소금 들소
+3000094	|	NB_All_e2_ZhangjiajieBison_name	|	광포한 소금 들소
+3000111	|	Sarting_Pig_name	|	살이 오른 돼지
+3000112	|	Sarting_Sheep_name	|	집 나온 양
+3000113	|	Goat_name	|	염소
+3000114	|	Sarting_Cow_name	|	게으른 소
+3000115	|	Sarting_Pig_name	|	살이 오른 돼지
+3000116	|	Sarting_Sheep_name	|	집 나온 양
+3000117	|	Goat_name	|	염소
+3000118	|	Sarting_Cow_name	|	게으른 소
+3000119	|	Sarting_Pig_name	|	살이 오른 돼지
+3000120	|	Sarting_Sheep_name	|	집 나온 양
+3000121	|	Goat_name	|	염소
+3000122	|	Sarting_Cow_name	|	게으른 소
+3000123	|	FD_All_w1_FragileHorse_name	|	말
+3000124	|	FD_All_w1_FragileHorse_name	|	말
+3000125	|	FD_All_w1_ForceFellBison_name	|	들소
+3000126	|	FD_All_w1_ForceFellBison_name	|	들소
+3000127	|	FD_All_w1_LazyBoar_name	|	멧돼지
+3000128	|	FD_All_w1_LazyBoar_name	|	멧돼지
+3000129	|	FD_All_w1_ThirstyCamel_name	|	낙타
+3000130	|	FD_All_w1_ThirstyCamel_name	|	낙타
+3000131	|	FD_C_n1_Elephant_name	|	코끼리
+3000132	|	FD_C_n1_Elephant_name	|	코끼리
+3000133	|	FD_All_n1_GrizzlyBear_name	|	곰
+3000134	|	FD_All_n1_GrizzlyBear_name	|	곰
+3000135	|	FD_C_n1_Tiger_name	|	호랑이
+3000136	|	FD_C_n1_Tiger_name	|	호랑이
+3000137	|	FD_All_n1_RakesLion_name	|	사자
+3000138	|	FD_All_n1_RakesLion_name	|	사자
+3000139	|	FD_All_n1_StrongGrizzlyBear_name	|	거대 곰
+3000140	|	FD_All_n1_StrongGrizzlyBear_name	|	거대 곰
+3000141	|	FD_All_n1_BitingWolf_name	|	늑대
+3000142	|	FD_All_n1_BitingWolf_name	|	늑대
+3000143	|	FD_All_n1_Hugehungrywolf_name	|	거대 늑대
+3000144	|	FD_All_n1_Hugehungrywolf_name	|	거대 늑대
+3000145	|	FD_C_n1_Elephant_name	|	코끼리
+3000146	|	FD_C_n1_Elephant_name	|	코끼리
+3000147	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000148	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000149	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000150	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000151	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000152	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000153	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000154	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000155	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000156	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000157	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000158	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000159	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000160	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000161	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000162	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000163	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000164	|	BB_All_n1_BigWolf_name	|	길들인 바위 늑대
+3000165	|	NB_All_Young_Wolf_name	|	장가계 어린 늑대
+3000166	|	NB_All_Young_Wolf_name	|	장가계 어린 늑대
+3000167	|	NB_All_Young_Wolf_name	|	장가계 어린 늑대
+3000168	|	NB_All_Adult_Wolf_name	|	장가계 우두머리 늑대
+3000169	|	NB_All_Adult_Wolf_name	|	장가계 우두머리 늑대
+3000170	|	NB_All_Adult_Wolf_name	|	장가계 우두머리 늑대
+3000171	|	NB_All_NimbleWolf_name	|	날렵한 만푸푸네르 늑대
+3000172	|	NB_All_NimbleWolf_name	|	날렵한 만푸푸네르 늑대
+3000173	|	NB_All_NimbleWolf_name	|	날렵한 만푸푸네르 늑대
+3000174	|	NB_All_Boss_mammoth_name	|	포악한 세콰이어 거대 메머드
+3000175	|	NB_All_Boss_elephant_ame	|	포악한 세콰이어 거대 코끼리
+3000176	|	NB_All_Boss_elephant_ame	|	포악한 세콰이어 거대 코끼리
+3000177	|	NB_All_Boss_elephant_ame	|	포악한 세콰이어 거대 코끼리
+3000178	|	NB_All_Atrocity_SabertoothedTiger_name	|	포악한 절벽 검치 호랑이
+3000179	|	NB_All_Fury_tiger_name	|	광포한 절벽 호랑이 
+3000180	|	NB_All_Fury_tiger_name	|	광포한 절벽 호랑이 
+3000181	|	NB_All_Fury_tiger_name	|	광포한 절벽 호랑이 
+3000182	|	NB_All_Fury_tiger_name	|	광포한 절벽 호랑이 
+3000183	|	NB_All_Young_bear_name	|	어린 폭포 그리즐리 베어
+3000184	|	NB_All_Young_bear_name	|	어린 폭포 그리즐리 베어
+3000185	|	NB_All_Young_bear_name	|	어린 폭포 그리즐리 베어
+3000186	|	NB_All_MoonWolf_name	|	포악한 달빛 거대 늑대
+3000187	|	NB_All_MoonWolf_name	|	포악한 달빛 거대 늑대
+3000188	|	NB_All_MoonWolf_name	|	포악한 달빛 거대 늑대
+3000189	|	NB_All_Red_lion_name	|	붉은 바위 사자
+3000190	|	NB_All_Red_lion_name	|	붉은 바위 사자
+3000191	|	NB_All_Red_lion_name	|	붉은 바위 사자
+3000192	|	NB_All_ Geyser_mammoth_name	|	간헐천 메머드
+3000193	|	NB_All_ Geyser_Boss_mammoth_name	|	간헐천 거대 메머드
+3000194	|	NB_All_ Geyser_elephant_name	|	간헐천 코끼리
+3000195	|	NB_All_ Geyser_elephant_name	|	간헐천 코끼리
+3000196	|	NB_All_ Geyser_elephant_name	|	간헐천 코끼리
+3000197	|	NB_All_ Geyser_Boss_elephant_name	|	간헐천 거대 코끼리
+3000198	|	NB_All_ Geyser_Boss_elephant_name	|	간헐천 거대 코끼리
+3000199	|	NB_All_ Geyser_Boss_elephant_name	|	간헐천 거대 코끼리
+3000200	|	NB_Alll_e1_Moonwolf_name	|	달빛 늑대
+3000201	|	NB_Alll_e2_Moonwolf_name	|	달빛 거대 늑대
+3000202	|	NB_Alll_e1_Moonwolf_name	|	달빛 늑대
+3000203	|	NB_Alll_e2_Moonwolf_name	|	달빛 거대 늑대
+3000204	|	NB_Alll_e1_Moonwolf_name	|	달빛 늑대
+3000205	|	NB_Alll_e2_Moonwolf_name	|	달빛 거대 늑대
+3000206	|	NB_Alll_e1_Redlion_name	|	황무지 사자
+3000207	|	NB_Alll_e2_Redlion_name	|	난폭한 황무지 사자
+3000208	|	NB_Alll_e1_Redlion_name	|	황무지 사자
+3000209	|	NB_Alll_e2_Redlion_name	|	난폭한 황무지 사자
+3000210	|	NB_Alll_e1_Redlion_name	|	황무지 사자
+3000211	|	NB_Alll_e2_Redlion_name	|	난폭한 황무지 사자
+222008	|	C.ChinaForeman_name	|	불가사의 현장 감독
+223008	|	C.AztecForeman_name	|	불가사의 현장 감독
+224008	|	C.EgyptForeman_name	|	불가사의 현장 감독
+225008	|	C.RomeForeman_name	|	불가사의 현장 감독
+242008	|	R.ChinaForeman_name	|	불가사의 현장 감독
+243008	|	R.AztecForeman_name	|	불가사의 현장 감독
+244008	|	R.EgyptForeman_name	|	불가사의 현장 감독
+245008	|	R.RomeForeman_name	|	불가사의 현장 감독
+212012	|	A.ChinaMilitaryWonderNPC_name	|	불가사의 수호자
+213012	|	A.AztecMilitaryWonderNPC_name	|	불가사의 수호자
+214012	|	A.EgyptMilitaryWonderNPC_name	|	불가사의 수호자
+215012	|	A.RomeMilitaryWonderNPC_name	|	불가사의 수호자
+222012	|	C.ChinaMilitaryWonderNPC_name	|	불가사의 수호자
+223012	|	C.AztecMilitaryWonderNPC_name	|	불가사의 수호자
+224012	|	C.EgyptMilitaryWonderNPC_name	|	불가사의 수호자
+225012	|	C.RomeMilitaryWonderNPC_name	|	불가사의 수호자
+232012	|	M.ChinaMilitaryWonderNPC_name	|	불가사의 수호자
+233012	|	M.AztecMilitaryWonderNPC_name	|	불가사의 수호자
+234012	|	M.EgyptMilitaryWonderNPC_name	|	불가사의 수호자
+235012	|	M.RomeMilitaryWonderNPC_name	|	불가사의 수호자
+242012	|	R.ChinaMilitaryWonderNPC_name	|	불가사의 수호자
+243012	|	R.AztecMilitaryWonderNPC_name	|	불가사의 수호자
+244012	|	R.EgyptMilitaryWonderNPC_name	|	불가사의 수호자
+245012	|	R.RomeMilitaryWonderNPC_name	|	불가사의 수호자
+212013	|	A.ChinaCultureWonderNPC_name	|	불가사의 계승자
+213013	|	A.AztecCultureWonderNPC_name	|	불가사의 계승자
+214013	|	A.EgyptCultureWonderNPC_name	|	불가사의 계승자
+215013	|	A.RomeCultureWonderNPC_name	|	불가사의 계승자
+222013	|	C.ChinaCultureWonderNPC_name	|	불가사의 계승자
+223013	|	C.AztecCultureWonderNPC_name	|	불가사의 계승자
+224013	|	C.EgyptCultureWonderNPC_name	|	불가사의 계승자
+225013	|	C.RomeCultureWonderNPC_name	|	불가사의 계승자
+232013	|	M.ChinaCultureWonderNPC_name	|	불가사의 계승자
+233013	|	M.AztecCultureWonderNPC_name	|	불가사의 계승자
+234013	|	M.EgyptCultureWonderNPC_name	|	불가사의 계승자
+235013	|	M.RomeCultureWonderNPC_name	|	불가사의 계승자
+242013	|	R.ChinaCultureWonderNPC_name	|	불가사의 계승자
+243013	|	R.AztecCultureWonderNPC_name	|	불가사의 계승자
+244013	|	R.EgyptCultureWonderNPC_name	|	불가사의 계승자
+245013	|	R.RomeCultureWonderNPC_name	|	불가사의 계승자
+212021	|	A.ChinaTheaterMusician_M_name	|	북 연주가
+213021	|	A.AztecTheaterMusician_M_name	|	북 연주가
+214021	|	A.EgyptTheaterMusician_M_name	|	북 연주가
+215021	|	A.RomeTheaterMusician_M_name	|	북 연주가
+212022	|	A.ChinaTheaterMusician_F_name	|	북 연주가
+213022	|	A.AztecTheaterMusician_F_name	|	북 연주가
+214022	|	A.EgyptTheaterMusician_F_name	|	북 연주가
+215022	|	A.RomeTheaterMusician_F_name	|	북 연주가
+232021	|	M.ChinaTheaterMusician_M_name	|	비올로네 연주가
+233021	|	M.AztecTheaterMusician_M_name	|	비올로네 연주가
+234021	|	M.EgyptTheaterMusician_M_name	|	비올로네 연주가
+235021	|	M.RomeTheaterMusician_M_name	|	비올로네 연주가
+232022	|	M.ChinaTheaterMusician_F_name	|	비올로네 연주가
+233022	|	M.AztecTheaterMusician_F_name	|	비올로네 연주가
+234022	|	M.EgyptTheaterMusician_F_name	|	비올로네 연주가
+235022	|	M.RomeTheaterMusician_F_name	|	비올로네 연주가
+212023	|	A.ChinaGuard_n2_Knight_Bridge_name	|	다리 경비병
+213023	|	A.AztecGuard_n2_Knight_Bridge_name	|	다리 경비병
+214023	|	A.EgyptGuard_n2_Knight_Bridge_name	|	다리 경비병
+215023	|	A.RomeGuard_n2_Knight_Bridge_name	|	다리 경비병
+232023	|	M.ChinaGuard_n2_Knight_Bridge_name	|	다리 경비병
+233023	|	M.AztecGuard_n2_Knight_Bridge_name	|	다리 경비병
+234023	|	M.EgyptGuard_n2_Knight_Bridge_name	|	다리 경비병
+235023	|	M.RomeGuard_n2_Knight_Bridge_name	|	다리 경비병
+302314	|	S.M.ChinaStableManager_name	|	역마차 관리인
+302315	|	S.M.AztecStableManager_name	|	역마차 관리인
+302316	|	S.M.EgyptStableManager_name	|	역마차 관리인
+302317	|	S.M.RomeStableManager_name	|	역마차 관리인
+77702	|	A.CityRepresentativeOfChina_name	|	시장
+77703	|	A.CityRepresentativeOfAztec_name	|	시장
+77704	|	A.CityRepresentativeOfEgypt_name	|	시장
+77705	|	A.CityRepresentativeOfRome_name	|	시장
+77722	|	M.CityRepresentativeOfChina_name	|	시장
+77723	|	M.CityRepresentativeOfAztec_name	|	시장
+77724	|	M.CityRepresentativeOfEgypt_name	|	시장
+77725	|	M.CityRepresentativeOfRome_name	|	시장
+77802	|	A.StartingChinaMerchant_name	|	명성용품 상인
+77803	|	A.StartingAztecMerchant_name	|	명성용품 상인
+77804	|	A.StartingEgyptMerchant_name	|	명성용품 상인
+77805	|	A.StartingRomeMerchant_name	|	명성용품 상인
+77822	|	M.StartingChinaMerchant_name	|	명성용품 상인
+77823	|	M.StartingAztecMerchant_name	|	명성용품 상인
+77824	|	M.StartingEgyptMerchant_name	|	명성용품 상인
+77825	|	M.StartingRomeMerchant_name	|	명성용품 상인
+77201	|	Grandmother_China_name	|	할머니
+77202	|	ch.tu_cityleader_daughter_name	|	메이린
+772021	|	ch.tu_cityleader_daughter_name	|	메이린
+772022	|	ch.tu_cityleader_daughter_name	|	메이린
+77203	|	Grandmother_China_name	|	할머니
+77207	|	ch.tu_cityguard_name	|	경비병
+77208	|	ch.tu_cityguard_name	|	경비병
+77209	|	ch.tu_cityguard_name	|	경비병
+77210	|	ch.tu_cityguardgeneral_name	|	경비대장 
+77213	|	ch.tu_commissary_name	|	보급 장교
+77228	|	M.ChinaQuartermaster_name	|	보급 장교
+77227	|	ch.tu_cityleader_name	|	시장
+77211	|	ch.tu_cityleader_daughter_name	|	메이린
+79211	|	ch.tu_cityleader_daughter_name	|	메이린
+78821	|	ch.tu_cityguard_name	|	경비병
+78822	|	ch.tu_cityguard_name	|	경비병
+78823	|	ch.tu_cityguard_name	|	경비병
+78824	|	ch.tu_cityguard_name	|	경비병
+78825	|	tu_ally_fighter_name	|	검투사
+788251	|	tu_ally_fighter_name	|	검투사
+788252	|	tu_ally_fighter_name	|	검투사
+788253	|	tu_ally_fighter_name	|	검투사
+78826	|	tu_ally_ranger_name	|	궁수
+788261	|	tu_ally_ranger_name	|	궁수
+788262	|	tu_ally_ranger_name	|	궁수
+788263	|	tu_ally_ranger_name	|	궁수
+798252	|	tu_ally_lancer_name	|	창기병
+798253	|	tu_ally_lancer_name	|	창기병
+798254	|	tu_ally_lancer_name	|	창기병
+798255	|	tu_ally_lancer_name	|	창기병
+78827	|	ch.tu_watchtower_archer_name	|	중국 감시탑 주술사
+78828	|	ch.tu_watchtower_guard_name	|	중국 감시탑 경비병
+77514	|	ro.tu_axe_name	|	로마 도끼병
+77515	|	ro.tu_shaman_name	|	로마 주술사
+77532	|	ro.tu_axe_name	|	로마 도끼병
+77533	|	ro.tu_shaman_name	|	로마 주술사
+77519	|	ro.tu_fighter_name	|	로마 돌격병
+77520	|	ro.tu_ranger_name	|	로마 궁수
+77521	|	ro.tu_commander_name	|	로마 부대장
+77522	|	ro.tu_general_name	|	로마 장군
+77536	|	ro.tu_fighter_name	|	로마 돌격병
+77537	|	ro.tu_ranger_name	|	로마 궁수
+77516	|	ro.tu_fighter_name	|	로마 돌격병
+77517	|	ro.tu_ranger_name	|	로마 궁수
+77518	|	ro.tu_commander_name	|	로마 부대장
+77534	|	ro.tu_fighter_name	|	로마 돌격병
+77535	|	ro.tu_ranger_name	|	로마 궁수
+79516	|	ro.tu_fighter_name	|	로마 돌격병
+79517	|	ro.tu_ranger_name	|	로마 궁수
+79518	|	ro.tu_commander_name	|	로마 부대장
+79534	|	ro.tu_fighter_name	|	로마 돌격병
+79535	|	ro.tu_ranger_name	|	로마 궁수
+77523	|	ro.tu_watchtower_archer_name	|	로마 감시탑 주술사
+77524	|	ro.tu_watchtower_guard_name	|	로마 감시탑 경비병
+77301	|	Grandmother_China_name	|	할머니
+77302	|	az.tu_cityleader_daughter_name	|	엘라
+773021	|	az.tu_cityleader_daughter_name	|	엘라
+773022	|	az.tu_cityleader_daughter_name	|	엘라
+77303	|	Grandmother_China_name	|	할머니
+77307	|	az.tu_cityguard_name	|	경비병
+77308	|	az.tu_cityguard_name	|	경비병
+77309	|	az.tu_cityguard_name	|	경비병
+77310	|	az.tu_cityguardgeneral_name	|	경비대장 
+77313	|	az.tu_commissary_name	|	보급 장교
+77328	|	M.AztecQuartermaster_name	|	보급 장교
+77327	|	az.tu_cityleader_name	|	시장
+77311	|	az.tu_cityleader_daughter_name	|	엘라
+79311	|	az.tu_cityleader_daughter_name	|	엘라
+78831	|	az.tu_cityguard_name	|	경비병
+78832	|	az.tu_cityguard_name	|	경비병
+78833	|	az.tu_cityguard_name	|	경비병
+78834	|	az.tu_cityguard_name	|	경비병
+78835	|	tu_ally_fighter_name	|	검투사
+788351	|	tu_ally_fighter_name	|	검투사
+788352	|	tu_ally_fighter_name	|	검투사
+788353	|	tu_ally_fighter_name	|	검투사
+78836	|	tu_ally_ranger_name	|	궁수
+788361	|	tu_ally_ranger_name	|	궁수
+788362	|	tu_ally_ranger_name	|	궁수
+788363	|	tu_ally_ranger_name	|	궁수
+798352	|	tu_ally_lancer_name	|	창기병
+798353	|	tu_ally_lancer_name	|	창기병
+798354	|	tu_ally_lancer_name	|	창기병
+798355	|	tu_ally_lancer_name	|	창기병
+78837	|	az.tu_watchtower_archer_name	|	아즈텍 감시탑 주술사
+78838	|	az.tu_watchtower_guard_name	|	아즈텍 감시탑 경비병
+77214	|	ch.tu_axe_name	|	중국 도끼병
+77215	|	ch.tu_shaman_name	|	중국 주술사
+77232	|	ch.tu_axe_name	|	중국 도끼병
+77233	|	ch.tu_shaman_name	|	중국 주술사
+77219	|	ch.tu_fighter_name	|	중국 돌격병
+77220	|	ch.tu_ranger_name	|	중국 궁수
+77221	|	ch.tu_commander_name	|	중국 부대장
+77222	|	ch.tu_general_name	|	중국 장군
+77236	|	ch.tu_fighter_name	|	중국 돌격병
+77237	|	ch.tu_ranger_name	|	중국 궁수
+77216	|	ch.tu_fighter_name	|	중국 돌격병
+77217	|	ch.tu_ranger_name	|	중국 궁수
+77218	|	ch.tu_commander_name	|	중국 부대장
+77234	|	ch.tu_fighter_name	|	중국 돌격병
+77235	|	ch.tu_ranger_name	|	중국 궁수
+79216	|	ch.tu_fighter_name	|	중국 돌격병
+79217	|	ch.tu_ranger_name	|	중국 궁수
+79218	|	ch.tu_commander_name	|	중국 부대장
+79234	|	ch.tu_fighter_name	|	중국 돌격병
+79235	|	ch.tu_ranger_name	|	중국 궁수
+77223	|	ch.tu_watchtower_archer_name	|	중국 감시탑 주술사
+77224	|	ch.tu_watchtower_guard_name	|	중국 감시탑 경비병
+77401	|	Grandmother_China_name	|	할머니
+77402	|	eg.tu_cityleader_daughter_name	|	수나문
+774021	|	eg.tu_cityleader_daughter_name	|	수나문
+774022	|	eg.tu_cityleader_daughter_name	|	수나문
+77403	|	Grandmother_China_name	|	할머니
+77407	|	eg.tu_cityguard_name	|	경비병
+77408	|	eg.tu_cityguard_name	|	경비병
+77409	|	eg.tu_cityguard_name	|	경비병
+77410	|	eg.tu_cityguardgeneral_name	|	경비대장 
+77413	|	eg.tu_commissary_name	|	보급 장교
+77428	|	M.EgyptQuartermaster_name	|	보급 장교
+77427	|	eg.tu_cityleader_name	|	시장
+77411	|	eg.tu_cityleader_daughter_name	|	수나문
+79411	|	eg.tu_cityleader_daughter_name	|	수나문
+78841	|	eg.tu_cityguard_name	|	경비병
+78842	|	eg.tu_cityguard_name	|	경비병
+78843	|	eg.tu_cityguard_name	|	경비병
+78844	|	eg.tu_cityguard_name	|	경비병
+78845	|	tu_ally_fighter_name	|	검투사
+788451	|	tu_ally_fighter_name	|	검투사
+788452	|	tu_ally_fighter_name	|	검투사
+788453	|	tu_ally_fighter_name	|	검투사
+78846	|	tu_ally_ranger_name	|	궁수
+788461	|	tu_ally_ranger_name	|	궁수
+788462	|	tu_ally_ranger_name	|	궁수
+788463	|	tu_ally_ranger_name	|	궁수
+798452	|	tu_ally_lancer_name	|	창기병
+798453	|	tu_ally_lancer_name	|	창기병
+798454	|	tu_ally_lancer_name	|	창기병
+798455	|	tu_ally_lancer_name	|	창기병
+78847	|	eg.tu_watchtower_archer_name	|	이집트 감시탑 주술사
+78848	|	eg.tu_watchtower_guard_name	|	이집트 감시탑 경비병
+77314	|	az.tu_axe_name	|	아즈텍 도끼병
+77315	|	az.tu_shaman_name	|	아즈텍 주술사
+77332	|	az.tu_axe_name	|	아즈텍 도끼병
+77333	|	az.tu_shaman_name	|	아즈텍 주술사
+77319	|	az.tu_fighter_name	|	아즈텍 돌격병
+77320	|	az.tu_ranger_name	|	아즈텍 궁수
+77321	|	az.tu_commander_name	|	아즈텍 부대장
+77322	|	az.tu_general_name	|	아즈텍 장군
+77336	|	az.tu_fighter_name	|	아즈텍 돌격병
+77337	|	az.tu_ranger_name	|	아즈텍 궁수
+77316	|	az.tu_fighter_name	|	아즈텍 돌격병
+77317	|	az.tu_ranger_name	|	아즈텍 궁수
+77318	|	az.tu_commander_name	|	아즈텍 부대장
+77334	|	az.tu_fighter_name	|	아즈텍 돌격병
+77335	|	az.tu_ranger_name	|	아즈텍 궁수
+79316	|	az.tu_fighter_name	|	아즈텍 돌격병
+79317	|	az.tu_ranger_name	|	아즈텍 궁수
+79318	|	az.tu_commander_name	|	아즈텍 부대장
+79334	|	az.tu_fighter_name	|	아즈텍 돌격병
+79335	|	az.tu_ranger_name	|	아즈텍 궁수
+77323	|	az.tu_watchtower_archer_name	|	아즈텍 감시탑 주술사
+77324	|	az.tu_watchtower_guard_name	|	아즈텍 감시탑 경비병
+77501	|	Grandmother_China_name	|	할머니
+77502	|	ro.tu_cityleader_daughter_name	|	율리아
+775021	|	ro.tu_cityleader_daughter_name	|	율리아
+775022	|	ro.tu_cityleader_daughter_name	|	율리아
+77503	|	Grandmother_China_name	|	할머니
+77507	|	ro.tu_cityguard_name	|	경비병
+77508	|	ro.tu_cityguard_name	|	경비병
+77509	|	ro.tu_cityguard_name	|	경비병
+77510	|	ro.tu_cityguardgeneral_name	|	경비대장 
+77513	|	ro.tu_commissary_name	|	보급 장교
+77528	|	M.RomeQuartermaster_name	|	보급 장교
+77527	|	ro.tu_cityleader_name	|	시장
+77511	|	ro.tu_cityleader_daughter_name	|	율리아
+79511	|	ro.tu_cityleader_daughter_name	|	율리아
+78851	|	ro.tu_cityguard_name	|	경비병
+78852	|	ro.tu_cityguard_name	|	경비병
+78853	|	ro.tu_cityguard_name	|	경비병
+78854	|	ro.tu_cityguard_name	|	경비병
+78855	|	tu_ally_fighter_name	|	검투사
+788551	|	tu_ally_fighter_name	|	검투사
+788552	|	tu_ally_fighter_name	|	검투사
+788553	|	tu_ally_fighter_name	|	검투사
+78856	|	tu_ally_ranger_name	|	궁수
+788561	|	tu_ally_ranger_name	|	궁수
+788562	|	tu_ally_ranger_name	|	궁수
+788563	|	tu_ally_ranger_name	|	궁수
+798552	|	tu_ally_lancer_name	|	창기병
+798553	|	tu_ally_lancer_name	|	창기병
+798554	|	tu_ally_lancer_name	|	창기병
+798555	|	tu_ally_lancer_name	|	창기병
+78857	|	ro.tu_watchtower_archer_name	|	로마 감시탑 주술사
+78858	|	ro.tu_watchtower_guard_name	|	로마 감시탑 경비병
+77414	|	eg.tu_axe_name	|	이집트 도끼병
+77415	|	eg.tu_shaman_name	|	이집트 주술사
+77432	|	eg.tu_axe_name	|	이집트 도끼병
+77433	|	eg.tu_shaman_name	|	이집트 주술사
+77419	|	eg.tu_fighter_name	|	이집트 돌격병
+77420	|	eg.tu_ranger_name	|	이집트 궁수
+77421	|	eg.tu_commander_name	|	이집트 부대장
+77422	|	eg.tu_general_name	|	이집트 장군
+77436	|	eg.tu_fighter_name	|	이집트 돌격병
+77437	|	eg.tu_ranger_name	|	이집트 궁수
+77416	|	eg.tu_fighter_name	|	이집트 돌격병
+77417	|	eg.tu_ranger_name	|	이집트 궁수
+77418	|	eg.tu_commander_name	|	이집트 부대장
+77434	|	eg.tu_fighter_name	|	이집트 돌격병
+77435	|	eg.tu_ranger_name	|	이집트 궁수
+79416	|	eg.tu_fighter_name	|	이집트 돌격병
+79417	|	eg.tu_ranger_name	|	이집트 궁수
+79418	|	eg.tu_commander_name	|	이집트 부대장
+79434	|	eg.tu_fighter_name	|	이집트 돌격병
+79435	|	eg.tu_ranger_name	|	이집트 궁수
+77423	|	eg.tu_watchtower_archer_name	|	이집트 감시탑 주술사
+77424	|	eg.tu_watchtower_guard_name	|	이집트 감시탑 경비병
+77001	|	tu_monster	|	흉포한 검치 호랑이
+77002	|	tu_mammoth	|	성난 매머드
+77003	|	A.tuto_invisible_npc1_1	|	#N/A
+77005	|	A.tuto_invisible_npc2_2a	|	#N/A
+77006	|	A.tuto_invisible_npc2_2b	|	#N/A
+77021	|	A.tuto_invisible_npc10	|	#N/A
+77023	|	A.tuto_invisible_npc11	|	#N/A
+1100001	|	tuto_quest_1	|	동굴 입구
+1100002	|	tuto_quest_2	|	매머드가 지나간 곳
+1100019	|	tuto_quest_3	|	동굴 입구
+1100020	|	tuto_quest_4	|	외나무다리
+1100021	|	tuto_quest_5	|	동굴 안
+77022	|	tuto_quest_6	|	#N/A
+99902	|	ch.test_guide	|	친절한 테스트 도우미
+99903	|	az.test_guide	|	친절한 테스트 도우미
+99904	|	eg.test_guide	|	친절한 테스트 도우미
+99905	|	ro.test_guide	|	친절한 테스트 도우미
+77225	|	tuto_ch_smithy_merchant_name	|	대장장이
+77325	|	tuto_az_smithy_merchant_name	|	대장장이
+77425	|	tuto_eg_smithy_merchant_name	|	대장장이
+77525	|	tuto_ro_smithy_merchant_name	|	대장장이
+77226	|	tuto_smithy_name	|	불씨를 기다리는 대장장이
+77326	|	tuto_smithy_name	|	불씨를 기다리는 대장장이
+77426	|	tuto_smithy_name	|	불씨를 기다리는 대장장이
+77526	|	tuto_smithy_name	|	불씨를 기다리는 대장장이
+1100022	|	tuto_quest_7	|	비명소리가 들리는 곳
+1100023	|	tuto_quest_8	|	#N/A
+770227	|	A.China_tuto_worker_name	|	병영 건설현장으로 가는 일꾼
+770327	|	A.Aztec_tuto_worker_name	|	병영 건설현장으로 가는 일꾼
+770427	|	A.Egypt_tuto_worker_name	|	병영 건설현장으로 가는 일꾼
+770527	|	A.Rome_tuto_worker_name	|	병영 건설현장으로 가는 일꾼
+212190	|	A.ChinaStonehengeNPC_name	|	불가사의 수호자
+213190	|	A.AztecStonehengeNPC_name	|	불가사의 수호자
+214190	|	A.EgyptStonehengeNPC_name	|	불가사의 수호자
+215190	|	A.RomeStonehengeNPC_name	|	불가사의 수호자
+212191	|	A.ChinaColossusNPC_name	|	불가사의 수호자
+213191	|	A.AztecColossusNPC_name	|	불가사의 수호자
+214191	|	A.EgyptColossusNPC_name	|	불가사의 수호자
+215191	|	A.RomeColossusNPC_name	|	불가사의 수호자
+212192	|	A.ChinaPyramidNPC_name	|	불가사의 수호자
+213192	|	A.AztecPyramidNPC_name	|	불가사의 수호자
+214192	|	A.EgyptPyramidNPC_name	|	불가사의 수호자
+215192	|	A.RomePyramidNPC_name	|	불가사의 수호자
+212193	|	A.ChinaThegreatlibraryNPC_name	|	불가사의 계승자
+213193	|	A.AztecThegreatlibraryNPC_name	|	불가사의 계승자
+214193	|	A.EgyptThegreatlibraryNPC_name	|	불가사의 계승자
+215193	|	A.RomeThegreatlibraryNPC_name	|	불가사의 계승자
+222190	|	C.ChinaColosseumNPC_name	|	불가사의 수호자
+223190	|	C.AztecColosseumNPC_name	|	불가사의 수호자
+224190	|	C.EgyptColosseumNPC_name	|	불가사의 수호자
+225190	|	C.RomeColosseumNPC_name	|	불가사의 수호자
+222191	|	C.ChinaHeroepicNPC_name	|	불가사의 계승자
+223191	|	C.AztecHeroepicNPC_name	|	불가사의 계승자
+224191	|	C.EgyptHeroepicNPC_name	|	불가사의 계승자
+225191	|	C.RomeHeroepicNPC_name	|	불가사의 계승자
+232190	|	M.ChinaAnkorwatNPC_name	|	불가사의 수호자
+233190	|	M.AztecAnkorwatNPC_name	|	불가사의 수호자
+234190	|	M.EgyptAnkorwatNPC_name	|	불가사의 수호자
+235190	|	M.RomeAnkorwatNPC_name	|	불가사의 수호자
+232191	|	M.ChinaChichenitzaNPC_name	|	불가사의 수호자
+233191	|	M.AztecChichenitzaNPC_name	|	불가사의 수호자
+234191	|	M.EgyptChichenitzaNPC_name	|	불가사의 수호자
+235191	|	M.RomeChichenitzaNPC_name	|	불가사의 수호자
+232192	|	M.ChinaOxfordNPC_name	|	불가사의 계승자
+233192	|	M.AztecOxfordNPC_name	|	불가사의 계승자
+234192	|	M.EgyptOxfordNPC_name	|	불가사의 계승자
+235192	|	M.RomeOxfordNPC_name	|	불가사의 계승자
+232193	|	M.ChinaNotredameNPC_name	|	불가사의 계승자
+233193	|	M.AztecNotredameNPC_name	|	불가사의 계승자
+234193	|	M.EgyptNotredameNPC_name	|	불가사의 계승자
+235193	|	M.RomeNotredameNPC_name	|	불가사의 계승자
+232194	|	M.ChinaPorcelaintowerNPC_name	|	불가사의 계승자
+233194	|	M.AztecPorcelaintowerNPC_name	|	불가사의 계승자
+234194	|	M.EgyptPorcelaintowerNPC_name	|	불가사의 계승자
+235194	|	M.RomePorcelaintowerNPC_name	|	불가사의 계승자
+242190	|	R.ChinaForbiddencityNPC_name	|	불가사의 수호자
+243190	|	R.AztecForbiddencityNPC_name	|	불가사의 수호자
+244190	|	R.EgyptForbiddencityNPC_name	|	불가사의 수호자
+245190	|	R.RomeForbiddencityNPC_name	|	불가사의 수호자
+242191	|	R.ChinaBrandenburgNPC_name	|	불가사의 수호자
+243191	|	R.AztecBrandenburgNPC_name	|	불가사의 수호자
+244191	|	R.EgyptBrandenburgNPC_name	|	불가사의 수호자
+245191	|	R.RomeBrandenburgNPC_name	|	불가사의 수호자
+242192	|	R.ChinaSistinaNPC_name	|	불가사의 계승자
+243192	|	R.AztecSistinaNPC_name	|	불가사의 계승자
+244192	|	R.EgyptSistinaNPC_name	|	불가사의 계승자
+245192	|	R.RomeSistinaNPC_name	|	불가사의 계승자
+242193	|	R.ChinaLouvremuseumNPC_name	|	불가사의 계승자
+243193	|	R.AztecLouvremuseumNPC_name	|	불가사의 계승자
+244193	|	R.EgyptLouvremuseumNPC_name	|	불가사의 계승자
+245193	|	R.RomeLouvremuseumNPC_name	|	불가사의 계승자
+242194	|	R.ChinaTajimahalNPC_name	|	불가사의 수호자
+243194	|	R.AztecTajimahalNPC_name	|	불가사의 수호자
+244194	|	R.EgyptTajimahalNPC_name	|	불가사의 수호자
+245194	|	R.RomeTajimahalNPC_name	|	불가사의 수호자
+1020605	|	TrainedHorse_name	|	조련된 말
+200002	|	C.ChinaCivLeaderNPC_name	|	진시황
+200003	|	C.AztecCivLeaderNPC_name	|	몬테수마
+200004	|	C.EgyptCivLeaderNPC_name	|	하트셉수트
+200005	|	C.RomeCivLeaderNPC_name	|	카이사르
+212026	|	A.ChinaShopMerchant_name	|	명성용품 상인
+213026	|	A.AztecShopMerchant_name	|	명성용품 상인
+214026	|	A.EgyptShopMerchant_name	|	명성용품 상인
+215026	|	A.RomeShopMerchant_name	|	명성용품 상인
+232026	|	M.ChinaShopMerchant_name	|	명성용품 상인
+233026	|	M.AztecShopMerchant_name	|	명성용품 상인
+234026	|	M.EgyptShopMerchant_name	|	명성용품 상인
+235026	|	M.RomeShopMerchant_name	|	명성용품 상인
+200006	|	China_starting_advise_name	|	문명 발생지 안내인 메이린
+200007	|	Aztec_starting_advise_name	|	문명 발생지 안내인 엘라
+200008	|	Egypt_starting_advise_name	|	문명 발생지 안내인 수나문
+200009	|	Rome_starting_advise_name	|	문명 발생지 안내인 율리아
+212195	|	A.China_starting_guard_name	|	정예 방위병
+213195	|	A.Aztec_starting_guard_name	|	정예 방위병
+214195	|	A.Egypt_starting_guard_name	|	정예 방위병
+215195	|	A.Rome_starting_guard_name	|	정예 방위병
+232195	|	M.China_starting_guard_name	|	정예 방위병
+233195	|	M.Aztec_starting_guard_name	|	정예 방위병
+234195	|	M.Egypt_starting_guard_name	|	정예 방위병
+235195	|	M.Rome_starting_guard_name	|	정예 방위병
+252195	|	I.China_starting_guard_name	|	정예 방위병
+253195	|	I.Aztec_starting_guard_name	|	정예 방위병
+254195	|	I.Egypt_starting_guard_name	|	정예 방위병
+255195	|	I.Rome_starting_guard_name	|	정예 방위병
+212196	|	A.China_starting_general_name	|	전초기지 순찰병
+213196	|	A.Aztec_starting_general_name	|	전초기지 순찰병
+214196	|	A.Egypt_starting_general_name	|	전초기지 순찰병
+215196	|	A.Rome_starting_general_name	|	전초기지 순찰병
+232196	|	M.China_starting_general_name	|	전초기지 순찰병
+233196	|	M.Aztec_starting_general_name	|	전초기지 순찰병
+234196	|	M.Egypt_starting_general_name	|	전초기지 순찰병
+235196	|	M.Rome_starting_general_name	|	전초기지 순찰병
+252196	|	I.China_starting_general_name	|	전초기지 순찰병
+253196	|	I.Aztec_starting_general_name	|	전초기지 순찰병
+254196	|	I.Egypt_starting_general_name	|	전초기지 순찰병
+255196	|	I.Rome_starting_general_name	|	전초기지 순찰병
+77742	|	S.I.CityRepresentativeOfChina_name	|	시장
+77743	|	S.I.CityRepresentativeOfAztec_name	|	시장
+77744	|	S.I.CityRepresentativeOfEgypt_name	|	시장
+77745	|	S.I.CityRepresentativeOfRome_name	|	시장
+77842	|	S.I.StartingChinaMerchant_name	|	명성용품 상인
+77843	|	S.I.StartingAztecMerchant_name	|	명성용품 상인
+77844	|	S.I.StartingEgyptMerchant_name	|	명성용품 상인
+77845	|	S.I.StartingRomeMerchant_name	|	명성용품 상인
+302318	|	S.I.ChinaStableManager_name	|	기차역 관리인
+302319	|	S.I.AztecStableManager_name	|	기차역 관리인
+302320	|	S.I.EgyptStableManager_name	|	기차역 관리인
+302321	|	S.I.RomeStableManager_name	|	기차역 관리인
+212197	|	S.A.ChinaSpecialElliteKnightGuard_name	|	도시 방위 대장
+213197	|	S.A.AztecSpecialElliteKnightGuard_name	|	도시 방위 대장
+214197	|	S.A.EgyptSpecialElliteKnightGuard_name	|	도시 방위 대장
+215197	|	S.A.RomeSpecialElliteKnightGuard_name	|	도시 방위 대장
+232197	|	S.M.ChinaSpecialElliteKnightGuard_name	|	도시 방위 대장
+233197	|	S.M.AztecSpecialElliteKnightGuard_name	|	도시 방위 대장
+234197	|	S.M.EgyptSpecialElliteKnightGuard_name	|	도시 방위 대장
+235197	|	S.M.RomeSpecialElliteKnightGuard_name	|	도시 방위 대장
+252197	|	S.I.ChinaSpecialElliteKnightGuard_name	|	도시 방위 대장
+253197	|	S.I.AztecSpecialElliteKnightGuard_name	|	도시 방위 대장
+254197	|	S.I.EgyptSpecialElliteKnightGuard_name	|	도시 방위 대장
+255197	|	S.I.RomeSpecialElliteKnightGuard_name	|	도시 방위 대장
+212198	|	S.A.ChinaMarketDealer_name	|	거래중개인
+213198	|	S.A.AztecMarketDealer_name	|	거래중개인
+214198	|	S.A.EgyptMarketDealer_name	|	거래중개인
+215198	|	S.A.RomeMarketDealer_name	|	거래중개인
+232198	|	S.M.ChinaMarketDealer_name	|	거래중개인
+233198	|	S.M.AztecMarketDealer_name	|	거래중개인
+234198	|	S.M.EgyptMarketDealer_name	|	거래중개인
+235198	|	S.M.RomeMarketDealer_name	|	거래중개인
+252198	|	S.I.ChinaMarketDealer_name	|	거래중개인
+253198	|	S.I.AztecMarketDealer_name	|	거래중개인
+254198	|	S.I.EgyptMarketDealer_name	|	거래중개인
+255198	|	S.I.RomeMarketDealer_name	|	거래중개인
+4000611	|	BC_A_n1_piratesBearWarrior_name	|	붉은수염 해적 전사
+4000612	|	BC_A_n1_piratesShaman_name	|	붉은수염 해적 주술사
+4000613	|	BC_M_n1_piratesHeavyArticles_name	|	검은수염 해적 전사
+4000614	|	BC_M_n1_piratesCanCrossbow_name	|	검은수염 해적 석궁수
+4000615	|	BC_I_n1_piratesrifleman_name	|	회색바다 해적 소총수
+4000616	|	BC_I_n1_piratesShotgunsoldier_name	|	회색바다 해적 돌격병
+4000617	|	BC_A_n1_piratesBearWarrior_name	|	붉은수염 해적 전사
+4000618	|	BC_A_n1_piratesShaman_name	|	붉은수염 해적 주술사
+4000619	|	BC_A_e1_piratesChief_name	|	붉은수염 해적 정예 전사
+4000620	|	BC_M_n1_piratesHeavyArticles_name	|	검은수염 해적 전사
+4000621	|	BC_M_n1_piratesCanCrossbow_name	|	검은수염 해적 석궁수
+4000622	|	BC_M_e1_piratesCaptain_name	|	검은수염 해적 정예 전사
+4000623	|	BC_I_n1_piratesrifleman_name	|	회색바다 해적 소총수
+4000624	|	BC_I_n1_piratesShotgunsoldier_name	|	회색바다 해적 돌격병
+4000625	|	BC_I_e1_piratesEliterifleman_name	|	회색바다 해적 정예 소총수
+4000626	|	BC_A_n1_piratesBearWarrior_name	|	붉은수염 해적 전사
+4000627	|	BC_A_n1_piratesShaman_name	|	붉은수염 해적 주술사
+4000628	|	BC_A_e1_piratesChief_name	|	붉은수염 해적 정예 전사
+4000629	|	BC_A_e1_piratesShaman_name	|	붉은수염 해적 정예 주술사
+4000630	|	BC_A_h1_piratesCaptain_name	|	붉은수염 바르바로사
+4000631	|	BC_M_n1_piratesHeavyArticles_name	|	검은수염 해적 전사
+4000632	|	BC_M_n1_piratesCanCrossbow_name	|	검은수염 해적 석궁수
+4000633	|	BC_M_e1_piratesCaptain_name	|	검은수염 해적 정예 전사
+4000634	|	BC_M_e1_piratesCanCrossbow_name	|	검은수염 해적 정예 석궁수
+4000635	|	BC_M_h1_black_name	|	검은수염 티치
+4000636	|	BC_I_n1_piratesrifleman_name	|	회색바다 해적 소총수
+4000637	|	BC_I_n1_piratesShotgunsoldier_name	|	회색바다 해적 돌격병
+4000638	|	BC_I_e1_piratesEliterifleman_name	|	회색바다 해적 정예 소총수
+4000639	|	BC_I_e1_piratesElitShotgunsoldier_name	|	회색바다 해적 정예 돌격병
+4000640	|	BC_I_h1_driben_name	|	무법자 드라이븐
+4000641	|	BC_A_n1_piratesShaman_name	|	붉은수염 해적 주술사
+4000642	|	BC_M_n1_piratesCanCrossbow_name	|	검은수염 해적 석궁수
+4000643	|	BC_I_n1_piratesrifleman_name	|	회색바다 해적 소총수
+252001	|	I.ChinaCityRepresentative_name	|	시장
+252004	|	I.ChinaCityMerchant_name	|	명성용품 상인
+252005	|	I.ChinaMarketDealer_name	|	거래중개인
+252006	|	I.ChinaSmithyMerchant_name	|	자재 납품 상인
+252007	|	I.ChinaWorkshopMerchant_name	|	신소재 납품 상인
+252008	|	I.ChinaQuartermaster_name	|	보급 장교
+252009	|	I.ChinaGarageManager_name	|	차고 관리인
+252010	|	I.ChinaTrainstationManager_name	|	기차역 관리인
+252011	|	I.ChinaForeman_name	|	불가사의 현장 감독
+252012	|	I.ChinaShopMerchant_name	|	명성용품 상인
+252013	|	I.ChinaLuxuryDealer_name	|	명품 상인
+252014	|	I.ChinaSurgeon_name	|	의사
+252015	|	I.ChinaTheatermaster_name	|	극장 관리인
+252016	|	I.ChinaTheaterMusician_M_name	|	색소폰 연주가
+252017	|	I.ChinaTheaterMusician_F_name	|	색소폰 연주가
+252018	|	I.ChinaAirbaseEngeneer_name	|	항공기 판매인
+252019	|	I.ChinaSpecialElliteKnightGuard_name	|	도시 방위 대장
+252020	|	I.ChinaHabourMaster_name	|	항구 관리인
+252021	|	I.ChinaDockyardEngeneer_name	|	선박 판매인
+253001	|	I.AztecCityRepresentative_name	|	시장
+253004	|	I.AztecCityMerchant_name	|	명성용품 상인
+253005	|	I.AztecMarketDealer_name	|	거래중개인
+253006	|	I.AztecSmithyMerchant_name	|	자재 납품 상인
+253007	|	I.AztecWorkshopMerchant_name	|	신소재 납품 상인
+253008	|	I.AztecQuartermaster_name	|	보급 장교
+253009	|	I.AztecGarageManager_name	|	차고 관리인
+253010	|	I.AztecTrainstationManager_name	|	기차역 관리인
+253011	|	I.AztecForeman_name	|	불가사의 현장 감독
+253012	|	I.AztecShopMerchant_name	|	명성용품 상인
+253013	|	I.AztecLuxuryDealer_name	|	명품 상인
+253014	|	I.AztecSurgeon_name	|	의사
+253015	|	I.AztecTheatermaster_name	|	극장 관리인
+253016	|	I.AztecTheaterMusician_M_name	|	색소폰 연주가
+253017	|	I.AztecTheaterMusician_F_name	|	색소폰 연주가
+253018	|	I.AztecAirbaseEngeneer_name	|	항공기 판매인
+253019	|	I.AztecSpecialElliteKnightGuard_name	|	도시 방위 대장
+253020	|	I.AztecHabourMaster_name	|	항구 관리인
+253021	|	I.AztecDockyardEngeneer_name	|	선박 판매인
+254001	|	I.EgyptCityRepresentative_name	|	시장
+254004	|	I.EgyptCityMerchant_name	|	명성용품 상인
+254005	|	I.EgyptMarketDealer_name	|	거래중개인
+254006	|	I.EgyptSmithyMerchant_name	|	자재 납품 상인
+254007	|	I.EgyptWorkshopMerchant_name	|	신소재 납품 상인
+254008	|	I.EgyptQuartermaster_name	|	보급 장교
+254009	|	I.EgyptGarageManager_name	|	차고 관리인
+254010	|	I.EgyptTrainstationManager_name	|	기차역 관리인
+254011	|	I.EgyptForeman_name	|	불가사의 현장 감독
+254012	|	I.EgyptShopMerchant_name	|	명성용품 상인
+254013	|	I.EgyptLuxuryDealer_name	|	명품 상인
+254014	|	I.EgyptSurgeon_name	|	의사
+254015	|	I.EgyptTheatermaster_name	|	극장 관리인
+254016	|	I.EgyptTheaterMusician_M_name	|	색소폰 연주가
+254017	|	I.EgyptTheaterMusician_F_name	|	색소폰 연주가
+254018	|	I.EgyptAirbaseEngeneer_name	|	항공기 판매인
+254019	|	I.EgyptSpecialElliteKnightGuard_name	|	도시 방위 대장
+254020	|	I.EgyptHabourMaster_name	|	항구 관리인
+254021	|	I.EgyptDockyardEngeneer_name	|	선박 판매인
+255001	|	I.RomeCityRepresentative_name	|	시장
+255004	|	I.RomeCityMerchant_name	|	명성용품 상인
+255005	|	I.RomeMarketDealer_name	|	거래중개인
+255006	|	I.RomeSmithyMerchant_name	|	자재 납품 상인
+255007	|	I.RomeWorkshopMerchant_name	|	신소재 납품 상인
+255008	|	I.RomeQuartermaster_name	|	보급 장교
+255009	|	I.RomeGarageManager_name	|	차고 관리인
+255010	|	I.RomeTrainstationManager_name	|	기차역 관리인
+255011	|	I.RomeForeman_name	|	불가사의 현장 감독
+255012	|	I.RomeShopMerchant_name	|	명성용품 상인
+255013	|	I.RomeLuxuryDealer_name	|	명품 상인
+255014	|	I.RomeSurgeon_name	|	의사
+255015	|	I.RomeTheatermaster_name	|	극장 관리인
+255016	|	I.RomeTheaterMusician_M_name	|	색소폰 연주가
+255017	|	I.RomeTheaterMusician_F_name	|	색소폰 연주가
+255018	|	I.RomeAirbaseEngeneer_name	|	항공기 판매인
+255019	|	I.RomeSpecialElliteKnightGuard_name	|	도시 방위 대장
+255020	|	I.RomeHabourMaster_name	|	항구 관리인
+255021	|	I.RomeDockyardEngeneer_name	|	선박 판매인
+262001	|	Mo.ChinaForeman_name	|	불가사의 현장 감독
+262002	|	Mo.ChinaGarageManager_name	|	차고 관리인
+262003	|	Mo.ChinaAirbaseEngeneer_name	|	항공기 판매인
+262004	|	Mo.ChinaNuclearResearch_name	|	핵 기술 책임 연구원
+262005	|	Mo.ChinaSpaceshipEngeneer_name	|	우주선 엔지니어
+262006	|	Mo.ChinaStewardess_name	|	스튜어디스
+263001	|	Mo.AztecForeman_name	|	불가사의 현장 감독
+263002	|	Mo.AztecGarageManager_name	|	차고 관리인
+263003	|	Mo.AztecAirbaseEngeneer_name	|	항공기 판매인
+263004	|	Mo.AztecNuclearResearch_name	|	핵 기술 책임 연구원
+263005	|	Mo.AztecSpaceshipEngeneer_name	|	우주선 엔지니어
+263006	|	Mo.AztecStewardess_name	|	스튜어디스
+264001	|	Mo.EgyptForeman_name	|	불가사의 현장 감독
+264002	|	Mo.EgyptGarageManager_name	|	차고 관리인
+264003	|	Mo.EgyptAirbaseEngeneer_name	|	항공기 판매인
+264004	|	Mo.EgyptNuclearResearch_name	|	핵 기술 책임 연구원
+264005	|	Mo.EgyptSpaceshipEngeneer_name	|	우주선 엔지니어
+264006	|	Mo.EgyptStewardess_name	|	스튜어디스
+265001	|	Mo.RomeForeman_name	|	불가사의 현장 감독
+265002	|	Mo.RomeGarageManager_name	|	차고 관리인
+265003	|	Mo.RomeAirbaseEngeneer_name	|	항공기 판매인
+265004	|	Mo.RomeNuclearResearch_name	|	핵 기술 책임 연구원
+265005	|	Mo.RomeSpaceshipEngeneer_name	|	우주선 엔지니어
+265006	|	Mo.RomeStewardess_name	|	스튜어디스
+262007	|	Mo.ChinaSpaceshipCockpitFactoryEngeneer_name	|	우주선 조종부 엔지니어
+263007	|	Mo.AztecSpaceshipCockpitFactoryEngeneer_name	|	우주선 조종부 엔지니어
+264007	|	Mo.EgyptSpaceshipCockpitFactoryEngeneer_name	|	우주선 조종부 엔지니어
+265007	|	Mo.RomeSpaceshipCockpitFactoryEngeneer_name	|	우주선 조종부 엔지니어
+262008	|	Mo.ChinaSpaceshipEngineFactoryEngeneer_name	|	우주선 엔진 엔지니어
+263008	|	Mo.AztecSpaceshipEngineFactoryEngeneer_name	|	우주선 엔진 엔지니어
+264008	|	Mo.EgyptSpaceshipEngineFactoryEngeneer_name	|	우주선 엔진 엔지니어
+265008	|	Mo.RomeSpaceshipEngineFactoryEngeneer_name	|	우주선 엔진 엔지니어
+262009	|	Mo.ChinaSpaceshipStasisChamberFactoryEngeneer_name	|	우주선 동면장치 엔지니어
+263009	|	Mo.AztecSpaceshipStasisChamberFactoryEngeneer_name	|	우주선 동면장치 엔지니어
+264009	|	Mo.EgyptSpaceshipStasisChamberFactoryEngeneer_name	|	우주선 동면장치 엔지니어
+265009	|	Mo.RomeSpaceshipStasisChamberFactoryEngeneer_name	|	우주선 동면장치 엔지니어
+262010	|	Mo.ChinaSpaceshipBoosterFactoryEngeneer_name	|	우주선 추진기 엔지니어
+263010	|	Mo.AztecSpaceshipBoosterFactoryEngeneer_name	|	우주선 추진기 엔지니어
+264010	|	Mo.EgyptSpaceshipBoosterFactoryEngeneer_name	|	우주선 추진기 엔지니어
+265010	|	Mo.RomeSpaceshipBoosterFactoryEngeneer_name	|	우주선 추진기 엔지니어
+1100024	|	Starting_spawn_area	|	스타팅브릭 시작 영역 트리거
+1100025	|	A.ChinaStarting_build_area	|	건설 감독관
+1100026	|	A.AztecStarting_build_area	|	건설 감독관
+1100027	|	A.EgyptStarting_build_area	|	건설 감독관
+1100028	|	A.RomeStarting_build_area	|	건설 감독관
+1100029	|	M.ChinaStarting_build_area	|	건설 감독관
+1100030	|	M.AztecStarting_build_area	|	건설 감독관
+1100031	|	M.EgyptStarting_build_area	|	건설 감독관
+1100032	|	M.RomeStarting_build_area	|	건설 감독관
+1100033	|	I.ChinaStarting_build_area	|	건설 감독관
+1100034	|	I.AztecStarting_build_area	|	건설 감독관
+1100035	|	I.EgyptStarting_build_area	|	건설 감독관
+1100036	|	I.RomeStarting_build_area	|	건설 감독관
+1100050	|	Starting_city_area	|	스타팅브릭 시청 영역 트리거
+252024	|	I.ChinaQuartermaster_name	|	보급 장교
+253024	|	I.AztecQuartermaster_name	|	보급 장교
+254024	|	I.EgyptQuartermaster_name	|	보급 장교
+255024	|	I.RomeQuartermaster_name	|	보급 장교
+252025	|	I.ChinaQuartermaster_name	|	보급 장교
+253025	|	I.AztecQuartermaster_name	|	보급 장교
+254025	|	I.EgyptQuartermaster_name	|	보급 장교
+255025	|	I.RomeQuartermaster_name	|	보급 장교
+252026	|	I.ChinaGarageManager_name	|	차고 관리인
+253026	|	I.AztecGarageManager_name	|	차고 관리인
+254026	|	I.EgyptGarageManager_name	|	차고 관리인
+255026	|	I.RomeGarageManager_name	|	차고 관리인
+253027	|	I.AztecGarageManager_name	|	차고 관리인
+254027	|	I.EgyptGarageManager_name	|	차고 관리인
+255027	|	I.RomeGarageManager_name	|	차고 관리인
+252027	|	I.ChinaGarageManager_name	|	차고 관리인
+252028	|	I.ChinaTheatermaster_name	|	극장 관리인
+253028	|	I.AztecTheatermaster_name	|	극장 관리인
+254028	|	I.EgyptTheatermaster_name	|	극장 관리인
+255028	|	I.RomeTheatermaster_name	|	극장 관리인
+252029	|	I.ChinaTheatermaster_name	|	극장 관리인
+253029	|	I.AztecTheatermaster_name	|	극장 관리인
+254029	|	I.EgyptTheatermaster_name	|	극장 관리인
+255029	|	I.RomeTheatermaster_name	|	극장 관리인
+252030	|	I.ChinaDockyardEngeneer_name	|	선박 판매인
+253030	|	I.AztecDockyardEngeneer_name	|	선박 판매인
+254030	|	I.EgyptDockyardEngeneer_name	|	선박 판매인
+255030	|	I.RomeDockyardEngeneer_name	|	선박 판매인
+252031	|	I.ChinaDockyardEngeneer_name	|	선박 판매인
+253031	|	I.AztecDockyardEngeneer_name	|	선박 판매인
+254031	|	I.EgyptDockyardEngeneer_name	|	선박 판매인
+255031	|	I.RomeDockyardEngeneer_name	|	선박 판매인
+252032	|	I.ChinaAirbaseEngeneer_name	|	항공기 판매인
+253032	|	I.AztecAirbaseEngeneer_name	|	항공기 판매인
+254032	|	I.EgyptAirbaseEngeneer_name	|	항공기 판매인
+255032	|	I.RomeAirbaseEngeneer_name	|	항공기 판매인
+252033	|	I.ChinaAirbaseEngeneer_name	|	항공기 판매인
+253033	|	I.AztecAirbaseEngeneer_name	|	항공기 판매인
+254033	|	I.EgyptAirbaseEngeneer_name	|	항공기 판매인
+255033	|	I.RomeAirbaseEngeneer_name	|	항공기 판매인
+262011	|	Mo.ChinaGarageManager_name	|	차고 관리인
+263011	|	Mo.AztecGarageManager_name	|	차고 관리인
+264011	|	Mo.EgyptGarageManager_name	|	차고 관리인
+265011	|	Mo.RomeGarageManager_name	|	차고 관리인
+262012	|	Mo.ChinaGarageManager_name	|	차고 관리인
+263012	|	Mo.AztecGarageManager_name	|	차고 관리인
+264012	|	Mo.EgyptGarageManager_name	|	차고 관리인
+265012	|	Mo.RomeGarageManager_name	|	차고 관리인
+262013	|	Mo.ChinaAirbaseEngeneer_name	|	항공기 판매인
+263013	|	Mo.AztecAirbaseEngeneer_name	|	항공기 판매인
+264013	|	Mo.EgyptAirbaseEngeneer_name	|	항공기 판매인
+265013	|	Mo.RomeAirbaseEngeneer_name	|	항공기 판매인
+262014	|	Mo.ChinaAirbaseEngeneer_name	|	항공기 판매인
+263014	|	Mo.AztecAirbaseEngeneer_name	|	항공기 판매인
+264014	|	Mo.EgyptAirbaseEngeneer_name	|	항공기 판매인
+265014	|	Mo.RomeAirbaseEngeneer_name	|	항공기 판매인
+232030	|	M.ChinatDockyardEngeneer_name	|	선박 판매인
+233030	|	M.AztecDockyardEngeneer_name	|	선박 판매인
+234030	|	M.EgyptDockyardEngeneer_name	|	선박 판매인
+235030	|	M.RomeDockyardEngeneer_name	|	선박 판매인
+232031	|	M.ChinatDockyardEngeneer_name	|	선박 판매인
+233031	|	M.AztecDockyardEngeneer_name	|	선박 판매인
+234031	|	M.EgyptDockyardEngeneer_name	|	선박 판매인
+235031	|	M.RomeDockyardEngeneer_name	|	선박 판매인
+232032	|	M.ChinatDockyardEngeneer_name	|	선박 판매인
+233032	|	M.AztecDockyardEngeneer_name	|	선박 판매인
+234032	|	M.EgyptDockyardEngeneer_name	|	선박 판매인
+235032	|	M.RomeDockyardEngeneer_name	|	선박 판매인
+252034	|	I.ChinaNeuschwansteinNPC_name	|	불가사의 계승자
+253034	|	I.AztecNeuschwansteinNPC_name	|	불가사의 계승자
+254034	|	I.EgyptNeuschwansteinNPC_name	|	불가사의 계승자
+255034	|	I.RomeNeuschwansteinNPC_name	|	불가사의 계승자
+252035	|	I.ChinaEiffeltowerNPC_name	|	불가사의 계승자
+253035	|	I.AztecEiffeltowerNPC_name	|	불가사의 계승자
+254035	|	I.EgyptEiffeltowerNPC_name	|	불가사의 계승자
+255035	|	I.RomeEiffeltowerNPC_name	|	불가사의 계승자
+252036	|	I.ChinaBigbenNPC_name	|	불가사의 계승자
+253036	|	I.AztecBigbenNPC_name	|	불가사의 계승자
+254036	|	I.EgyptBigbenNPC_name	|	불가사의 계승자
+255036	|	I.RomeBigbenNPC_name	|	불가사의 계승자
+252037	|	I.ChinaUNNPC_name	|	불가사의 계승자
+253037	|	I.AztecUNNPC_name	|	불가사의 계승자
+254037	|	I.EgyptUNNPC_name	|	불가사의 계승자
+255037	|	I.RomeUNNPC_name	|	불가사의 계승자
+252038	|	I.ChinaNationalintlligenceagencyNPC_name	|	불가사의 수호자
+253038	|	I.AztecNationalintlligenceagencyNPC_name	|	불가사의 수호자
+254038	|	I.EgyptNationalintlligenceagencyNPC_name	|	불가사의 수호자
+255038	|	I.RomeNationalintlligenceagencyNPC_name	|	불가사의 수호자
+262015	|	Mo.ChinaStatueoflibertyNPC_name	|	불가사의 계승자
+263015	|	Mo.AztecStatueoflibertyNPC_name	|	불가사의 계승자
+264015	|	Mo.EgyptStatueoflibertyNPC_name	|	불가사의 계승자
+265015	|	Mo.RomeStatueoflibertyNPC_name	|	불가사의 계승자
+262016	|	Mo.ChinaPentagonNPC_name	|	불가사의 수호자
+263016	|	Mo.AztecPentagonNPC_name	|	불가사의 수호자
+264016	|	Mo.EgyptPentagonNPC_name	|	불가사의 수호자
+265016	|	Mo.RomePentagonNPC_name	|	불가사의 수호자
+262017	|	Mo.ChinaOperahouseNPC_name	|	불가사의 계승자
+263017	|	Mo.AztecOperahouseNPC_name	|	불가사의 계승자
+264017	|	Mo.EgyptOperahouseNPC_name	|	불가사의 계승자
+265017	|	Mo.RomeOperahouseNPC_name	|	불가사의 계승자
+200010	|	ChinaPromotionNPC_name	|	왕소군
+200011	|	AztecPromotionNPC_name	|	미아
+200012	|	EgyptPromotionNPC_name	|	네페르티티
+200013	|	RomePromotionNPC_name	|	아킬리아
+262018	|	Mo.ChinaNuclearForeman_name	|	핵 기술 연구원
+263018	|	Mo.AztecNuclearForeman_name	|	핵 기술 연구원
+264018	|	Mo.EgyptNuclearForeman_name	|	핵 기술 연구원
+265018	|	Mo.RomeNuclearForeman_name	|	핵 기술 연구원
+202001	|	ChinaCultureVictoryNPC_name	|	문화의 선지자
+203001	|	AztecCultureVictoryNPC_name	|	문화의 선지자
+204001	|	EgyptCultureVictoryNPC_name	|	문화의 선지자
+205001	|	RomeCultureVictoryNPC_name	|	문화의 선지자
+212080	|	A.ChinaOutpostMerchant_name	|	전초기지 상인
+213080	|	A.AztecOutpostMerchant_name	|	전초기지 상인
+214080	|	A.EgyptOutpostMerchant_name	|	전초기지 상인
+215080	|	A.RomeOutpostMerchant_name	|	전초기지 상인
+232080	|	M.ChinaOutpostMerchant_name	|	전초기지 상인
+233080	|	M.AztecOutpostMerchant_name	|	전초기지 상인
+234080	|	M.EgyptOutpostMerchant_name	|	전초기지 상인
+235080	|	M.RomeOutpostMerchant_name	|	전초기지 상인
+252080	|	I.ChinaOutpostMerchant_name	|	전초기지 상인
+253080	|	I.AztecOutpostMerchant_name	|	전초기지 상인
+254080	|	I.EgyptOutpostMerchant_name	|	전초기지 상인
+255080	|	I.RomeOutpostMerchant_name	|	전초기지 상인
+212081	|	A.ChinaOutpostGuard1_name	|	전초기지 경비병
+213081	|	A.AztecOutpostGuard1_name	|	전초기지 경비병
+214081	|	A.EgyptOutpostGuard1_name	|	전초기지 경비병
+215081	|	A.RomeOutpostGuard1_name	|	전초기지 경비병
+212082	|	A.ChinaOutpostGuard2_name	|	전초기지 상급 경비병
+213082	|	A.AztecOutpostGuard2_name	|	전초기지 상급 경비병
+214082	|	A.EgyptOutpostGuard2_name	|	전초기지 상급 경비병
+215082	|	A.RomeOutpostGuard2_name	|	전초기지 상급 경비병
+212083	|	A.ChinaOutpostGuard3_name	|	전초기지 정예 경비병
+213083	|	A.AztecOutpostGuard3_name	|	전초기지 정예 경비병
+214083	|	A.EgyptOutpostGuard3_name	|	전초기지 정예 경비병
+215083	|	A.RomeOutpostGuard3_name	|	전초기지 정예 경비병
+232081	|	M.ChinaOutpostGuard1_name	|	전초기지 경비병
+233081	|	M.AztecOutpostGuard1_name	|	전초기지 경비병
+234081	|	M.EgyptOutpostGuard1_name	|	전초기지 경비병
+235081	|	M.RomeOutpostGuard1_name	|	전초기지 경비병
+232082	|	M.ChinaOutpostGuard2_name	|	전초기지 상급 경비병
+233082	|	M.AztecOutpostGuard2_name	|	전초기지 상급 경비병
+234082	|	M.EgyptOutpostGuard2_name	|	전초기지 상급 경비병
+235082	|	M.RomeOutpostGuard2_name	|	전초기지 상급 경비병
+232083	|	M.ChinaOutpostGuard3_name	|	전초기지 정예 경비병
+233083	|	M.AztecOutpostGuard3_name	|	전초기지 정예 경비병
+234083	|	M.EgyptOutpostGuard3_name	|	전초기지 정예 경비병
+235083	|	M.RomeOutpostGuard3_name	|	전초기지 정예 경비병
+252081	|	I.ChinaOutpostGuard1_name	|	전초기지 경비병
+253081	|	I.AztecOutpostGuard1_name	|	전초기지 경비병
+254081	|	I.EgyptOutpostGuard1_name	|	전초기지 경비병
+255081	|	I.RomeOutpostGuard1_name	|	전초기지 경비병
+252082	|	I.ChinaOutpostGuard2_name	|	전초기지 상급 경비병
+253082	|	I.AztecOutpostGuard2_name	|	전초기지 상급 경비병
+254082	|	I.EgyptOutpostGuard2_name	|	전초기지 상급 경비병
+255082	|	I.RomeOutpostGuard2_name	|	전초기지 상급 경비병
+252083	|	I.ChinaOutpostGuard3_name	|	전초기지 정예 경비병
+253083	|	I.AztecOutpostGuard3_name	|	전초기지 정예 경비병
+254083	|	I.EgyptOutpostGuard3_name	|	전초기지 정예 경비병
+255083	|	I.RomeOutpostGuard3_name	|	전초기지 정예 경비병
+252084	|	I.ChinaTurretGuard1_name	|	포탑 경비병
+253084	|	I.AztecTurretGuard1_name	|	포탑 경비병
+254084	|	I.EgyptTurretGuard1_name	|	포탑 경비병
+255084	|	I.RomeTurretGuard1_name	|	포탑 경비병
+252085	|	I.ChinaTurretGuard2_name	|	포탑 상급 경비병
+253085	|	I.AztecTurretGuard2_name	|	포탑 상급 경비병
+254085	|	I.EgyptTurretGuard2_name	|	포탑 상급 경비병
+255085	|	I.RomeTurretGuard2_name	|	포탑 상급 경비병
+252086	|	I.ChinaTurretGuard3_name	|	포탑 정예 경비병
+253086	|	I.AztecTurretGuard3_name	|	포탑 정예 경비병
+254086	|	I.EgyptTurretGuard3_name	|	포탑 정예 경비병
+255086	|	I.RomeTurretGuard3_name	|	포탑 정예 경비병
+252022	|	I.ChinaTurret1_name	|	포탑
+253022	|	I.AztecTurret1_name	|	포탑
+254022	|	I.EgyptTurret1_name	|	포탑
+255022	|	I.RomeTurret1_name	|	포탑
+252087	|	I.ChinaTurret2_name	|	강화 포탑
+253087	|	I.AztecTurret2_name	|	강화 포탑
+254087	|	I.EgyptTurret2_name	|	강화 포탑
+255087	|	I.RomeTurret2_name	|	강화 포탑
+252088	|	I.ChinaTurret3_name	|	고성능 포탑
+253088	|	I.AztecTurret3_name	|	고성능 포탑
+254088	|	I.EgyptTurret3_name	|	고성능 포탑
+255088	|	I.RomeTurret3_name	|	고성능 포탑
+252023	|	I.ChinaAirGun1_name	|	대공포
+253023	|	I.AztecAirGun1_name	|	대공포
+254023	|	I.EgyptAirGun1_name	|	대공포
+255023	|	I.RomeAirGun1_name	|	대공포
+252089	|	I.ChinaAirGun2_name	|	강화 대공포
+253089	|	I.AztecAirGun2_name	|	강화 대공포
+254089	|	I.EgyptAirGun2_name	|	강화 대공포
+255089	|	I.RomeAirGun2_name	|	강화 대공포
+252090	|	I.ChinaAirGun3_name	|	고성능 대공포
+253090	|	I.AztecAirGun3_name	|	고성능 대공포
+254090	|	I.EgyptAirGun3_name	|	고성능 대공포
+255090	|	I.RomeAirGun3_name	|	고성능 대공포
+252091	|	I.ChinaAirGunGuard1_name	|	대공포 경비병
+253091	|	I.AztecAirGunGuard1_name	|	대공포 경비병
+254091	|	I.EgyptAirGunGuard1_name	|	대공포 경비병
+255091	|	I.RomeAirGunGuard1_name	|	대공포 경비병
+252092	|	I.ChinaAirGunGuard2_name	|	대공포 상급 경비병
+253092	|	I.AztecAirGunGuard2_name	|	대공포 상급 경비병
+254092	|	I.EgyptAirGunGuard2_name	|	대공포 상급 경비병
+255092	|	I.RomeAirGunGuard2_name	|	대공포 상급 경비병
+252093	|	I.ChinaAirGunGuard3_name	|	대공포 정예 경비병
+253093	|	I.AztecAirGunGuard3_name	|	대공포 정예 경비병
+254093	|	I.EgyptAirGunGuard3_name	|	대공포 정예 경비병
+255093	|	I.RomeAirGunGuard3_name	|	대공포 정예 경비병
+252094	|	I.ChinaBridgeGuard1_name	|	다리 경비병
+253094	|	I.AztecBridgeGuard1_name	|	다리 경비병
+254094	|	I.EgyptBridgeGuard1_name	|	다리 경비병
+255094	|	I.RomeBridgeGuard1_name	|	다리 경비병
+252095	|	ChinaAutoMachineGuns_name	|	자동 머신건
+252096	|	ChinaAutoTaserGuns_name	|	자동 테이저건
+252097	|	ChinaSuperAutoArtillery_name	|	초강력 자동화 대포
+252098	|	ChinaNapalmTimeBomb_name	|	네이팜 시한폭탄
+262099	|	Mo.ChinaSSForeman_name	|	우주선 공장 현장 감독
+263099	|	Mo.AztecSSForeman_name	|	우주선 공장 현장 감독
+264099	|	Mo.EgyptSSForeman_name	|	우주선 공장 현장 감독
+265099	|	Mo.RomeSSForeman_name	|	우주선 공장 현장 감독
+212211	|	S.A.ChinaGateGuard_name	|	문명 발생지 정예 방위병
+213211	|	S.A.AztecGateGuard_name	|	문명 발생지 정예 방위병
+214211	|	S.A.EgyptGateGuard_name	|	문명 발생지 정예 방위병
+215211	|	S.A.RomeGateGuard_name	|	문명 발생지 정예 방위병
+232211	|	S.M.ChinaGateGuard_name	|	문명 발생지 정예 방위병
+233211	|	S.M.AztecGateGuard_name	|	문명 발생지 정예 방위병
+234211	|	S.M.EgyptGateGuard_name	|	문명 발생지 정예 방위병
+235211	|	S.M.RomeGateGuard_name	|	문명 발생지 정예 방위병
+252211	|	S.I.ChinaGateGuard_name	|	문명 발생지 정예 방위병
+253211	|	S.I.AztecGateGuard_name	|	문명 발생지 정예 방위병
+254211	|	S.I.EgyptGateGuard_name	|	문명 발생지 정예 방위병
+255211	|	S.I.RomeGateGuard_name	|	문명 발생지 정예 방위병
+1010021	|	Dummy_NPC_bearfighter_name	|	 곰전사 Bot
+1010022	|	Dummy_NPC_shaman_name	|	 주술사 Bot
+1020021	|	Dummy_NPC_gladiator_name	|	 검투사 Bot
+1020022	|	Dummy_NPC_martial_arts_masters_name	|	 무투가 Bot
+1020023	|	Dummy_NPC_archer_name	|	 궁수 Bot
+1030021	|	Dummy_NPC_heavyarmor_knight_name	|	 중갑기사 Bot
+1030022	|	Dummy_NPC_crossbowman_name	|	 석궁수 Bot
+1030023	|	Dummy_NPC_lancer_name	|	 창기병 Bot
+1030024	|	Dummy_NPC_halberdman_name	|	 미늘창병 Bot
+1030025	|	Dummy_NPC_repeating_ballista_name	|	 연노병 Bot
+1040021	|	Dummy_NPC_musketeer_name	|	 총사 Bot
+1040022	|	Dummy_NPC_musketman_name	|	 머스킷병 Bot
+1040023	|	Dummy_NPC_dragoon_name	|	 용기병 Bot
+1040024	|	Dummy_NPC_grenadier_name	|	 척탄병 Bot
+1050021	|	Dummy_NPC_shotgun_soldier_name	|	 돌격병 Bot
+1050022	|	Dummy_NPC_rifleman_name	|	 소총수 Bot
+1050023	|	Dummy_NPC_flamethrower_name	|	 화염방사병 Bot
+1060021	|	Dummy_NPC_assaultriflesoldier_name	|	 돌격소총병 Bot
+1060022	|	Dummy_NPC_sniper_name	|	 저격수 Bot
+1060023	|	Dummy_NPC_spy_name	|	 첩보원 Bot
+1010031	|	Dummy_NPC_bearfighter_name	|	 곰전사 Bot
+1010032	|	Dummy_NPC_shaman_name	|	 주술사 Bot
+1020031	|	Dummy_NPC_gladiator_name	|	 검투사 Bot
+1020032	|	Dummy_NPC_martial_arts_masters_name	|	 무투가 Bot
+1020033	|	Dummy_NPC_archer_name	|	 궁수 Bot
+1030031	|	Dummy_NPC_heavyarmor_knight_name	|	 중갑기사 Bot
+1030032	|	Dummy_NPC_crossbowman_name	|	 석궁수 Bot
+1030033	|	Dummy_NPC_lancer_name	|	 창기병 Bot
+1030034	|	Dummy_NPC_halberdman_name	|	 미늘창병 Bot
+1030035	|	Dummy_NPC_repeating_ballista_name	|	 연노병 Bot
+1040031	|	Dummy_NPC_musketeer_name	|	 총사 Bot
+1040032	|	Dummy_NPC_musketman_name	|	 머스킷병 Bot
+1040033	|	Dummy_NPC_dragoon_name	|	 용기병 Bot
+1040034	|	Dummy_NPC_grenadier_name	|	 척탄병 Bot
+1050031	|	Dummy_NPC_shotgun_soldier_name	|	 돌격병 Bot
+1050032	|	Dummy_NPC_rifleman_name	|	 소총수 Bot
+1050033	|	Dummy_NPC_flamethrower_name	|	 화염방사병 Bot
+1060031	|	Dummy_NPC_assaultriflesoldier_name	|	 돌격소총병 Bot
+1060032	|	Dummy_NPC_sniper_name	|	 저격수 Bot
+1060033	|	Dummy_NPC_spy_name	|	 첩보원 Bot
+1010041	|	Dummy_NPC_bearfighter_name	|	 곰전사 Bot
+1010042	|	Dummy_NPC_shaman_name	|	 주술사 Bot
+1020041	|	Dummy_NPC_gladiator_name	|	 검투사 Bot
+1020042	|	Dummy_NPC_martial_arts_masters_name	|	 무투가 Bot
+1020043	|	Dummy_NPC_archer_name	|	 궁수 Bot
+1030041	|	Dummy_NPC_heavyarmor_knight_name	|	 중갑기사 Bot
+1030042	|	Dummy_NPC_crossbowman_name	|	 석궁수 Bot
+1030043	|	Dummy_NPC_lancer_name	|	 창기병 Bot
+1030044	|	Dummy_NPC_halberdman_name	|	 미늘창병 Bot
+1030045	|	Dummy_NPC_repeating_ballista_name	|	 연노병 Bot
+1040041	|	Dummy_NPC_musketeer_name	|	 총사 Bot
+1040042	|	Dummy_NPC_musketman_name	|	 머스킷병 Bot
+1040043	|	Dummy_NPC_dragoon_name	|	 용기병 Bot
+1040044	|	Dummy_NPC_grenadier_name	|	 척탄병 Bot
+1050041	|	Dummy_NPC_shotgun_soldier_name	|	 돌격병 Bot
+1050042	|	Dummy_NPC_rifleman_name	|	 소총수 Bot
+1050043	|	Dummy_NPC_flamethrower_name	|	 화염방사병 Bot
+1060041	|	Dummy_NPC_assaultriflesoldier_name	|	 돌격소총병 Bot
+1060042	|	Dummy_NPC_sniper_name	|	 저격수 Bot
+1060043	|	Dummy_NPC_spy_name	|	 첩보원 Bot
+1010051	|	Dummy_NPC_bearfighter_name	|	 곰전사 Bot
+1010052	|	Dummy_NPC_shaman_name	|	 주술사 Bot
+1020051	|	Dummy_NPC_gladiator_name	|	 검투사 Bot
+1020052	|	Dummy_NPC_martial_arts_masters_name	|	 무투가 Bot
+1020053	|	Dummy_NPC_archer_name	|	 궁수 Bot
+1030051	|	Dummy_NPC_heavyarmor_knight_name	|	 중갑기사 Bot
+1030052	|	Dummy_NPC_crossbowman_name	|	 석궁수 Bot
+1030053	|	Dummy_NPC_lancer_name	|	 창기병 Bot
+1030054	|	Dummy_NPC_halberdman_name	|	 미늘창병 Bot
+1030055	|	Dummy_NPC_repeating_ballista_name	|	 연노병 Bot
+1040051	|	Dummy_NPC_musketeer_name	|	 총사 Bot
+1040052	|	Dummy_NPC_musketman_name	|	 머스킷병 Bot
+1040053	|	Dummy_NPC_dragoon_name	|	 용기병 Bot
+1040054	|	Dummy_NPC_grenadier_name	|	 척탄병 Bot
+1050051	|	Dummy_NPC_shotgun_soldier_name	|	 돌격병 Bot
+1050052	|	Dummy_NPC_rifleman_name	|	 소총수 Bot
+1050053	|	Dummy_NPC_flamethrower_name	|	 화염방사병 Bot
+1060051	|	Dummy_NPC_assaultriflesoldier_name	|	 돌격소총병 Bot
+1060052	|	Dummy_NPC_sniper_name	|	 저격수 Bot
+1060053	|	Dummy_NPC_spy_name	|	 첩보원 Bot
+230006	|	S.M.China_starting_advise_name	|	문명 발생지 안내인 메이린
+230007	|	S.M.Aztec_starting_advise_name	|	문명 발생지 안내인 엘라
+230008	|	S.M.Egypt_starting_advise_name	|	문명 발생지 안내인 수나문
+230009	|	S.M.Rome_starting_advise_name	|	문명 발생지 안내인 율리아
+250006	|	S.I.China_starting_advise_name	|	문명 발생지 안내인 메이린
+250007	|	S.I.Aztec_starting_advise_name	|	문명 발생지 안내인 엘라
+250008	|	S.I.Egypt_starting_advise_name	|	문명 발생지 안내인 수나문
+250009	|	S.I.Rome_starting_advise_name	|	문명 발생지 안내인 율리아
+252100	|	I.ChinaTurret1_name	|	포탑
+253100	|	I.AztecTurret1_name	|	포탑
+254100	|	I.EgyptTurret1_name	|	포탑
+255100	|	I.RomeTurret1_name	|	포탑
+77024	|	A.tuto_invisible_npc12	|	#N/A
+78521	|	ro.tu_commander_name	|	로마 부대장
+78221	|	ch.tu_commander_name	|	중국 부대장
+78321	|	az.tu_commander_name	|	아즈텍 부대장
+78421	|	eg.tu_commander_name	|	이집트 부대장
+6000001	|	Ach_An_Disappeared_Boss01	|	사라진 문명의 후예 칼리
+6000002	|	Ach_An_Disappeared_Shaman	|	사라진 문명의 상급 주술사
+6000003	|	Ach_Cl_Disappeared_Boss01	|	사라진 문명의 후예 로스
+6000004	|	Ach_Cl_Disappeared_Archer	|	사라진 문명의 상급 궁수
+6000005	|	Ach_Me_Disappeared_Boss01	|	사라진 문명의 후예 카먼
+6000006	|	Ach_Me_Disappeared_CanCrossbow	|	사라진 문명의 상급 석궁수
+6000007	|	Ach_Re_Disappeared_Boss01	|	사라진 문명의 후예 모디아
+6000008	|	Ach_Re_Disappeared_Musketeer	|	사라진 문명의 상급 머스킷병
+6000009	|	Ach_In_Disappeared_Boss01	|	사라진 문명의 후예 키팅
+6000010	|	Ach_In_Disappeared_Assultman	|	사라진 문명의 상급 돌격병
+6000011	|	Ach_Mo_Disappeared_Boss01	|	사라진 문명의 후예 워터스
+6000012	|	Ach_Mo_Disappeared_Flamethrower	|	사라진 문명의 상급 화염방사병
+6000013	|	Ach_An_Disappeared_Boss02	|	사라진 문명의 후예 티베리
+6000014	|	Ach_Cl_Disappeared_Boss02	|	사라진 문명의 후예 레프
+6000015	|	Ach_Cl_Disappeared_Gladiator	|	사라진 문명의 후예 검투사
+6000016	|	Ach_Me_Disappeared_Boss02	|	사라진 문명의 후예 리어드
+6000017	|	Ach_Re_Disappeared_Boss02	|	사라진 문명의 후예 엘프리에
+6000018	|	Ach_Re_Disappeared_Thiefgunner	|	사라진 문명의 상급 총사
+6000019	|	Ach_In_Disappeared_Boss02	|	사라진 문명의 후예 먼로
+6000020	|	Ach_In_Disappeared_Rifleman	|	사라진 문명의 상급 소총수
+6000021	|	Ach_Mo_Disappeared_Boss02	|	사라진 문명의 후예 웨트
+6000022	|	Ach_Mo_Disappeared_AssultRifleman	|	사라진 문명의 돌격소총병
+61900	|	card_ancient_barbarian	|	고대 야만인
+61905	|	card_ancient_barbarian	|	고대 야만인
+61910	|	card_ancient_barbarian	|	고대 야만인
+62400	|	card_summon_of_defensive_drone	|	방어 드론
+62405	|	card_summon_of_defensive_drone	|	방어 드론
+62410	|	card_summon_of_defensive_drone	|	방어 드론
+4900000	|	IN_I_farmland_10Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900001	|	IN_A_farmland_5Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900002	|	IN_A_farmland_5Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900003	|	IN_A_farmland_5Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900004	|	IN_A_farmland_5Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900005	|	IN_A_farmland_5Lv_shaman_Weak2	|	농장 약탈단 상급 주술사
+4900006	|	IN_A_farmland_10Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900007	|	IN_A_farmland_10Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900008	|	IN_A_farmland_10Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900009	|	IN_A_farmland_10Lv_BearFighter_Weak1	|	농장 약탈단 곰전사
+4900010	|	IN_A_farmland_10Lv_archer_Normal1	|	농장 약탈단 사령관
+4900011	|	IN_M_farmland_5Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900012	|	IN_M_farmland_5Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900013	|	IN_M_farmland_5Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900014	|	IN_M_farmland_5Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900015	|	IN_M_farmland_5Lv_crossbow_Weak2	|	농장 약탈단 상급 석궁수
+4900016	|	IN_M_farmland_10Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900017	|	IN_M_farmland_10Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900018	|	IN_M_farmland_10Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900019	|	IN_M_farmland_10Lv_Knight_Weak1	|	농장 약탈단 중갑기사
+4900020	|	IN_M_farmland_10Lv_Musket_Normal1	|	농장 약탈단 사령관
+4900021	|	IN_I_farmland_5Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900022	|	IN_I_farmland_5Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900023	|	IN_I_farmland_5Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900024	|	IN_I_farmland_5Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900025	|	IN_I_farmland_5Lv_Rifleman_Weak2	|	농장 약탈단 상급 소총수
+4900026	|	IN_I_farmland_10Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900027	|	IN_I_farmland_10Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900028	|	IN_I_farmland_10Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900029	|	IN_I_farmland_10Lv_Assultman_Weak1	|	농장 약탈단 돌격병
+4900030	|	IN_I_farmland_10Lv_Rifleman_Normal1	|	농장 약탈단 사령관
+4900031	|	IN_A_mine_5Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900032	|	IN_A_mine_5Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900033	|	IN_A_mine_5Lv_shaman_Weak2	|	광산 약탈단 주술사
+4900034	|	IN_A_mine_5Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900035	|	IN_A_mine_5Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900036	|	IN_A_mine_5Lv_shaman_Weak2	|	광산 약탈단 주술사
+4900037	|	IN_A_mine_5Lv_shaman_Weak2	|	광산 약탈단 주술사
+4900038	|	IN_A_mine_5Lv_shaman_Normal1	|	광산 약탈단 상급 주술사
+4900039	|	IN_A_mine_10Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900040	|	IN_A_mine_10Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900041	|	IN_A_mine_10Lv_shaman_Weak2	|	광산 약탈단 주술사
+4900042	|	IN_A_mine_10Lv_shaman_Weak2	|	광산 약탈단 주술사
+4900043	|	IN_A_mine_10Lv_shaman_Weak2	|	광산 약탈단 주술사
+4900044	|	IN_A_mine_10Lv_shaman_Normal1	|	광산 약탈단 상급 주술사
+4900045	|	IN_A_mine_10Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900046	|	IN_A_mine_10Lv_BearFighter_Weak1	|	광산 약탈단 곰전사
+4900047	|	IN_A_mine_10Lv_shaman_Normal1	|	광산 약탈단 상급 주술사
+4900048	|	IN_A_mine_10Lv_shaman_Normal1	|	광산 약탈단 상급 주술사
+4900049	|	IN_A_mine_10Lv_shaman_Normal1	|	광산 약탈단 상급 주술사
+4900050	|	IN_A_mine_10Lv_archer_Normal2	|	광산 약탈단 사령관
+4900051	|	IN_M_mine_5Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900052	|	IN_M_mine_5Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900053	|	IN_M_mine_5Lv_crossbow_Weak2	|	광산 약탈단 석궁수
+4900054	|	IN_M_mine_5Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900055	|	IN_M_mine_5Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900056	|	IN_M_mine_5Lv_crossbow_Weak2	|	광산 약탈단 석궁수
+4900057	|	IN_M_mine_5Lv_crossbow_Weak2	|	광산 약탈단 석궁수
+4900058	|	IN_M_mine_5Lv_crossbow_Normal1	|	광산 약탈단 상급 석궁수
+4900059	|	IN_M_mine_10Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900060	|	IN_M_mine_10Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900061	|	IN_M_mine_10Lv_crossbow_Weak2	|	광산 약탈단 석궁수
+4900062	|	IN_M_mine_10Lv_crossbow_Weak2	|	광산 약탈단 석궁수
+4900063	|	IN_M_mine_10Lv_crossbow_Weak2	|	광산 약탈단 석궁수
+4900064	|	IN_M_mine_10Lv_crossbow_Normal1	|	광산 약탈단 상급 석궁수
+4900065	|	IN_M_mine_10Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900066	|	IN_M_mine_10Lv_Knight_Weak1	|	광산 약탈단 중갑기사
+4900067	|	IN_M_mine_10Lv_crossbow_Normal1	|	광산 약탈단 상급 석궁수
+4900068	|	IN_M_mine_10Lv_crossbow_Normal1	|	광산 약탈단 상급 석궁수
+4900069	|	IN_M_mine_10Lv_crossbow_Normal1	|	광산 약탈단 상급 석궁수
+4900070	|	IN_M_mine_10Lv_Musket_Normal2	|	광산 약탈단 사령관
+4900071	|	IN_I_mine_5Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900072	|	IN_I_mine_5Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900073	|	IN_I_mine_5Lv_Rifleman_Weak2	|	광산 약탈단 소총수
+4900074	|	IN_I_mine_5Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900075	|	IN_I_mine_5Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900076	|	IN_I_mine_5Lv_Rifleman_Weak2	|	광산 약탈단 소총수
+4900077	|	IN_I_mine_5Lv_Rifleman_Weak2	|	광산 약탈단 소총수
+4900078	|	IN_I_mine_5Lv_Rifleman_Normal1	|	광산 약탈단 상급 소총수
+4900079	|	IN_I_mine_10Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900080	|	IN_I_mine_10Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900081	|	IN_I_mine_10Lv_Rifleman_Weak2	|	광산 약탈단 소총수
+4900082	|	IN_I_mine_10Lv_Rifleman_Weak2	|	광산 약탈단 소총수
+4900083	|	IN_I_mine_10Lv_Rifleman_Weak2	|	광산 약탈단 소총수
+4900084	|	IN_I_mine_10Lv_Rifleman_Normal1	|	광산 약탈단 상급 소총수
+4900085	|	IN_I_mine_10Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900086	|	IN_I_mine_10Lv_Assultman_Weak1	|	광산 약탈단 돌격병
+4900087	|	IN_I_mine_10Lv_Rifleman_Normal1	|	광산 약탈단 상급 소총수
+4900088	|	IN_I_mine_10Lv_Rifleman_Normal1	|	광산 약탈단 상급 소총수
+4900089	|	IN_I_mine_10Lv_Rifleman_Normal1	|	광산 약탈단 상급 소총수
+4900090	|	IN_I_mine_10Lv_Rifleman_Normal2	|	광산 약탈단 사령관
+4900091	|	IN_A_Outpost_5Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900092	|	IN_A_Outpost_5Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900093	|	IN_A_Outpost_5Lv_shaman_Elite1	|	전초기지 침략군 정예 주술사
+4900094	|	IN_A_Outpost_5Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900095	|	IN_A_Outpost_5Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900096	|	IN_A_Outpost_5Lv_shaman_Normal1	|	전초기지 침략군 상급 주술사
+4900097	|	IN_A_Outpost_5Lv_shaman_Normal1	|	전초기지 침략군 상급 주술사
+4900098	|	IN_A_Outpost_5Lv_shaman_Elite1	|	전초기지 침략군 정예 주술사
+4900099	|	IN_A_Outpost_10Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900100	|	IN_A_Outpost_10Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900101	|	IN_A_Outpost_10Lv_shaman_Normal2	|	전초기지 침략군 상급 주술사
+4900102	|	IN_A_Outpost_10Lv_shaman_Normal2	|	전초기지 침략군 상급 주술사
+4900103	|	IN_A_Outpost_10Lv_shaman_Elite1	|	전초기지 침략군 정예 주술사
+4900104	|	IN_A_Outpost_10Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900105	|	IN_A_Outpost_10Lv_BearFighter_Weak1	|	전초기지 침략군 곰전사
+4900106	|	IN_A_Outpost_10Lv_shaman_Elite1	|	전초기지 침략군 정예 주술사
+4900107	|	IN_A_Outpost_10Lv_shaman_Elite1	|	전초기지 침략군 정예 주술사
+4900108	|	IN_A_Outpost_10Lv_archer_Elite2	|	전초기지 침략군 사령관
+4900109	|	IN_M_Outpost_5Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900110	|	IN_M_Outpost_5Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900111	|	IN_M_Outpost_5Lv_crossbow_Elite1	|	전초기지 침략군 정예 석궁수
+4900112	|	IN_M_Outpost_5Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900113	|	IN_M_Outpost_5Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900114	|	IN_M_Outpost_5Lv_crossbow_Normal1	|	전초기지 침략군 상급 석궁수
+4900115	|	IN_M_Outpost_5Lv_crossbow_Normal1	|	전초기지 침략군 상급 석궁수
+4900116	|	IN_M_Outpost_5Lv_crossbow_Elite1	|	전초기지 침략군 정예 석궁수
+4900117	|	IN_M_Outpost_10Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900118	|	IN_M_Outpost_10Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900119	|	IN_M_Outpost_10Lv_crossbow_Normal2	|	전초기지 침략군 상급 석궁수
+4900120	|	IN_M_Outpost_10Lv_crossbow_Normal2	|	전초기지 침략군 상급 석궁수
+4900121	|	IN_M_Outpost_10Lv_crossbow_Elite1	|	전초기지 침략군 정예 석궁수
+4900122	|	IN_M_Outpost_10Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900123	|	IN_M_Outpost_10Lv_Knight_Weak1	|	전초기지 침략군 중갑기사
+4900124	|	IN_M_Outpost_10Lv_crossbow_Elite1	|	전초기지 침략군 정예 석궁수
+4900125	|	IN_M_Outpost_10Lv_crossbow_Elite1	|	전초기지 침략군 정예 석궁수
+4900126	|	IN_M_Outpost_10Lv_Musket_Elite2	|	전초기지 침략군 사령관
+4900127	|	IN_I_Outpost_5Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900128	|	IN_I_Outpost_5Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900129	|	IN_I_Outpost_5Lv_Rifleman_Elite1	|	전초기지 침략군 정예 소총수
+4900130	|	IN_I_Outpost_5Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900131	|	IN_I_Outpost_5Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900132	|	IN_I_Outpost_5Lv_Rifleman_Normal1	|	전초기지 침략군 상급 소총수
+4900133	|	IN_I_Outpost_5Lv_Rifleman_Normal1	|	전초기지 침략군 상급 소총수
+4900134	|	IN_I_Outpost_5Lv_Rifleman_Elite1	|	전초기지 침략군 정예 소총수
+4900135	|	IN_I_Outpost_10Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900136	|	IN_I_Outpost_10Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900137	|	IN_I_Outpost_10Lv_Rifleman_Normal2	|	전초기지 침략군 상급 소총수
+4900138	|	IN_I_Outpost_10Lv_Rifleman_Normal2	|	전초기지 침략군 상급 소총수
+4900139	|	IN_I_Outpost_10Lv_Rifleman_Elite1	|	전초기지 침략군 정예 소총수
+4900140	|	IN_I_Outpost_10Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900141	|	IN_I_Outpost_10Lv_Assultman_Weak1	|	전초기지 침략군 돌격병
+4900142	|	IN_I_Outpost_10Lv_Rifleman_Elite1	|	전초기지 침략군 정예 소총수
+4900143	|	IN_I_Outpost_10Lv_Rifleman_Elite1	|	전초기지 침략군 정예 소총수
+4900144	|	IN_I_Outpost_10Lv_Rifleman_Elite2	|	전초기지 침략군 사령관
+4900145	|	IN_A_LargeOutpost_5Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900146	|	IN_A_LargeOutpost_5Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900147	|	IN_A_LargeOutpost_5Lv_shaman_Elite2	|	전초기지 침략군 상급 주술사
+4900148	|	IN_A_LargeOutpost_5Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900149	|	IN_A_LargeOutpost_5Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900150	|	IN_A_LargeOutpost_5Lv_shaman_Elite2	|	전초기지 침략군 상급 주술사
+4900151	|	IN_A_LargeOutpost_5Lv_shaman_Elite2	|	전초기지 침략군 상급 주술사
+4900152	|	IN_A_LargeOutpost_5Lv_shaman_Elite3	|	전초기지 침략군 정예 주술사
+4900153	|	IN_A_LargeOutpost_10Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900154	|	IN_A_LargeOutpost_10Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900155	|	IN_A_LargeOutpost_10Lv_shaman_Elite2	|	전초기지 침략군 상급 주술사
+4900156	|	IN_A_LargeOutpost_10Lv_shaman_Elite2	|	전초기지 침략군 상급 주술사
+4900157	|	IN_A_LargeOutpost_10Lv_shaman_Elite3	|	전초기지 침략군 정예 주술사
+4900158	|	IN_A_LargeOutpost_10Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900159	|	IN_A_LargeOutpost_10Lv_BearFighter_Elite1	|	전초기지 침략군 곰전사
+4900160	|	IN_A_LargeOutpost_10Lv_shaman_Elite3	|	전초기지 침략군 정예 주술사
+4900161	|	IN_A_LargeOutpost_10Lv_shaman_Elite3	|	전초기지 침략군 정예 주술사
+4900162	|	IN_A_LargeOutpost_10Lv_archer_Boss	|	전초기지 침략군 사령관
+4900163	|	IN_M_LargeOutpost_5Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900164	|	IN_M_LargeOutpost_5Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900165	|	IN_M_LargeOutpost_5Lv_crossbow_Elite2	|	전초기지 침략군 상급 석궁수
+4900166	|	IN_M_LargeOutpost_5Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900167	|	IN_M_LargeOutpost_5Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900168	|	IN_M_LargeOutpost_5Lv_crossbow_Elite2	|	전초기지 침략군 상급 석궁수
+4900169	|	IN_M_LargeOutpost_5Lv_crossbow_Elite2	|	전초기지 침략군 상급 석궁수
+4900170	|	IN_M_LargeOutpost_5Lv_crossbow_Elite3	|	전초기지 침략군 정예 석궁수
+4900171	|	IN_M_LargeOutpost_10Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900172	|	IN_M_LargeOutpost_10Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900173	|	IN_M_LargeOutpost_10Lv_crossbow_Elite2	|	전초기지 침략군 상급 석궁수
+4900174	|	IN_M_LargeOutpost_10Lv_crossbow_Elite2	|	전초기지 침략군 상급 석궁수
+4900175	|	IN_M_LargeOutpost_10Lv_crossbow_Elite3	|	전초기지 침략군 정예 석궁수
+4900176	|	IN_M_LargeOutpost_10Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900177	|	IN_M_LargeOutpost_10Lv_Knight_Elite1	|	전초기지 침략군 중갑기사
+4900178	|	IN_M_LargeOutpost_10Lv_crossbow_Elite3	|	전초기지 침략군 정예 석궁수
+4900179	|	IN_M_LargeOutpost_10Lv_crossbow_Elite3	|	전초기지 침략군 정예 석궁수
+4900180	|	IN_M_LargeOutpost_10Lv_Musket_Boss	|	전초기지 침략군 사령관
+4900181	|	IN_I_LargeOutpost_5Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900182	|	IN_I_LargeOutpost_5Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900183	|	IN_I_LargeOutpost_5Lv_Rifleman_Elite2	|	전초기지 침략군 상급 소총수
+4900184	|	IN_I_LargeOutpost_5Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900185	|	IN_I_LargeOutpost_5Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900186	|	IN_I_LargeOutpost_5Lv_Rifleman_Elite2	|	전초기지 침략군 상급 소총수
+4900187	|	IN_I_LargeOutpost_5Lv_Rifleman_Elite2	|	전초기지 침략군 상급 소총수
+4900188	|	IN_I_LargeOutpost_5Lv_Rifleman_Elite3	|	전초기지 침략군 정예 소총수
+4900189	|	IN_I_LargeOutpost_10Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900190	|	IN_I_LargeOutpost_10Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900191	|	IN_I_LargeOutpost_10Lv_Rifleman_Elite2	|	전초기지 침략군 상급 소총수
+4900192	|	IN_I_LargeOutpost_10Lv_Rifleman_Elite2	|	전초기지 침략군 상급 소총수
+4900193	|	IN_I_LargeOutpost_10Lv_Rifleman_Elite3	|	전초기지 침략군 정예 소총수
+4900194	|	IN_I_LargeOutpost_10Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900195	|	IN_I_LargeOutpost_10Lv_Assultman_Elite1	|	전초기지 침략군 돌격병
+4900196	|	IN_I_LargeOutpost_10Lv_Rifleman_Elite3	|	전초기지 침략군 정예 소총수
+4900197	|	IN_I_LargeOutpost_10Lv_Rifleman_Elite3	|	전초기지 침략군 정예 소총수
+4900198	|	IN_I_LargeOutpost_10Lv_Rifleman_Boss	|	전초기지 침략군 사령관
+799902	|	tuto_scientist	|	파견나온 학자
+799903	|	tuto_scientist	|	파견나온 학자
+799904	|	tuto_scientist	|	파견나온 학자
+799905	|	tuto_scientist	|	파견나온 학자
+799502	|	ch.tu_general_name	|	중국 장군
+799503	|	az.tu_general_name	|	아즈텍 장군
+799504	|	eg.tu_general_name	|	이집트 장군
+799505	|	ro.tu_general_name	|	로마 장군
+779201	|	tuto_Knight_name	|	중갑기사
+779202	|	tuto_Crossbow_name	|	석궁수
+779301	|	tuto_Knight_name	|	중갑기사
+779302	|	tuto_Crossbow_name	|	석궁수
+779401	|	tuto_Knight_name	|	중갑기사
+779402	|	tuto_Crossbow_name	|	석궁수
+779501	|	tuto_Knight_name	|	중갑기사
+779502	|	tuto_Crossbow_name	|	석궁수
+779203	|	tuto_SpecialElliteKnight_name	|	대장
+779303	|	tuto_SpecialElliteKnight_name	|	대장
+779403	|	tuto_SpecialElliteKnight_name	|	대장
+779503	|	tuto_SpecialElliteKnight_name	|	대장
+79228	|	ch.tu_commander_name	|	중국 부대장
+79238	|	ch.tu_commander_name	|	중국 부대장
+79248	|	ch.tu_commander_name	|	중국 부대장
+79258	|	ch.tu_commander_name	|	중국 부대장
+79268	|	ch.tu_commander_name	|	중국 부대장
+79328	|	az.tu_commander_name	|	아즈텍 부대장
+79338	|	az.tu_commander_name	|	아즈텍 부대장
+79348	|	az.tu_commander_name	|	아즈텍 부대장
+79358	|	az.tu_commander_name	|	아즈텍 부대장
+79368	|	az.tu_commander_name	|	아즈텍 부대장
+79428	|	eg.tu_commander_name	|	이집트 부대장
+79438	|	eg.tu_commander_name	|	이집트 부대장
+79448	|	eg.tu_commander_name	|	이집트 부대장
+79458	|	eg.tu_commander_name	|	이집트 부대장
+79468	|	eg.tu_commander_name	|	이집트 부대장
+79528	|	ro.tu_commander_name	|	로마 부대장
+79538	|	ro.tu_commander_name	|	로마 부대장
+79548	|	ro.tu_commander_name	|	로마 부대장
+79558	|	ro.tu_commander_name	|	로마 부대장
+79568	|	ro.tu_commander_name	|	로마 부대장
+6601	|	an_scarecrow_name	|	훈련용 허수아비
+6605	|	an_scarecrow_name	|	훈련용 허수아비
+6606	|	an_scarecrow_name	|	훈련용 허수아비
+6602	|	me_scarecrow_name	|	훈련용 허수아비
+6607	|	me_scarecrow_name	|	훈련용 허수아비
+6608	|	me_scarecrow_name	|	훈련용 허수아비
+6603	|	in_scarecrow_name	|	훈련용 과녁판
+6609	|	in_scarecrow_name	|	훈련용 과녁판
+6610	|	in_scarecrow_name	|	훈련용 과녁판
+252102	|	bm.baba_shaman_name	|	고대 용병
+252103	|	bm.baba_crossbowman_name	|	중세 용병
+252104	|	bm.baba_rifleman_name	|	산업 용병
+1020101	|	TECH_Ironworking_WeaponInventor_name	|	무기 발명가
+1020102	|	TECH_Ironworking_WeaponInventor_name	|	무기 발명가
+1020103	|	TECH_Ironworking_WeaponInventor_name	|	무기 발명가
+1020104	|	TECH_Ironworking_WeaponInventor_name	|	무기 발명가
+1020401	|	TECH_Archery_LongShoot_name	|	멀리 쏘는 자
+1020601	|	TECH_TheWheel_ChariotBetrayer_name	|	전차 기술을 빼돌린 배신자
+1020602	|	TECH_TheWheel_ChariotBetrayer_name	|	전차 기술을 빼돌린 배신자
+1020603	|	TECH_TheWheel_ChariotBetrayer_name	|	전차 기술을 빼돌린 배신자
+1020604	|	TECH_TheWheel_ChariotBetrayer_name	|	전차 기술을 빼돌린 배신자
+1030201	|	TECH_Machinery_WeaponInventor_name	|	무기 발명가
+1030202	|	TECH_Machinery_WeaponInventor_name	|	무기 발명가
+1030203	|	TECH_Machinery_WeaponInventor_name	|	무기 발명가
+1030204	|	TECH_Machinery_WeaponInventor_name	|	무기 발명가
+1030601	|	TECH_HorseArmor_ArmoredHorseMan_name	|	말에게 갑옷을 씌워본 남자
+1031001	|	TECH_SiegeEngine_Garage_Worker_name	|	공성병기 기술자
+1031002	|	TECH_SiegeEngine_Garage_Worker_name	|	공성병기 기술자
+1031003	|	TECH_SiegeEngine_Garage_Worker_name	|	공성병기 기술자
+1031004	|	TECH_SiegeEngine_Garage_Worker_name	|	공성병기 기술자
+1040901	|	TECH_HotAirBallon_Montgolier_name	|	모험가 몽골리에
+1040902	|	TECH_HotAirBallon_ChinaLeader_name	|	몽골리에의 제자
+1040903	|	TECH_HotAirBallon_AztecLeader_name	|	몽골리에의 제자
+1040904	|	TECH_HotAirBallon_EgyptLeader_name	|	몽골리에의 제자
+1040905	|	TECH_HotAirBallon_RomeLeader_name	|	몽골리에의 제자
+1041001	|	TECH_ReplaceableParts_Vinci_name	|	발명가 다빈치
+1041002	|	TECH_ReplaceableParts_ChinaLeader_name	|	다빈치의 제자
+1041003	|	TECH_ReplaceableParts_AztecLeader_name	|	다빈치의 제자
+1041004	|	TECH_ReplaceableParts_EgyptLeader_name	|	다빈치의 제자
+1041005	|	TECH_ReplaceableParts_RomeLeader_name	|	다빈치의 제자
+1050101	|	TECH_Rifling_WeaponLab_Worker_name	|	무기연구소 직원
+1050102	|	TECH_Rifling_WeaponLab_Worker_name	|	무기연구소 직원
+1050103	|	TECH_Rifling_WeaponLab_Worker_name	|	무기연구소 직원
+1050104	|	TECH_Rifling_WeaponLab_Worker_name	|	무기연구소 직원
+1050501	|	TECH_Chemistry_Flamethrower_name	|	불을 뿜는 용병
+1050701	|	TECH_Combustion_TankLab_Worker_name	|	탱크 연구소 연구원
+1050702	|	TECH_Combustion_TankLab_Worker_name	|	탱크 연구소 연구원
+1050703	|	TECH_Combustion_TankLab_Worker_name	|	탱크 연구소 연구원
+1050704	|	TECH_Combustion_TankLab_Worker_name	|	탱크 연구소 연구원
+1050801	|	TECH_Flight_AircraftLab_Worker_name	|	항공기 연구소 연구원
+1050802	|	TECH_Flight_AircraftLab_Worker_name	|	항공기 연구소 연구원
+1050803	|	TECH_Flight_AircraftLab_Worker_name	|	항공기 연구소 연구원
+1050804	|	TECH_Flight_AircraftLab_Worker_name	|	항공기 연구소 연구원
+1060101	|	TECH_AssemblyLine_Mikhail_name	|	총기 개발자 미하일
+1060102	|	TECH_AssemblyLine_Morrison_name	|	총기 개발자 모리슨
+1060201	|	TECH_Camouflage_Sniper_name	|	용병 저격수
+1060601	|	TECH_CoverOP_Agent_name	|	잠입 중인 첩보원
+1060801	|	TECH_Composites_TankLab_Worker_name	|	주력탱크 연구소 연구원
+1060802	|	TECH_Composites_TankLab_Worker_name	|	주력탱크 연구소 연구원
+1060803	|	TECH_Composites_TankLab_Worker_name	|	주력탱크 연구소 연구원
+1060804	|	TECH_Composites_TankLab_Worker_name	|	주력탱크 연구소 연구원
+1060901	|	TECH_JetEngine_AircraftLab_Worker_name	|	차세대 항공기 연구소 연구원
+1060902	|	TECH_JetEngine_AircraftLab_Worker_name	|	차세대 항공기 연구소 연구원
+1060903	|	TECH_JetEngine_AircraftLab_Worker_name	|	차세대 항공기 연구소 연구원
+1060904	|	TECH_JetEngine_AircraftLab_Worker_name	|	차세대 항공기 연구소 연구원
+1061001	|	TECH_NuclearFission_SecurityOfficer_name	|	핵시설 경비
+9000114	|	Rabbit_name	|	토끼
+9000115	|	Fox_name	|	여우
+9000116	|	Deer_name	|	사슴
+9000117	|	Horse_name	|	말
+9000118	|	Camel_name	|	낙타
+9000119	|	Goat_name	|	염소
+9000120	|	Chicken_name	|	닭
+9000121	|	Sarting_Pig_name	|	살이 오른 돼지
+9000122	|	Sarting_Sheep_name	|	집 나온 양
+9000123	|	Sarting_Cow_name	|	게으른 소
+230010	|	M.ChinaPromotionNPC_name	|	왕소군
+230011	|	M.AztecPromotionNPC_name	|	미아
+230012	|	M.EgyptPromotionNPC_name	|	네페르티티
+230013	|	M.RomePromotionNPC_name	|	아킬리아
+250010	|	I.ChinaPromotionNPC_name	|	왕소군
+250011	|	I.AztecPromotionNPC_name	|	미아
+250012	|	I.EgyptPromotionNPC_name	|	네페르티티
+250013	|	I.RomePromotionNPC_name	|	아킬리아
+777052	|	ch.tu_cityleader_daughter_name	|	메이린
+777053	|	az.tu_cityleader_daughter_name	|	엘라
+777054	|	eg.tu_cityleader_daughter_name	|	수나문
+777055	|	ro.tu_cityleader_daughter_name	|	율리아
+777061	|	0	|	#N/A
+1000100	|	NB_All_Red_lion_name	|	붉은 바위 사자
+1000101	|	NB_All_ Geyser_Boss_elephant_name	|	간헐천 거대 코끼리
+1000102	|	NB_A_h1_GiantToothedTigers_name	|	절벽 지배자 타이건
+1000103	|	NB_All_e2_Powerfulcloudwolf_name	|	광포한 브랑카
+1000104	|	NB_All_e2_QuickGiantRockWolf_name	|	늑대왕 로보
+1000105	|	NB_C_e2_SequoiaGiantElephantOfforce_name	|	광포한 세콰이어 코끼리
+1000106	|	NB_All_e2_ZhangjiajieBison_name	|	광포한 소금 들소
+1000107	|	NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+1000108	|	NB_All_Red_lion_name	|	붉은 바위 사자
+1000109	|	NB_All_ Geyser_elephant_name	|	간헐천 코끼리
+1000110	|	NB_A_h1_GiantToothedTigers_name	|	절벽 지배자 타이건
+1000111	|	NB_All_e2_Powerfulcloudwolf_name	|	광포한 브랑카
+1000112	|	NB_All_e2_QuickGiantRockWolf_name	|	늑대왕 로보
+1000113	|	NB_C_e2_SequoiaGiantElephantOfforce_name	|	광포한 세콰이어 코끼리
+1000114	|	NB_All_e2_ZhangjiajieBison_name	|	광포한 소금 들소
+1000115	|	NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+922027	|	A.ChinaGuard_w2_Knight_Camp_name	|	야전막사 곰전사
+922030	|	A.ChinaGuard_w2_Crossbow_Camp_name	|	야전막사 주술사
+932027	|	A.AztecGuard_w2_Knight_Camp_name	|	야전막사 곰전사
+932030	|	A.AztecGuard_w2_Crossbow_Camp_name	|	야전막사 주술사
+942027	|	A.EgyptGuard_w2_Knight_Camp_name	|	야전막사 곰전사
+942030	|	A.EgyptGuard_w2_Crossbow_Camp_name	|	야전막사 주술사
+952027	|	A.RomeGuard_w2_Knight_Camp_name	|	야전막사 곰전사
+952030	|	A.RomeGuard_w2_Crossbow_Camp_name	|	야전막사 주술사
+212101	|	A.ChinaBigOutpostMerchant_name	|	전초기지 상인
+213101	|	A.AztecBigOutpostMerchant_name	|	전초기지 상인
+214101	|	A.EgyptBigOutpostMerchant_name	|	전초기지 상인
+215101	|	A.RomeBigOutpostMerchant_name	|	전초기지 상인
+232101	|	M.ChinaBigOutpostMerchant_name	|	전초기지 상인
+233101	|	M.AztecBigOutpostMerchant_name	|	전초기지 상인
+234101	|	M.EgyptBigOutpostMerchant_name	|	전초기지 상인
+235101	|	M.RomeBigOutpostMerchant_name	|	전초기지 상인
+252101	|	I.ChinaBigOutpostMerchant_name	|	전초기지 상인
+253101	|	I.AztecBigOutpostMerchant_name	|	전초기지 상인
+254101	|	I.EgyptBigOutpostMerchant_name	|	전초기지 상인
+255101	|	I.RomeBigOutpostMerchant_name	|	전초기지 상인
+212102	|	A.ChinaBigOutpostGuard1_name	|	전초기지 경비병
+213102	|	A.AztecBigOutpostGuard1_name	|	전초기지 경비병
+214102	|	A.EgyptBigOutpostGuard1_name	|	전초기지 경비병
+215102	|	A.RomeBigOutpostGuard1_name	|	전초기지 경비병
+212103	|	A.ChinaBigOutpostGuard2_name	|	전초기지 상급 경비병
+213103	|	A.AztecBigOutpostGuard2_name	|	전초기지 상급 경비병
+214103	|	A.EgyptBigOutpostGuard2_name	|	전초기지 상급 경비병
+215103	|	A.RomeBigOutpostGuard2_name	|	전초기지 상급 경비병
+212104	|	A.ChinaBigOutpostGuard3_name	|	전초기지 정예 경비병
+213104	|	A.AztecBigOutpostGuard3_name	|	전초기지 정예 경비병
+214104	|	A.EgyptBigOutpostGuard3_name	|	전초기지 정예 경비병
+215104	|	A.RomeBigOutpostGuard3_name	|	전초기지 정예 경비병
+232102	|	M.ChinaBigOutpostGuard1_name	|	전초기지 경비병
+233102	|	M.AztecBigOutpostGuard1_name	|	전초기지 경비병
+234102	|	M.EgyptBigOutpostGuard1_name	|	전초기지 경비병
+235102	|	M.RomeBigOutpostGuard1_name	|	전초기지 경비병
+232103	|	M.ChinaBigOutpostGuard2_name	|	전초기지 상급 경비병
+233103	|	M.AztecBigOutpostGuard2_name	|	전초기지 상급 경비병
+234103	|	M.EgyptBigOutpostGuard2_name	|	전초기지 상급 경비병
+235103	|	M.RomeBigOutpostGuard2_name	|	전초기지 상급 경비병
+232104	|	M.ChinaBigOutpostGuard3_name	|	전초기지 정예 경비병
+233104	|	M.AztecBigOutpostGuard3_name	|	전초기지 정예 경비병
+234104	|	M.EgyptBigOutpostGuard3_name	|	전초기지 정예 경비병
+235104	|	M.RomeBigOutpostGuard3_name	|	전초기지 정예 경비병
+252106	|	I.ChinaBigOutpostGuard1_name	|	전초기지 경비병
+253106	|	I.AztecBigOutpostGuard1_name	|	전초기지 경비병
+254106	|	I.EgyptBigOutpostGuard1_name	|	전초기지 경비병
+255106	|	I.RomeBigOutpostGuard1_name	|	전초기지 경비병
+252107	|	I.ChinaBigOutpostGuard2_name	|	전초기지 상급 경비병
+253107	|	I.AztecBigOutpostGuard2_name	|	전초기지 상급 경비병
+254107	|	I.EgyptBigOutpostGuard2_name	|	전초기지 상급 경비병
+255107	|	I.RomeBigOutpostGuard2_name	|	전초기지 상급 경비병
+252108	|	I.ChinaBigOutpostGuard3_name	|	전초기지 정예 경비병
+253108	|	I.AztecBigOutpostGuard3_name	|	전초기지 정예 경비병
+254108	|	I.EgyptBigOutpostGuard3_name	|	전초기지 정예 경비병
+255108	|	I.RomeBigOutpostGuard3_name	|	전초기지 정예 경비병
+4000644	|	ST_A_OutpostDestroybaba_name	|	도적단 정예 철거병
+4000645	|	ST_M_OutpostDestroybaba_name	|	혁명군 정예 철거병
+4000646	|	ST_I_OutpostDestroybaba_name	|	훈련 야전공병
+4000647	|	ST_A_Runawaybaba_name	|	겁에 질린 도적단
+4000648	|	ST_M_Runawaybaba_name	|	겁에 질린 혁명군
+4000649	|	ST_I_Runawaybaba_name	|	훈련 병사
+212212	|	S.A.ChinaSpawnEilteSolidier_name	|	정예 병사
+213212	|	S.A.AztecSpawnEilteSolidier_name	|	정예 병사
+214212	|	S.A.EgyptSpawnEilteSolidier_name	|	정예 병사
+215212	|	S.A.RomeSpawnEilteSolidier_name	|	정예 병사
+232212	|	S.M.ChinaSpawnEilteSolidier_name	|	정예 병사
+233212	|	S.M.AztecSpawnEilteSolidier_name	|	정예 병사
+234212	|	S.M.EgyptSpawnEilteSolidier_name	|	정예 병사
+235212	|	S.M.RomeSpawnEilteSolidier_name	|	정예 병사
+252212	|	S.I.ChinaSpawnEilteSolidier_name	|	정예 병사
+253212	|	S.I.AztecSpawnEilteSolidier_name	|	정예 병사
+254212	|	S.I.EgyptSpawnEilteSolidier_name	|	정예 병사
+255212	|	S.I.RomeSpawnEilteSolidier_name	|	정예 병사
+212213	|	S.A.ChinaOutpostWorker_name	|	전초기지 건설 일꾼
+213213	|	S.A.AztecOutpostWorker_name	|	전초기지 건설 일꾼
+214213	|	S.A.EgyptOutpostWorker_name	|	전초기지 건설 일꾼
+215213	|	S.A.RomeOutpostWorker_name	|	전초기지 건설 일꾼
+232213	|	S.M.ChinaOutpostWorker_name	|	전초기지 건설 일꾼
+233213	|	S.M.AztecOutpostWorker_name	|	전초기지 건설 일꾼
+234213	|	S.M.EgyptOutpostWorker_name	|	전초기지 건설 일꾼
+235213	|	S.M.RomeOutpostWorker_name	|	전초기지 건설 일꾼
+252213	|	S.I.ChinaOutpostWorker_name	|	전초기지 건설 일꾼
+253213	|	S.I.AztecOutpostWorker_name	|	전초기지 건설 일꾼
+254213	|	S.I.EgyptOutpostWorker_name	|	전초기지 건설 일꾼
+255213	|	S.I.RomeOutpostWorker_name	|	전초기지 건설 일꾼
+212214	|	S.A.ChinaEventTriggerA_name	|	문명 발생지 투명NPC A
+213214	|	S.A.AztecEventTriggerA_name	|	문명 발생지 투명NPC A
+214214	|	S.A.EgyptEventTriggerA_name	|	문명 발생지 투명NPC A
+215214	|	S.A.RomeEventTriggerA_name	|	문명 발생지 투명NPC A
+232214	|	S.M.ChinaEventTriggerA_name	|	문명 발생지 투명NPC A
+233214	|	S.M.AztecEventTriggerA_name	|	문명 발생지 투명NPC A
+234214	|	S.M.EgyptEventTriggerA_name	|	문명 발생지 투명NPC A
+235214	|	S.M.RomeEventTriggerA_name	|	문명 발생지 투명NPC A
+252214	|	S.I.ChinaEventTriggerA_name	|	문명 발생지 투명NPC A
+253214	|	S.I.AztecEventTriggerA_name	|	문명 발생지 투명NPC A
+254214	|	S.I.EgyptEventTriggerA_name	|	문명 발생지 투명NPC A
+255214	|	S.I.RomeEventTriggerA_name	|	문명 발생지 투명NPC A
+212215	|	S.A.ChinaEventTriggerB_name	|	문명 발생지 투명NPC B
+213215	|	S.A.AztecEventTriggerB_name	|	문명 발생지 투명NPC B
+214215	|	S.A.EgyptEventTriggerB_name	|	문명 발생지 투명NPC B
+215215	|	S.A.RomeEventTriggerB_name	|	문명 발생지 투명NPC B
+232215	|	S.M.ChinaEventTriggerB_name	|	문명 발생지 투명NPC B
+233215	|	S.M.AztecEventTriggerB_name	|	문명 발생지 투명NPC B
+234215	|	S.M.EgyptEventTriggerB_name	|	문명 발생지 투명NPC B
+235215	|	S.M.RomeEventTriggerB_name	|	문명 발생지 투명NPC B
+252215	|	S.I.ChinaEventTriggerB_name	|	문명 발생지 투명NPC B
+253215	|	S.I.AztecEventTriggerB_name	|	문명 발생지 투명NPC B
+254215	|	S.I.EgyptEventTriggerB_name	|	문명 발생지 투명NPC B
+255215	|	S.I.RomeEventTriggerB_name	|	문명 발생지 투명NPC B
+212216	|	S.A.ChinaEventTriggerC_name	|	문명 발생지 투명NPC C
+213216	|	S.A.AztecEventTriggerC_name	|	문명 발생지 투명NPC C
+214216	|	S.A.EgyptEventTriggerC_name	|	문명 발생지 투명NPC C
+215216	|	S.A.RomeEventTriggerC_name	|	문명 발생지 투명NPC C
+232216	|	S.M.ChinaEventTriggerC_name	|	문명 발생지 투명NPC C
+233216	|	S.M.AztecEventTriggerC_name	|	문명 발생지 투명NPC C
+234216	|	S.M.EgyptEventTriggerC_name	|	문명 발생지 투명NPC C
+235216	|	S.M.RomeEventTriggerC_name	|	문명 발생지 투명NPC C
+252216	|	S.I.ChinaEventTriggerC_name	|	문명 발생지 투명NPC C
+253216	|	S.I.AztecEventTriggerC_name	|	문명 발생지 투명NPC C
+254216	|	S.I.EgyptEventTriggerC_name	|	문명 발생지 투명NPC C
+255216	|	S.I.RomeEventTriggerC_name	|	문명 발생지 투명NPC C
+7000001	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000002	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000003	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000004	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000005	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000006	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000007	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000008	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000009	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000010	|	Card_BB_C_h1_Juni_name	|	춤추는 저니
+7000011	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000012	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000013	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000014	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000015	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000016	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000017	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000018	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000019	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000020	|	Card_BB_C_h1_Ulran_name	|	추적하는 율란
+7000021	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000022	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000023	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000024	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000025	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000026	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000027	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000028	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000029	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000030	|	Card_BB_C_h1_Turan_name	|	싸움꾼 투란
+7000031	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000032	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000033	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000034	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000035	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000036	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000037	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000038	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000039	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000040	|	Card_BB_R_h1_K_name	|	백발백중 케이
+7000041	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000042	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000043	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000044	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000045	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000046	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000047	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000048	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000049	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000050	|	Card_NB_All_h1_GrizzlyBear_name	|	연어 학살꾼 베어글
+7000051	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000052	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000053	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000054	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000055	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000056	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000057	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000058	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000059	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000060	|	Card_NB_All_n2_GrizzlyBear_name	|	거친 폭포 그리즐리 베어
+7000061	|	card_phonograph_name	|	축음기
+7000062	|	card_phonograph_name	|	축음기
+7000063	|	card_phonograph_name	|	축음기
+7000064	|	card_phonograph_name	|	축음기
+7000065	|	card_phonograph_name	|	축음기
+7000066	|	card_phonograph_name	|	축음기
+7000067	|	card_phonograph_name	|	축음기
+7000068	|	card_phonograph_name	|	축음기
+7000069	|	card_phonograph_name	|	축음기
+7000070	|	card_phonograph_name	|	축음기
+7000071	|	card_phonograph_name	|	축음기
+7000072	|	card_phonograph_name	|	축음기
+7000073	|	card_phonograph_name	|	축음기
+7000074	|	card_phonograph_name	|	축음기
+7000075	|	card_phonograph_name	|	축음기
+7000076	|	card_phonograph_name	|	축음기
+7000077	|	card_phonograph_name	|	축음기
+7000078	|	card_phonograph_name	|	축음기
+7000079	|	card_phonograph_name	|	축음기
+7000080	|	card_phonograph_name	|	축음기
+7000081	|	card_phonograph_name	|	축음기
+7000082	|	card_phonograph_name	|	축음기
+7000083	|	card_phonograph_name	|	축음기
+7000084	|	card_phonograph_name	|	축음기
+7000085	|	card_phonograph_name	|	축음기
+7000086	|	card_phonograph_name	|	축음기
+7000087	|	card_phonograph_name	|	축음기
+7000088	|	card_phonograph_name	|	축음기
+7000089	|	card_phonograph_name	|	축음기
+7000090	|	card_phonograph_name	|	축음기
+7000091	|	card_GiantHammer_name	|	고정형 공성추
+7000092	|	card_GiantHammer_name	|	고정형 공성추
+7000093	|	card_GiantHammer_name	|	고정형 공성추
+7000094	|	card_GiantHammer_name	|	고정형 공성추
+7000095	|	card_GiantHammer_name	|	고정형 공성추
+7000096	|	card_GiantHammer_name	|	고정형 공성추
+7000097	|	card_GiantHammer_name	|	고정형 공성추
+7000098	|	card_GiantHammer_name	|	고정형 공성추
+7000099	|	card_GiantHammer_name	|	고정형 공성추
+7000100	|	card_GiantHammer_name	|	고정형 공성추
+7000101	|	card_GiantHammer_name	|	고정형 공성추
+7000102	|	card_GiantHammer_name	|	고정형 공성추
+7000103	|	card_GiantHammer_name	|	고정형 공성추
+7000104	|	card_GiantHammer_name	|	고정형 공성추
+7000105	|	card_GiantHammer_name	|	고정형 공성추
+7000106	|	card_GiantHammer_name	|	고정형 공성추
+7000107	|	card_GiantHammer_name	|	고정형 공성추
+7000108	|	card_GiantHammer_name	|	고정형 공성추
+7000109	|	card_GiantHammer_name	|	고정형 공성추
+7000110	|	card_GiantHammer_name	|	고정형 공성추
+7000111	|	card_GiantHammer_name	|	고정형 공성추
+7000112	|	card_GiantHammer_name	|	고정형 공성추
+7000113	|	card_GiantHammer_name	|	고정형 공성추
+7000114	|	card_GiantHammer_name	|	고정형 공성추
+7000115	|	card_GiantHammer_name	|	고정형 공성추
+7000116	|	card_GiantHammer_name	|	고정형 공성추
+7000117	|	card_GiantHammer_name	|	고정형 공성추
+7000118	|	card_GiantHammer_name	|	고정형 공성추
+7000119	|	card_GiantHammer_name	|	고정형 공성추
+7000120	|	card_GiantHammer_name	|	고정형 공성추
+7000121	|	card_SpinningIron_name	|	회전 쇳덩이
+7000122	|	card_SpinningIron_name	|	회전 쇳덩이
+7000123	|	card_SpinningIron_name	|	회전 쇳덩이
+7000124	|	card_SpinningIron_name	|	회전 쇳덩이
+7000125	|	card_SpinningIron_name	|	회전 쇳덩이
+7000126	|	card_SpinningIron_name	|	회전 쇳덩이
+7000127	|	card_SpinningIron_name	|	회전 쇳덩이
+7000128	|	card_SpinningIron_name	|	회전 쇳덩이
+7000129	|	card_SpinningIron_name	|	회전 쇳덩이
+7000130	|	card_SpinningIron_name	|	회전 쇳덩이
+7000131	|	card_SpinningIron_name	|	회전 쇳덩이
+7000132	|	card_SpinningIron_name	|	회전 쇳덩이
+7000133	|	card_SpinningIron_name	|	회전 쇳덩이
+7000134	|	card_SpinningIron_name	|	회전 쇳덩이
+7000135	|	card_SpinningIron_name	|	회전 쇳덩이
+7000136	|	card_SpinningIron_name	|	회전 쇳덩이
+7000137	|	card_SpinningIron_name	|	회전 쇳덩이
+7000138	|	card_SpinningIron_name	|	회전 쇳덩이
+7000139	|	card_SpinningIron_name	|	회전 쇳덩이
+7000140	|	card_SpinningIron_name	|	회전 쇳덩이
+7000141	|	card_SpinningIron_name	|	회전 쇳덩이
+7000142	|	card_SpinningIron_name	|	회전 쇳덩이
+7000143	|	card_SpinningIron_name	|	회전 쇳덩이
+7000144	|	card_SpinningIron_name	|	회전 쇳덩이
+7000145	|	card_SpinningIron_name	|	회전 쇳덩이
+7000146	|	card_SpinningIron_name	|	회전 쇳덩이
+7000147	|	card_SpinningIron_name	|	회전 쇳덩이
+7000148	|	card_SpinningIron_name	|	회전 쇳덩이
+7000149	|	card_SpinningIron_name	|	회전 쇳덩이
+7000150	|	card_SpinningIron_name	|	회전 쇳덩이
+7000151	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000152	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000153	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000154	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000155	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000156	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000157	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000158	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000159	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000160	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000161	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000162	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000163	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000164	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000165	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000166	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000167	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000168	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000169	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000170	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000171	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000172	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000173	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000174	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000175	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000176	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000177	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000178	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000179	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000180	|	card_GrenadeLauncher_name	|	수류탄 투척기
+7000181	|	card_ancient_barbarian	|	고대 야만인
+7000182	|	card_ancient_barbarian	|	고대 야만인
+7000183	|	card_ancient_barbarian	|	고대 야만인
+7000184	|	card_ancient_barbarian	|	고대 야만인
+7000185	|	card_ancient_barbarian	|	고대 야만인
+7000186	|	card_ancient_barbarian	|	고대 야만인
+7000187	|	card_ancient_barbarian	|	고대 야만인
+7000188	|	card_ancient_barbarian	|	고대 야만인
+7000189	|	card_ancient_barbarian	|	고대 야만인
+7000190	|	card_ancient_barbarian	|	고대 야만인
+7000191	|	card_ancient_barbarian	|	고대 야만인
+7000192	|	card_ancient_barbarian	|	고대 야만인
+7000193	|	card_ancient_barbarian	|	고대 야만인
+7000194	|	card_ancient_barbarian	|	고대 야만인
+7000195	|	card_ancient_barbarian	|	고대 야만인
+7000196	|	card_ancient_barbarian	|	고대 야만인
+7000197	|	card_ancient_barbarian	|	고대 야만인
+7000198	|	card_ancient_barbarian	|	고대 야만인
+7000199	|	card_ancient_barbarian	|	고대 야만인
+7000200	|	card_ancient_barbarian	|	고대 야만인
+7000201	|	card_ancient_barbarian	|	고대 야만인
+7000202	|	card_ancient_barbarian	|	고대 야만인
+7000203	|	card_ancient_barbarian	|	고대 야만인
+7000204	|	card_ancient_barbarian	|	고대 야만인
+7000205	|	card_ancient_barbarian	|	고대 야만인
+7000206	|	card_ancient_barbarian	|	고대 야만인
+7000207	|	card_ancient_barbarian	|	고대 야만인
+7000208	|	card_ancient_barbarian	|	고대 야만인
+7000209	|	card_ancient_barbarian	|	고대 야만인
+7000210	|	card_ancient_barbarian	|	고대 야만인
+7000211	|	card_summon_of_defensive_drone	|	방어 드론
+7000212	|	card_summon_of_defensive_drone	|	방어 드론
+7000213	|	card_summon_of_defensive_drone	|	방어 드론
+7000214	|	card_summon_of_defensive_drone	|	방어 드론
+7000215	|	card_summon_of_defensive_drone	|	방어 드론
+7000216	|	card_summon_of_defensive_drone	|	방어 드론
+7000217	|	card_summon_of_defensive_drone	|	방어 드론
+7000218	|	card_summon_of_defensive_drone	|	방어 드론
+7000219	|	card_summon_of_defensive_drone	|	방어 드론
+7000220	|	card_summon_of_defensive_drone	|	방어 드론
+7000221	|	card_summon_of_defensive_drone	|	방어 드론
+7000222	|	card_summon_of_defensive_drone	|	방어 드론
+7000223	|	card_summon_of_defensive_drone	|	방어 드론
+7000224	|	card_summon_of_defensive_drone	|	방어 드론
+7000225	|	card_summon_of_defensive_drone	|	방어 드론
+7000226	|	card_summon_of_defensive_drone	|	방어 드론
+7000227	|	card_summon_of_defensive_drone	|	방어 드론
+7000228	|	card_summon_of_defensive_drone	|	방어 드론
+7000229	|	card_summon_of_defensive_drone	|	방어 드론
+7000230	|	card_summon_of_defensive_drone	|	방어 드론
+7000231	|	card_summon_of_defensive_drone	|	방어 드론
+7000232	|	card_summon_of_defensive_drone	|	방어 드론
+7000233	|	card_summon_of_defensive_drone	|	방어 드론
+7000234	|	card_summon_of_defensive_drone	|	방어 드론
+7000235	|	card_summon_of_defensive_drone	|	방어 드론
+7000236	|	card_summon_of_defensive_drone	|	방어 드론
+7000237	|	card_summon_of_defensive_drone	|	방어 드론
+7000238	|	card_summon_of_defensive_drone	|	방어 드론
+7000239	|	card_summon_of_defensive_drone	|	방어 드론
+7000240	|	card_summon_of_defensive_drone	|	방어 드론
+4900300	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900301	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900302	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900303	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900304	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900305	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900306	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900307	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900308	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900309	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900310	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900311	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900312	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900313	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900314	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900315	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900316	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900317	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900318	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900319	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900320	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900321	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900322	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900323	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900324	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900325	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900326	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900327	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900328	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900329	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900330	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900331	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900332	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900333	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900334	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900335	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900336	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900337	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900338	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900339	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900340	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900341	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900342	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900343	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900344	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900345	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900346	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900347	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900400	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900401	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900402	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900403	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900404	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900405	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900406	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900407	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900408	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900409	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900410	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900411	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900412	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900413	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900414	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900415	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900416	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900417	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900418	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900419	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900420	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900421	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900422	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900423	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900424	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900425	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900426	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900427	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900428	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900429	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900430	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900431	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900432	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900433	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900434	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900435	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900436	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900437	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900438	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900439	|	CityIN_Boss_name	|	도시 침투조 사령관
+4900440	|	CityIN_InAttack_name	|	도시 침투조 공격대
+4900441	|	CityIN_InRequidation_name	|	도시 침투조 철거병
+4900442	|	CityIN_InMount_name	|	도시 침투조 부사령관
+4900443	|	CityIN_OutRequidation_name	|	도시 침략군 철거병
+4900444	|	CityIN_OutEliteRequidation_name	|	도시 침략군 정예 철거병 
+4900445	|	CityIN_OutAttack_name	|	도시 침략군 공격대
+4900446	|	CityIN_OutMount_name	|	도시 침략군 정찰병
+4900447	|	CityIN_Boss_name	|	도시 침투조 사령관
+212225	|	S.A.ChinaSpawnOutpostSolidier_name	|	전초기지 순찰병
+213225	|	S.A.AztecSpawnOutpostSolidier_name	|	전초기지 순찰병
+214225	|	S.A.EgyptSpawnOutpostSolidier_name	|	전초기지 순찰병
+215225	|	S.A.RomeSpawnOutpostSolidier_name	|	전초기지 순찰병
+232225	|	S.M.ChinaSpawnOutpostSolidier_name	|	전초기지 순찰병
+233225	|	S.M.AztecSpawnOutpostSolidier_name	|	전초기지 순찰병
+234225	|	S.M.EgyptSpawnOutpostSolidier_name	|	전초기지 순찰병
+235225	|	S.M.RomeSpawnOutpostSolidier_name	|	전초기지 순찰병
+252225	|	S.I.ChinaSpawnOutpostSolidier_name	|	전초기지 순찰병
+253225	|	S.I.AztecSpawnOutpostSolidier_name	|	전초기지 순찰병
+254225	|	S.I.EgyptSpawnOutpostSolidier_name	|	전초기지 순찰병
+255225	|	S.I.RomeSpawnOutpostSolidier_name	|	전초기지 순찰병
+212226	|	S.A.ChinaWatchtowerWorker_name	|	감시탑 건설 일꾼
+213226	|	S.A.AztecWatchtowerWorker_name	|	감시탑 건설 일꾼
+214226	|	S.A.EgyptWatchtowerWorker_name	|	감시탑 건설 일꾼
+215226	|	S.A.RomeWatchtowerWorker_name	|	감시탑 건설 일꾼
+232226	|	S.M.ChinaWatchtowerWorker_name	|	감시탑 건설 일꾼
+233226	|	S.M.AztecWatchtowerWorker_name	|	감시탑 건설 일꾼
+234226	|	S.M.EgyptWatchtowerWorker_name	|	감시탑 건설 일꾼
+235226	|	S.M.RomeWatchtowerWorker_name	|	감시탑 건설 일꾼
+252226	|	S.I.ChinaWatchtowerWorker_name	|	포탑 건설 일꾼
+253226	|	S.I.AztecWatchtowerWorker_name	|	포탑 건설 일꾼
+254226	|	S.I.EgyptWatchtowerWorker_name	|	포탑 건설 일꾼
+255226	|	S.I.RomeWatchtowerWorker_name	|	포탑 건설 일꾼
+7000241	|	citybattlereward.an.baba_shaman_name	|	고대 용병 주술사
+7000242	|	citybattlereward.cl.baba_shaman_name	|	고전 용병 주술사
+7000243	|	citybattlereward.me.baba_crossbowman_name	|	중세 용병 석궁수
+7000244	|	citybattlereward.re.baba_crossbowman_name	|	르네상스 용병 석궁수
+7000245	|	citybattlereward.in.baba_rifleman_name	|	산업 용병 소총수
+7000246	|	citybattlereward.mo.baba_rifleman_name	|	현대 용병 소총수
+222999	|	C.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+223999	|	C.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+224999	|	C.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+225999	|	C.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+232999	|	M.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+233999	|	M.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+234999	|	M.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+235999	|	M.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+242999	|	R.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+243999	|	R.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+244999	|	R.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+245999	|	R.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+252999	|	I.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+253999	|	I.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+254999	|	I.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+255999	|	I.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+252227	|	I.ChinaStartingOutpostGuard1_name	|	전초기지 경비병
+253227	|	I.AztecStartingOutpostGuard1_name	|	전초기지 경비병
+254227	|	I.EgyptStartingOutpostGuard1_name	|	전초기지 경비병
+255227	|	I.RomeStartingOutpostGuard1_name	|	전초기지 경비병
+222998	|	C.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+223998	|	C.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+224998	|	C.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+225998	|	C.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+232998	|	M.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+233998	|	M.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+234998	|	M.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+235998	|	M.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+242998	|	R.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+243998	|	R.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+244998	|	R.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+245998	|	R.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+252998	|	I.ChinaForemanDecisive_Mount_name	|	결전병기 현장 감독
+253998	|	I.AztecForemanDecisive_Mount_name	|	결전병기 현장 감독
+254998	|	I.EgyptForemanDecisive_Mount_name	|	결전병기 현장 감독
+255998	|	I.RomeForemanDecisive_Mount_name	|	결전병기 현장 감독
+212228	|	S.A.ChinaDestructSolidier_name	|	척후병
+213228	|	S.A.AztecDestructSolidier_name	|	척후병
+214228	|	S.A.EgyptDestructSolidier_name	|	척후병
+215228	|	S.A.RomeDestructSolidier_name	|	척후병
+232228	|	S.M.ChinaDestructSolidier_name	|	척후병
+233228	|	S.M.AztecDestructSolidier_name	|	척후병
+234228	|	S.M.EgyptDestructSolidier_name	|	척후병
+235228	|	S.M.RomeDestructSolidier_name	|	척후병
+252228	|	S.I.ChinaDestructSolidier_name	|	척후병
+253228	|	S.I.AztecDestructSolidier_name	|	척후병
+254228	|	S.I.EgyptDestructSolidier_name	|	척후병
+255228	|	S.I.RomeDestructSolidier_name	|	척후병
+212229	|	ST_A.ChinaGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+213229	|	ST_A.AztecGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+214229	|	ST_A.EgyptGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+215229	|	ST_A.RomeGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+232229	|	ST_M.ChinaGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+233229	|	ST_M.AztecGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+234229	|	ST_M.EgyptGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+235229	|	ST_M.RomeGuard_w2_Knight_Watchtower_name	|	감시탑 초병
+252229	|	ST_I.ChinaTurretGuard1_name	|	포탑 초병
+253229	|	ST_I.AztecTurretGuard1_name	|	포탑 초병
+254229	|	ST_I.EgyptTurretGuard1_name	|	포탑 초병
+255229	|	ST_I.RomeTurretGuard1_name	|	포탑 초병
+212230	|	A.ChinaGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+213230	|	A.AztecGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+214230	|	A.EgyptGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+215230	|	A.RomeGuard_w2_Crossbow_Watchtower_name	|	감시탑 주술사
+232230	|	M.ChinaGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+233230	|	M.AztecGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+234230	|	M.EgyptGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+235230	|	M.RomeGuard_w2_Crossbow_Watchtower_name	|	감시탑 궁수
+212227	|	A.ChinaOutpostGuard1_name	|	전초기지 경비병
+213227	|	A.AztecOutpostGuard1_name	|	전초기지 경비병
+214227	|	A.EgyptOutpostGuard1_name	|	전초기지 경비병
+215227	|	A.RomeOutpostGuard1_name	|	전초기지 경비병
+232227	|	M.ChinaOutpostGuard1_name	|	전초기지 경비병
+233227	|	M.AztecOutpostGuard1_name	|	전초기지 경비병
+234227	|	M.EgyptOutpostGuard1_name	|	전초기지 경비병
+235227	|	M.RomeOutpostGuard1_name	|	전초기지 경비병
+4000650	|	BC_All_n1_PiratesSnowChaser_name	|	해적 소몰이꾼
+4000651	|	BC_All_n1_PiratesFarmmanager_name	|	해적 사육사
+4000652	|	BC_M_n1_PiratesSnowChaser_name	|	해적 소몰이꾼
+4000653	|	BC_M_n1_PiratesFarmmanager_name	|	해적 사육사
+4000654	|	BC_I_n1_PiratesSnowChaser_name	|	해적 소몰이꾼
+4000655	|	BC_I_n1_PiratesFarmmanager_name	|	해적 사육사
+262019	|	Mo.ChinaNuclear_Guide_name	|	핵미사일 엔지니어
+263019	|	Mo.AztecNuclear_Guide_name	|	핵미사일 엔지니어
+264019	|	Mo.EgyptNuclear_Guide_name	|	핵미사일 엔지니어
+265019	|	Mo.RomeNuclear_Guide_name	|	핵미사일 엔지니어

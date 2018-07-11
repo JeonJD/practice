@@ -1,0 +1,348 @@
+10101	|	WarBear1	|	전투불곰
+10102	|	WarBear2	|	전투불곰
+10103	|	WarBear3	|	전투불곰
+10105	|	WarBear4	|	전투불곰
+10106	|	WarBear1_Az	|	전투불곰
+10107	|	WarBear2_Az	|	전투불곰
+10108	|	WarBear3_Az	|	전투불곰
+10109	|	WarBear4_Az	|	전투불곰
+10111	|	WarBear5	|	전투불곰
+10112	|	WarBear5_Az	|	전투불곰
+10113	|	WarBear_cheerup	|	결사대 전투불곰
+10201	|	WarElephant1	|	전투코끼리
+10202	|	WarElephant2	|	전투코끼리
+10203	|	WarElephant3	|	전투코끼리
+10204	|	WarElephant4	|	전투코끼리
+10206	|	WarElephant5	|	전투코끼리
+10210	|	WarElephant_cam1	|	침략군 정예 전투코끼리
+10401	|	Drum1	|	북
+10402	|	Drum2	|	북
+10403	|	Drum3	|	북
+10404	|	Drum4	|	북
+10405	|	Drum5	|	북
+10501	|	Raft1	|	뗏목
+10502	|	Raft2	|	뗏목
+10503	|	Raft3	|	뗏목
+10504	|	Raft4	|	뗏목
+10505	|	Raft5	|	뗏목
+20101	|	Donkey1	|	당나귀
+20102	|	Donkey2	|	당나귀
+20103	|	Donkey3	|	당나귀
+20104	|	Donkey4	|	당나귀
+20105	|	Donkey5	|	당나귀
+20201	|	Camel1	|	낙타
+20202	|	Camel2	|	낙타
+20203	|	Camel3	|	낙타
+20204	|	Camel4	|	낙타
+20205	|	Camel5	|	낙타
+20301	|	Chariot1	|	전차
+20302	|	Chariot2	|	전차
+20303	|	Chariot3	|	전차
+20304	|	Chariot4	|	전차
+20305	|	Chariot1_Eg	|	전차
+20306	|	Chariot2_Eg	|	전차
+20307	|	Chariot3_Eg	|	전차
+20308	|	Chariot4_Eg	|	전차
+20309	|	Chariot5	|	전차
+20310	|	Chariot5_Eg	|	전차
+20401	|	GiantMammoth	|	마수 베히모스
+30101	|	Saddle1	|	질주마
+30102	|	Saddle2	|	질주마
+30103	|	Saddle3	|	질주마
+30104	|	Saddle4	|	질주마
+30105	|	Saddle5	|	질주마
+30110	|	Saddle_Xmas	|	메리 질주마
+30201	|	Carriage1	|	마차
+30202	|	Carriage2	|	마차
+30203	|	Carriage3	|	마차
+30204	|	Carriage4	|	마차
+30205	|	Carriage5	|	마차
+30210	|	Carriage_Xmas	|	징글벨 썰매
+30301	|	ArmoredHorse1_Ch	|	창기마
+30302	|	ArmoredHorse2_Ch	|	창기마
+30303	|	ArmoredHorse3_Ch	|	창기마
+30304	|	ArmoredHorse4_Ch	|	창기마
+30305	|	ArmoredHorse1_Ro_Sp	|	창기마
+30306	|	ArmoredHorse2_Ro_Sp	|	창기마
+30307	|	ArmoredHorse3_Ro_Sp	|	창기마
+30308	|	ArmoredHorse4_Ro_Sp	|	창기마
+30309	|	ArmoredHorse1_Eg	|	창기마
+30310	|	ArmoredHorse2_Eg	|	창기마
+30311	|	ArmoredHorse3_Eg	|	창기마
+30312	|	ArmoredHorse4_Eg	|	창기마
+30313	|	ArmoredHorse1_Az	|	창기마
+30314	|	ArmoredHorse2_Az	|	창기마
+30315	|	ArmoredHorse3_Az	|	창기마
+30316	|	ArmoredHorse4_Az	|	창기마
+30317	|	ArmoredHorse2_Ba	|	창기마
+30322	|	ArmoredHorse5_Ch	|	창기마
+30323	|	ArmoredHorse5_Ro_Sp	|	창기마
+30324	|	ArmoredHorse5_Eg	|	창기마
+30325	|	ArmoredHorse5_Az	|	창기마
+30326	|	LegendaryArmoredHorse1	|	전설의 창기마
+30327	|	LegendaryArmoredHorse2	|	전설의 창기마
+30328	|	LegendaryArmoredHorse3	|	전설의 창기마
+30329	|	ArmoredHorse1_Ro	|	창기마
+30330	|	ArmoredHorse2_Ro	|	창기마
+30331	|	ArmoredHorse3_Ro	|	창기마
+30332	|	ArmoredHorse4_Ro	|	창기마
+30333	|	ArmoredHorse5_Ro	|	창기마
+30401	|	Ballista1	|	발리스타
+30402	|	Ballista2	|	발리스타
+30403	|	Ballista3	|	발리스타
+30405	|	Ballista4	|	발리스타
+30404	|	Ballista_Housing	|	방어용 발리스타
+30406	|	Ballista5	|	발리스타
+30501	|	Batteringram1	|	충차
+30502	|	Batteringram2	|	충차
+30503	|	Batteringram3	|	충차
+30504	|	Batteringram4	|	충차
+30505	|	Batteringram5	|	충차
+30601	|	Catapult1	|	투석기
+30602	|	Catapult2	|	투석기
+30603	|	Catapult3	|	투석기
+30604	|	Catapult4	|	투석기
+30605	|	Catapult5	|	투석기
+30606	|	Catapult_cheerup	|	결사대 투석기
+30701	|	CargoShip1	|	화물선
+30702	|	CargoShip2	|	화물선
+30703	|	CargoShip3	|	화물선
+30704	|	CargoShip4	|	화물선
+30705	|	CargoShip5	|	화물선
+30801	|	Violone1	|	비올로네
+30802	|	Violone2	|	비올로네
+30803	|	Violone3	|	비올로네
+30804	|	Violone4	|	비올로네
+30805	|	Violone5	|	비올로네
+30901	|	SiegeBallista	|	지크프리트 공성전차
+40101	|	DragoonHorse1_Ch	|	용기마
+40102	|	DragoonHorse2_Ch	|	용기마
+40103	|	DragoonHorse3_Ch	|	용기마
+40104	|	DragoonHorse4_Ch	|	용기마
+40105	|	DragoonHorse1_Ro	|	용기마
+40106	|	DragoonHorse2_Ro	|	용기마
+40107	|	DragoonHorse3_Ro	|	용기마
+40108	|	DragoonHorse4_Ro	|	용기마
+40109	|	DragoonHorse1_Eg	|	용기마
+40110	|	DragoonHorse2_Eg	|	용기마
+40111	|	DragoonHorse3_Eg	|	용기마
+40112	|	DragoonHorse4_Eg	|	용기마
+40113	|	DragoonHorse1_Az	|	용기마
+40114	|	DragoonHorse2_Az	|	용기마
+40115	|	DragoonHorse3_Az	|	용기마
+40116	|	DragoonHorse4_Az	|	용기마
+40117	|	DragoonHorse5_Ch	|	용기마
+40118	|	DragoonHorse5_Ro	|	용기마
+40119	|	DragoonHorse5_Eg	|	용기마
+40120	|	DragoonHorse5_Az	|	용기마
+40121	|	LegendaryDragoonHorse1	|	전설의 용기마
+40122	|	LegendaryDragoonHorse2	|	전설의 용기마
+40123	|	LegendaryDragoonHorse3	|	전설의 용기마
+40201	|	RepeatingBallista1	|	연노
+40202	|	RepeatingBallista2	|	연노
+40203	|	RepeatingBallista3	|	연노
+40204	|	RepeatingBallista4	|	연노
+40205	|	RepeatingBallista1_Ch	|	연노
+40206	|	RepeatingBallista2_Ch	|	연노
+40207	|	RepeatingBallista3_Ch	|	연노
+40208	|	RepeatingBallista4_Ch	|	연노
+40209	|	RepeatingBallista5	|	연노
+40210	|	RepeatingBallista5_Ch	|	연노
+40211	|	LegendaryRepeatingBallista1	|	전설의 연노
+40212	|	LegendaryRepeatingBallista2	|	전설의 연노
+40213	|	LegendaryRepeatingBallista3	|	전설의 연노
+40214	|	RepeatingBallista_cheerup	|	결사대 연노
+40301	|	Cannon1	|	대포
+40302	|	Cannon2	|	대포
+40303	|	Cannon3	|	대포
+40305	|	Cannon4	|	대포
+40304	|	Cannon_Housing	|	방어용 대포
+40306	|	Cannon5	|	대포
+40307	|	Cannon_cheerup	|	결사대 대포
+40401	|	VinciTank1	|	다빈치탱크
+40402	|	VinciTank2	|	다빈치탱크
+40403	|	VinciTank3	|	다빈치탱크
+40404	|	VinciTank4	|	다빈치탱크
+40406	|	VinciTank5	|	다빈치탱크
+40501	|	Airship1	|	열기구
+40502	|	Airship2	|	열기구
+40503	|	Airship3	|	열기구
+40504	|	Airship4	|	열기구
+40505	|	Airship5	|	열기구
+40601	|	Frigate1	|	범선
+40602	|	Frigate2	|	범선
+40603	|	Frigate3	|	범선
+40604	|	Frigate4	|	범선
+40605	|	Frigate5	|	범선
+40701	|	FlyingWarship	|	힌덴부르크 비공선
+50101	|	Motorcycle1	|	모터사이클
+50102	|	Motorcycle2	|	모터사이클
+50103	|	Motorcycle3	|	모터사이클
+50104	|	Motorcycle4	|	모터사이클
+50105	|	Motorcycle5	|	모터사이클
+50201	|	CargoTruck1	|	화물트럭
+50202	|	CargoTruck2	|	화물트럭
+50203	|	CargoTruck3	|	화물트럭
+50204	|	CargoTruck4	|	화물트럭
+50205	|	CargoTruck5	|	화물트럭
+50901	|	TroopsTruck1	|	병력수송트럭
+50902	|	TroopsTruck2	|	병력수송트럭
+50903	|	TroopsTruck3	|	병력수송트럭
+50904	|	TroopsTruck4	|	병력수송트럭
+50905	|	TroopsTruck5	|	병력수송트럭
+50301	|	Sidecar1	|	사이드카
+50302	|	Sidecar2	|	사이드카
+50303	|	Sidecar3	|	사이드카
+50304	|	Sidecar4	|	사이드카
+50305	|	Sidecar5	|	사이드카
+50401	|	MachineGun1	|	기관총
+50402	|	MachineGun2	|	기관총
+50403	|	MachineGun3	|	기관총
+50404	|	MachineGun4	|	기관총
+50405	|	MachineGun5	|	기관총
+50406	|	MachineGun_Housing	|	방어용 기관총
+50407	|	MachineGun_cheerup	|	결사대 기관총
+50501	|	Tank1	|	탱크
+50502	|	Tank2	|	탱크
+50503	|	Tank3	|	탱크
+50504	|	Tank4	|	탱크
+50505	|	Tank5	|	탱크
+50601	|	MRLtruck1	|	방사포트럭
+50602	|	MRLtruck2	|	방사포트럭
+50603	|	MRLtruck3	|	방사포트럭
+50604	|	MRLtruck4	|	방사포트럭
+50605	|	MRLtruck5	|	방사포트럭
+50701	|	Zeppelin1	|	체펠린
+50702	|	Zeppelin2	|	체펠린
+50703	|	Zeppelin3	|	체펠린
+50704	|	Zeppelin4	|	체펠린
+50705	|	Zeppelin5	|	체펠린
+50801	|	BattleShip1	|	전함
+50802	|	BattleShip2	|	전함
+50803	|	BattleShip3	|	전함
+50804	|	BattleShip4	|	전함
+50805	|	BattleShip5	|	전함
+51001	|	SelfPropelledGun1	|	자주포
+51002	|	SelfPropelledGun2	|	자주포
+51003	|	SelfPropelledGun3	|	자주포
+51004	|	SelfPropelledGun4	|	자주포
+51005	|	SelfPropelledGun5	|	자주포
+51201	|	GiantTank	|	랜드크루저 탱크
+60101	|	RacerBike1	|	레이서 바이크
+60102	|	RacerBike2	|	레이서 바이크
+60103	|	RacerBike3	|	레이서 바이크
+60104	|	RacerBike4	|	레이서 바이크
+60105	|	RacerBike5	|	레이서 바이크
+60201	|	CargoLandship1	|	화물장갑차
+60202	|	CargoLandship2	|	화물장갑차
+60203	|	CargoLandship3	|	화물장갑차
+60204	|	CargoLandship4	|	화물장갑차
+60205	|	CargoLandship5	|	화물장갑차
+60301	|	MainBattleTank1	|	주력탱크
+60302	|	MainBattleTank2	|	주력탱크
+60303	|	MainBattleTank3	|	주력탱크
+60304	|	MainBattleTank4	|	주력탱크
+60305	|	MainBattleTank5	|	주력탱크
+60401	|	MLRS1	|	다련장로켓포
+60402	|	MLRS2	|	다련장로켓포
+60403	|	MLRS3	|	다련장로켓포
+60404	|	MLRS4	|	다련장로켓포
+60405	|	MLRS5	|	다련장로켓포
+60501	|	AttackHelicopter1	|	전투헬리콥터
+60502	|	AttackHelicopter2	|	전투헬리콥터
+60503	|	AttackHelicopter3	|	전투헬리콥터
+60504	|	AttackHelicopter4	|	전투헬리콥터
+60505	|	AttackHelicopter5	|	전투헬리콥터
+60601	|	SpaceshipCockpit	|	우주선 조종부
+60602	|	SpaceshipEngine	|	우주선 엔진
+60603	|	SpaceshipStasischamber	|	우주선 동면장치
+60604	|	SpaceshipBooster	|	우주선 추진기
+60901	|	ModernBattleShip1	|	구축함
+60902	|	ModernBattleShip2	|	구축함
+60903	|	ModernBattleShip3	|	구축함
+60904	|	ModernBattleShip4	|	구축함
+60905	|	ModernBattleShip5	|	구축함
+1030601	|	SteelSkinPAZ	|	강철가죽 파즈
+90102	|	A_BarbarianWarBear	|	도적단 전투불곰
+90103	|	A_BarbarianWarBear	|	도적단 전투불곰
+90104	|	A_BarbarianWarBear	|	도적단 전투불곰
+90105	|	A_BarbarianWarBear	|	도적단 전투불곰
+90106	|	A_BarbarianWarBear	|	도적단 전투불곰
+90107	|	SBBarbarianWarBear	|	혁명군 전투불곰
+90108	|	M_BarbarianWarBear	|	혁명군 전투불곰
+90109	|	IN_BarbarianWarBear	|	침략군 전투불곰
+90110	|	M_BarbarianWarBear	|	혁명군 전투불곰
+90111	|	M_BarbarianWarBear	|	혁명군 전투불곰
+90201	|	M_BarbarianRepeatingBallista	|	혁명군 연노
+90202	|	M_BarbarianRepeatingBallista	|	혁명군 연노
+90215	|	I_BarbarianRepeatingBallista	|	반란군 연노
+90216	|	I_BarbarianRepeatingBallista	|	반란군 연노
+90301	|	M_BarbarianLancerHorse	|	혁명군 창기마
+90302	|	M_BarbarianLancerHorse	|	혁명군 창기마
+90303	|	SBBarbarianLancerHorse	|	훈련 장교 창기마
+90304	|	IN_BarbarianLancerHorse	|	침략군 창기마
+90401	|	I_BarbarianMuchineGun	|	반란군 기관총
+90402	|	I_BarbarianMuchineGun	|	반란군 기관총
+90403	|	SBMuchineGun	|	훈련 장교 기관총
+90404	|	IN_BarbarianMuchineGun	|	침략군 기관총
+90501	|	I_BarbarianTank	|	반란군 탱크
+90502	|	I_BarbarianTank	|	반란군 탱크
+90601	|	R_BarbarianDragoonHorse	|	혁명군 용기마
+90602	|	R_BarbarianDragoonHorse	|	혁명군 용기마
+90603	|	R_BarbarianDragoonHorse	|	혁명군 용기마
+90604	|	I_BarbarianDragoonHorse	|	반란군 용기마
+90605	|	IN_BarbarianDragoonHorse	|	침략군 용기마
+90606	|	SBBarbarianDragoonHorse	|	훈련 장교 용기마
+90607	|	I_BarbarianDragoonHorse	|	반란군 용기마
+90608	|	I_BarbarianDragoonHorse	|	반란군 용기마
+90801	|	FestivalNPCViolone	|	선지자의 비올로네
+90701	|	M_BarbarianWarElephant	|	혁명군 전투코끼리
+60701	|	NuclearBag	|	핵가방
+10151	|	PolarBear1	|	북극곰
+10152	|	PolarBear2	|	북극곰
+10153	|	PolarBear3	|	북극곰
+10251	|	EliteWarElephant1	|	정예 전투코끼리
+10252	|	EliteWarElephant2	|	정예 전투코끼리
+10253	|	EliteWarElephant3	|	정예 전투코끼리
+40451	|	VinciTankPrototype1	|	다빈치탱크 프로토타입
+40452	|	VinciTankPrototype2	|	다빈치탱크 프로토타입
+40453	|	VinciTankPrototype3	|	다빈치탱크 프로토타입
+77701	|	tutoWarElephant	|	전투코끼리
+77702	|	tutoWarElephant2	|	전투코끼리
+77704	|	tutoWarElephant2	|	전투코끼리
+90101	|	tutoWarBear	|	전투불곰
+90177	|	tutoWarBear	|	전투불곰
+10104	|	WarBear1	|	전투불곰
+77703	|	Catapult1	|	투석기
+777032	|	tutoCatapult	|	투석기
+777033	|	tutoCatapult	|	투석기
+777034	|	tutoCatapult	|	투석기
+777035	|	tutoCatapult	|	투석기
+777036	|	tutoCatapult	|	투석기
+777037	|	tutoBatteringram1	|	충차
+30318	|	ArmoredHorse1_Tuto_Ch	|	창기마
+30319	|	ArmoredHorse1_Tuto_Ro	|	창기마
+30320	|	ArmoredHorse1_Tuto_Eg	|	창기마
+30321	|	ArmoredHorse1_Tuto_Az	|	창기마
+303181	|	ArmoredHorse1_Tuto_Ch	|	창기마
+303191	|	ArmoredHorse1_Tuto_Az	|	창기마
+303201	|	ArmoredHorse1_Tuto_Eg	|	창기마
+303211	|	ArmoredHorse1_Tuto_Ro	|	창기마
+303122	|	ArmoredHorse1_Tuto_Ch	|	창기마
+303123	|	ArmoredHorse1_Tuto_Ch	|	창기마
+303124	|	ArmoredHorse1_Tuto_Ch	|	창기마
+303125	|	ArmoredHorse1_Tuto_Ch	|	창기마
+303132	|	ArmoredHorse1_Tuto_Az	|	창기마
+303133	|	ArmoredHorse1_Tuto_Az	|	창기마
+303134	|	ArmoredHorse1_Tuto_Az	|	창기마
+303135	|	ArmoredHorse1_Tuto_Az	|	창기마
+303142	|	ArmoredHorse1_Tuto_Eg	|	창기마
+303143	|	ArmoredHorse1_Tuto_Eg	|	창기마
+303144	|	ArmoredHorse1_Tuto_Eg	|	창기마
+303145	|	ArmoredHorse1_Tuto_Eg	|	창기마
+303152	|	ArmoredHorse1_Tuto_Ro	|	창기마
+303153	|	ArmoredHorse1_Tuto_Ro	|	창기마
+303154	|	ArmoredHorse1_Tuto_Ro	|	창기마
+303155	|	ArmoredHorse1_Tuto_Ro	|	창기마
+904011	|	I_BarbarianMuchineGun	|	반란군 기관총
+90203	|	M_BarbarianRepeatingBallista	|	혁명군 연노
