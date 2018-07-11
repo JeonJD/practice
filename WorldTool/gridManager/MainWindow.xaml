@@ -1,0 +1,186 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="GridManager.MainWindow"
+        Title="GRIdMAnager" Loaded="MainWindow_Loaded" Height="1080" Width="1920" WindowStartupLocation="CenterScreen" WindowState="Maximized" MinWidth="1920" MinHeight="1080" KeyDown="Window_KeyDown">
+    <Grid x:Name="ViewPortContainer" Margin="0,10,0,0" Width="1910" HorizontalAlignment="Left" VerticalAlignment="Top" Height="1039">
+        <Border Margin="10,120,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1352" Height="910" BorderBrush="Black" BorderThickness="2" >
+            <ScrollViewer x:Name="scvMapViewport" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" PreviewMouseWheel="scvMapViewport_PreviewMouseWheel" BorderThickness="2" Foreground="{x:Null}" UseLayoutRounding="True">
+                <ScrollViewer.BorderBrush>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveCaptionTextColorKey}}"/>
+                </ScrollViewer.BorderBrush>
+                <Grid Margin="0" ScrollViewer.VerticalScrollBarVisibility="Disabled" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image x:Name="imgMapViewportGrid" UseLayoutRounding="False" Cursor="UpArrow" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.IsSharedSizeScope="True" Stretch="None" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" VerticalAlignment="Top">
+                        <Image.LayoutTransform>
+                            <TransformGroup>
+                                <ScaleTransform x:Name="imgMapViewportGridScaleTransform" />
+                            </TransformGroup>
+                        </Image.LayoutTransform>
+                    </Image>
+                    <Image x:Name="imgMapViewportOverlay" UseLayoutRounding="False" Cursor="UpArrow" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.IsSharedSizeScope="True" Stretch="None" ScrollViewer.VerticalScrollBarVisibility="Auto" Opacity="0.5" Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top">
+                        <Image.LayoutTransform>
+                            <TransformGroup>
+                                <ScaleTransform x:Name="imgMapViewportOverlayScaleTransform" />
+                            </TransformGroup>
+                        </Image.LayoutTransform>
+                    </Image>
+                    <Image x:Name="imgMapViewportSelected" UseLayoutRounding="False" Cursor="UpArrow" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.IsSharedSizeScope="True" MouseMove="imgMapViewportSelected_MouseMove" Stretch="None" ScrollViewer.VerticalScrollBarVisibility="Auto" Opacity="0.5" HorizontalAlignment="Left" VerticalAlignment="Top" MouseDown="imgMapViewportSelected_MouseDown">
+                        <Image.LayoutTransform>
+                            <TransformGroup>
+                                <ScaleTransform x:Name="imgMapViewportSelectedScaleTransform" />
+                            </TransformGroup>
+                        </Image.LayoutTransform>
+                    </Image>
+                </Grid>
+            </ScrollViewer>
+        </Border>
+        <Button x:Name="btShowMap" HorizontalAlignment="Left" VerticalAlignment="Top" Width="95" Margin="558,0,0,0" Height="107" Click="btShowMap_Click">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Show Map"/><LineBreak/><Run Text=""/></TextBlock>
+        </Button>
+        <Button x:Name="btSaveMap" HorizontalAlignment="Left" VerticalAlignment="Top" Width="95" Margin="653,0,0,0" Height="107" Click="btSaveMap_Click">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Save Map"/><LineBreak/><Run Text="(Ctrl + S)"/></TextBlock>
+        </Button>
+        <Border Margin="10,55,0,0" BorderBrush="Black" BorderThickness="1" CornerRadius="3" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="141*"/>
+                    <ColumnDefinition Width="395*"/>
+                </Grid.ColumnDefinitions>
+                <ComboBox x:Name="cbShowGridInfoByColorRectangle" SelectedIndex="0" IsReadOnly="True" SelectionChanged="cbShowGridInfoByColorRectangle_SelectionChanged" Margin="0" Padding="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Height="20" VerticalContentAlignment="Center">
+                    <ListBoxItem Content="None"/>
+                    <ListBoxItem Content="LandformType"/>
+                    <ListBoxItem Content="ProvinceId"/>
+                    <ListBoxItem Content="TimeOfDayFileIdx"/>
+                    <ListBoxItem Content="BrickNameIdx"/>
+                    <ListBoxItem Content="ConstructionForbid"/>
+                    <ListBoxItem Content="CityAreaExpandLevel"/>
+                </ComboBox>
+                <GroupBox Grid.Column="1" Header="Entity" HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="395" FontSize="8">
+                    <WrapPanel HorizontalAlignment="Left" Margin="0" VerticalAlignment="Top">
+                        <CheckBox x:Name="chbDoodad" Content="Doodad" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbDoodad_Click" Foreground="Red"/>
+                        <CheckBox x:Name="chbDoodadSpawner" Content="DoodadSpawner" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbDoodadSpawner_Click" Foreground="Orange"/>
+                        <CheckBox x:Name="chbGathering" Content="Gathering" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbGathering_Click" Foreground="Gold"/>
+                        <CheckBox x:Name="chbHousing" Content="Housing" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbHousing_Click" Foreground="GreenYellow"/>
+                        <CheckBox x:Name="chbHousingSpawner" Content="HousingSpawner" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbHousingSpawner_Click" Foreground="Green"/>
+                        <CheckBox x:Name="chbNpcSpawner" Content="NpcSpawner" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbNpcSpawner_Click" Foreground="Blue"/>
+                        <CheckBox x:Name="chbResourceSpawner" Content="ResourceSpawner" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbResourceSpawner_Click" Foreground="#FF770055"/>
+                        <CheckBox x:Name="chbSpawnpoint" Content="Spawnpoint" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Padding="0" BorderThickness="1" Height="15" VerticalContentAlignment="Bottom" FontSize="10" Click="chbSpawnpoint_Click" Foreground="#FFFF0066"/>
+                    </WrapPanel>
+                </GroupBox>
+            </Grid>
+        </Border>
+        <Canvas Margin="764,0,0,0" Height="107" Width="600" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Rectangle HorizontalAlignment="Left" Height="107" Stroke="Black" VerticalAlignment="Top" Width="600" StrokeThickness="2"/>
+            <Label x:Name="lbInfo" Content="그리드 상세 정보" HorizontalAlignment="Left" Height="107" VerticalAlignment="Top" Width="200" Background="{x:Null}" OpacityMask="Black" BorderThickness="0"/>
+            <Label x:Name="lbInfo2" Content="" HorizontalAlignment="Left" Height="107" VerticalAlignment="Top" Width="200" Background="{x:Null}" OpacityMask="Black" BorderThickness="0" Canvas.Left="200"/>
+            <Label x:Name="lbInfo3" Content="" HorizontalAlignment="Left" Height="107" VerticalAlignment="Top" Width="200" Background="{x:Null}" OpacityMask="Black" BorderThickness="0" Canvas.Left="400"/>
+        </Canvas>
+        <StackPanel HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="550">
+            <Grid Height="25" Margin="10,0,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30*"/>
+                    <ColumnDefinition Width="105*"/>
+                    <ColumnDefinition Width="12*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Path(grid.xml):" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" Margin="0" Padding="2"/>
+                <TextBox x:Name="tbGridPath" HorizontalAlignment="Left" Height="22" Margin="0" VerticalAlignment="Center" Grid.Column="1" MaxLines="1" Width="380" Background="{x:Null}"/>
+                <Button x:Name="btGridPath" Content="..." HorizontalAlignment="Center" VerticalAlignment="Center" Width="37" Grid.Column="2" Margin="0" Click="btGridPath_Click"/>
+            </Grid>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="550" Margin="0,25,0,0">
+            <Grid Height="25" Margin="10,0,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30*"/>
+                    <ColumnDefinition Width="105*"/>
+                    <ColumnDefinition Width="12*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content=" (entities.xml):" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0" Padding="2" FontStyle="Italic"/>
+                <Label x:Name="lbEntitiesPath" Content="" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="1" Width="380" Height="22" Padding="2" FontStyle="Italic" BorderThickness="1" Background="Transparent" BorderBrush="#FFABADB3" Foreground="#FFABADB3"/>
+            </Grid>
+        </StackPanel>
+        <Border Margin="1377,650,0,0" Width="525" Height="122" HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="Black" BorderThickness="1">
+            <WrapPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbLandformType" Content="landformType" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbLandformType" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbProvince_id" Content="ProvinceID" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbProvince_id" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbConstruction_allow" Content="ConstructionAllow" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbConstruction_allow" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbTimeOfDayFileIdx" Content="timeOfDayFileIdx" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbTimeOfDayFileIdx" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbBrickNameIdx" Content="brickNameIdx" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbBrickNameIdx" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbConstruction_forbid" Content="ConstructionForbid" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbConstruction_forbid" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbzone_id" Content="ZoneId" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbzone_id" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0" Orientation="Horizontal" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30">
+                    <CheckBox x:Name="chbCityAreaExpandLevel" Content="CityAreaExpandLevel" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Width="120" Height="20"/>
+                    <TextBox x:Name="tbCityAreaExpandLevel" Height="20" TextWrapping="Wrap" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </WrapPanel>
+        </Border>
+        <Border Margin="1377,777,0,0" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="252">
+            <WrapPanel Orientation="Vertical" Margin="0">
+                <StackPanel Orientation="Vertical" Width="100">
+                    <Label Content="landformType" BorderBrush="Black" BorderThickness="1" FontWeight="Bold" Height="25" Padding="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                    <ListView x:Name="lvLandformType" Height="222"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" Width="100">
+                    <Label Content="provinceid" BorderBrush="Black" BorderThickness="1" FontWeight="Bold" Height="25" Padding="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                    <ListView x:Name="lvProvince_id" Height="222"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <ListView x:Name="lvWorldSummaryInfo" Height="247" Width="320"/>
+                </StackPanel>
+            </WrapPanel>
+        </Border>
+        <Grid HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="20" Margin="1342,120,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button x:Name="btExpandUp" Content="+" HorizontalAlignment="Center" VerticalAlignment="Center" Width="20" Margin="0" Height="20" Click="btExpandUp_Click"/>
+            <Button x:Name="btExpandDown" Content="-" HorizontalAlignment="Center" VerticalAlignment="Center" Width="20" Margin="0" Height="20" Click="btExpandDown_Click" Grid.Row="1"/>
+        </Grid>
+        <Grid Margin="1377,120,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Label x:Name="lbGridInfoViewer" Height="525" Width="525" Background="{x:Null}" OpacityMask="Black" BorderThickness="1" VerticalAlignment="Top" HorizontalAlignment="Left" Opacity="0.995" FontSize="10">
+                <Label.BorderBrush>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveCaptionTextColorKey}}"/>
+                </Label.BorderBrush>
+                <TabControl x:Name="tcGridInfo" Width="510" Height="510">
+                    <TabItem Header="Entities List">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="dgGridInfo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="500" Height="480" CanUserDeleteRows="False" CanUserAddRows="False" FontSize="12" BeginningEdit="dgGridInfo_BeginningEdit"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="Grid View">
+                        <Grid x:Name="gdGridView" Background="#FFE5E5E5" Width="480" Height="480"/>
+                    </TabItem>
+                </TabControl>
+            </Label>
+            <Button x:Name="btSaveEntities" Content="Save Entities" HorizontalAlignment="Left" Margin="450,0,0,0" VerticalAlignment="Top" Width="75" Click="btSaveEntities_Click" IsEnabled="False"/>
+            <TextBox x:Name="tbGridX" HorizontalAlignment="Left" Height="19" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Margin="135,1,0,0" IsReadOnly="True" Focusable="False" IsTabStop="False" IsHitTestVisible="False"/>
+            <TextBox x:Name="tbGridY" HorizontalAlignment="Left" Height="19" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Margin="185,1,0,0" IsReadOnly="True" Focusable="False" IsTabStop="False" IsHitTestVisible="False"/>
+        </Grid>
+        <Grid Margin="1377,76,236,934">
+            <Button x:Name="btClearSelection" Content="선택취소" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="60" Click="btClearSelection_Click"/>
+            <CheckBox x:Name="chbMapOverlay" Content="맵 겹쳐보기" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="65,0,0,0" Checked="chbMapOverlay_Checked" Unchecked="chbMapOverlay_Unchecked" IsEnabled="False" Height="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <Slider HorizontalAlignment="Left" Margin="149,0,0,0" VerticalAlignment="Top" Height="20" Width="158" Value="0.5" ValueChanged="Slider_ValueChanged" Maximum="1" TickFrequency="0.1"/>
+        </Grid>
+    </Grid>
+</Window>
